@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Fe4Se18
+_chemical_formula_sum              "Fe4 Se18"
+_cell_length_a       8.9694
+_cell_length_b       8.9694
+_cell_length_c       8.36764
+_cell_angle_alpha    85.3395
+_cell_angle_beta     85.3395
+_cell_angle_gamma    96.765
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.43127  0.83275  0.08295  1.0000
+  Fe  Fe2       1.0  0.16725  0.56873  0.41705  1.0000
+  Fe  Fe3       1.0  0.56873  0.16725  0.91705  1.0000
+  Fe  Fe4       1.0  0.83275  0.43127  0.58295  1.0000
+  Se  Se1       1.0  0.37211  0.72282  0.51662  1.0000
+  Se  Se2       1.0  0.27718  0.62789  0.98338  1.0000
+  Se  Se3       1.0  0.63351  0.05321  0.67894  1.0000
+  Se  Se4       1.0  0.94679  0.36649  0.82106  1.0000
+  Se  Se5       1.0  0.36649  0.94679  0.32106  1.0000
+  Se  Se6       1.0  0.05321  0.63351  0.17894  1.0000
+  Se  Se7       1.0  0.21710  0.35897  0.59992  1.0000
+  Se  Se8       1.0  0.64103  0.78290  0.90008  1.0000
+  Se  Se9       1.0  0.78290  0.64103  0.40008  1.0000
+  Se  Se10      1.0  0.35897  0.21710  0.09992  1.0000
+  Se  Se11      1.0  0.02493  0.32561  0.42709  1.0000
+  Se  Se12      1.0  0.67439  0.97507  0.07291  1.0000
+  Se  Se13      1.0  0.97507  0.67439  0.57291  1.0000
+  Se  Se14      1.0  0.32561  0.02493  0.92709  1.0000
+  Se  Se15      1.0  0.72282  0.37211  0.01662  1.0000
+  Se  Se16      1.0  0.62789  0.27718  0.48338  1.0000
+  Se  Se17      1.0  0.40276  0.59724  0.25000  1.0000
+  Se  Se18      1.0  0.59724  0.40276  0.75000  1.0000

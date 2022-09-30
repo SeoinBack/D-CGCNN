@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Tl8Cu4
+_chemical_formula_sum              "Tl8 Cu4"
+_cell_length_a       9.37034
+_cell_length_b       4.71279
+_cell_length_c       8.09283
+_cell_angle_alpha    55.5331
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.37417  0.26207  0.26648  1.0000
+  Tl  Tl2       1.0  0.62583  0.26207  0.76648  1.0000
+  Tl  Tl3       1.0  0.37481  0.75856  0.76656  1.0000
+  Tl  Tl4       1.0  0.87351  0.26964  0.26127  1.0000
+  Tl  Tl5       1.0  0.62519  0.75856  0.26656  1.0000
+  Tl  Tl6       1.0  0.12649  0.26964  0.76127  1.0000
+  Tl  Tl7       1.0  0.87544  0.76528  0.76113  1.0000
+  Tl  Tl8       1.0  0.12456  0.76528  0.26113  1.0000
+  Cu  Cu1       1.0  0.37586  0.01054  0.01573  1.0000
+  Cu  Cu2       1.0  0.62414  0.01054  0.51573  1.0000
+  Cu  Cu3       1.0  0.87580  0.01720  0.01213  1.0000
+  Cu  Cu4       1.0  0.12420  0.01720  0.51213  1.0000

@@ -1,0 +1,51 @@
+data_image0
+_chemical_formula_structural       Pd6Hg20
+_chemical_formula_sum              "Pd6 Hg20"
+_cell_length_a       7.93125
+_cell_length_b       5.42663
+_cell_length_c       19.6002
+_cell_angle_alpha    89.8502
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.06705  0.01044  0.99950  1.0000
+  Pd  Pd2       1.0  0.04768  0.00860  0.28165  1.0000
+  Pd  Pd3       1.0  0.46944  0.02054  0.13694  1.0000
+  Pd  Pd4       1.0  0.93295  0.01044  0.49950  1.0000
+  Pd  Pd5       1.0  0.95232  0.00860  0.78165  1.0000
+  Pd  Pd6       1.0  0.53056  0.02054  0.63694  1.0000
+  Hg  Hg1       1.0  0.76183  0.01539  0.06152  1.0000
+  Hg  Hg2       1.0  0.23817  0.01539  0.56152  1.0000
+  Hg  Hg3       1.0  0.74604  0.01767  0.21882  1.0000
+  Hg  Hg4       1.0  0.39239  0.02389  0.27447  1.0000
+  Hg  Hg5       1.0  0.20588  0.01950  0.40780  1.0000
+  Hg  Hg6       1.0  0.25396  0.01767  0.71882  1.0000
+  Hg  Hg7       1.0  0.60761  0.02389  0.77447  1.0000
+  Hg  Hg8       1.0  0.79412  0.01950  0.90780  1.0000
+  Hg  Hg9       1.0  0.41556  0.03087  0.99867  1.0000
+  Hg  Hg10      1.0  0.58444  0.03087  0.49867  1.0000
+  Hg  Hg11      1.0  0.03978  0.50863  0.28207  1.0000
+  Hg  Hg12      1.0  0.48966  0.52036  0.13821  1.0000
+  Hg  Hg13      1.0  0.94037  0.51063  0.50160  1.0000
+  Hg  Hg14      1.0  0.96022  0.50863  0.78207  1.0000
+  Hg  Hg15      1.0  0.51034  0.52036  0.63821  1.0000
+  Hg  Hg16      1.0  0.05963  0.51063  0.00160  1.0000
+  Hg  Hg17      1.0  0.11466  0.99467  0.14093  1.0000
+  Hg  Hg18      1.0  0.88534  0.99467  0.64093  1.0000
+  Hg  Hg19      1.0  0.77667  0.00707  0.37172  1.0000
+  Hg  Hg20      1.0  0.22333  0.00707  0.87172  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       I8Rh4
+_chemical_formula_sum              "I8 Rh4"
+_cell_length_a       9.15144
+_cell_length_b       5.48566
+_cell_length_c       9.61895
+_cell_angle_alpha    54.9491
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.41711  0.16345  0.36494  1.0000
+  I   I2        1.0  0.58289  0.16345  0.86494  1.0000
+  I   I3        1.0  0.30593  0.62524  0.90187  1.0000
+  I   I4        1.0  0.80578  0.40245  0.12583  1.0000
+  I   I5        1.0  0.69407  0.62524  0.40187  1.0000
+  I   I6        1.0  0.19422  0.40245  0.62583  1.0000
+  I   I7        1.0  0.91727  0.86396  0.66296  1.0000
+  I   I8        1.0  0.08273  0.86396  0.16296  1.0000
+  Rh  Rh1       1.0  0.29988  0.08838  0.93972  1.0000
+  Rh  Rh2       1.0  0.70012  0.08838  0.43972  1.0000
+  Rh  Rh3       1.0  0.80005  0.93982  0.08798  1.0000
+  Rh  Rh4       1.0  0.19995  0.93982  0.58798  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Cu4F16
+_chemical_formula_sum              "Cu4 F16"
+_cell_length_a       3.83844
+_cell_length_b       5.0963
+_cell_length_c       13.7102
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.25000  0.79139  0.84302  1.0000
+  Cu  Cu2       1.0  0.25000  0.29139  0.65698  1.0000
+  Cu  Cu3       1.0  0.75000  0.70861  0.34302  1.0000
+  Cu  Cu4       1.0  0.75000  0.20861  0.15698  1.0000
+  F   F1        1.0  0.25000  0.08340  0.91137  1.0000
+  F   F2        1.0  0.25000  0.20998  0.16099  1.0000
+  F   F3        1.0  0.25000  0.10483  0.54744  1.0000
+  F   F4        1.0  0.75000  0.29002  0.66099  1.0000
+  F   F5        1.0  0.75000  0.41660  0.41137  1.0000
+  F   F6        1.0  0.25000  0.58340  0.58863  1.0000
+  F   F7        1.0  0.75000  0.89517  0.45256  1.0000
+  F   F8        1.0  0.25000  0.60483  0.95256  1.0000
+  F   F9        1.0  0.75000  0.53835  0.22124  1.0000
+  F   F10       1.0  0.25000  0.46165  0.77876  1.0000
+  F   F11       1.0  0.75000  0.79002  0.83901  1.0000
+  F   F12       1.0  0.75000  0.39517  0.04744  1.0000
+  F   F13       1.0  0.25000  0.70998  0.33901  1.0000
+  F   F14       1.0  0.25000  0.96165  0.72124  1.0000
+  F   F15       1.0  0.75000  0.91660  0.08863  1.0000
+  F   F16       1.0  0.75000  0.03835  0.27876  1.0000

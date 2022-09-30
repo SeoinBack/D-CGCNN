@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Cd9Hg5
+_chemical_formula_sum              "Cd9 Hg5"
+_cell_length_a       7.13481
+_cell_length_b       7.13481
+_cell_length_c       8.28536
+_cell_angle_alpha    68.6711
+_cell_angle_beta     68.6711
+_cell_angle_gamma    71.3413
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.41774  0.17966  0.30062  1.0000
+  Cd  Cd2       1.0  0.82034  0.58226  0.69938  1.0000
+  Cd  Cd3       1.0  0.21769  0.99158  0.09655  1.0000
+  Cd  Cd4       1.0  0.04492  0.56519  0.30629  1.0000
+  Cd  Cd5       1.0  0.43481  0.95508  0.69371  1.0000
+  Cd  Cd6       1.0  0.61267  0.38733  0.50000  1.0000
+  Cd  Cd7       1.0  0.00842  0.78231  0.90345  1.0000
+  Cd  Cd8       1.0  0.84225  0.35733  0.10086  1.0000
+  Cd  Cd9       1.0  0.64267  0.15775  0.89914  1.0000
+  Hg  Hg1       1.0  0.03403  0.15493  0.59315  1.0000
+  Hg  Hg2       1.0  0.42802  0.57198  0.00000  1.0000
+  Hg  Hg3       1.0  0.84507  0.96597  0.40685  1.0000
+  Hg  Hg4       1.0  0.22827  0.39490  0.78294  1.0000
+  Hg  Hg5       1.0  0.60510  0.77173  0.21706  1.0000

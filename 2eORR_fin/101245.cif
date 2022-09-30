@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cd4Se12
+_chemical_formula_sum              "Cd4 Se12"
+_cell_length_a       12.1896
+_cell_length_b       12.1896
+_cell_length_c       3.93676
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    125.705
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.66522  0.33478  0.00000  1.0000
+  Cd  Cd2       1.0  0.33478  0.66522  0.00000  1.0000
+  Cd  Cd3       1.0  0.16522  0.83478  0.50000  1.0000
+  Cd  Cd4       1.0  0.83478  0.16522  0.50000  1.0000
+  Se  Se1       1.0  0.66926  0.66926  0.24317  1.0000
+  Se  Se2       1.0  0.16926  0.16926  0.25683  1.0000
+  Se  Se3       1.0  0.83074  0.83074  0.74317  1.0000
+  Se  Se4       1.0  0.42064  0.57936  0.50000  1.0000
+  Se  Se5       1.0  0.90838  0.40838  0.75000  1.0000
+  Se  Se6       1.0  0.92064  0.07936  0.00000  1.0000
+  Se  Se7       1.0  0.09162  0.59162  0.25000  1.0000
+  Se  Se8       1.0  0.33074  0.33074  0.75683  1.0000
+  Se  Se9       1.0  0.57936  0.42064  0.50000  1.0000
+  Se  Se10      1.0  0.07936  0.92064  0.00000  1.0000
+  Se  Se11      1.0  0.59162  0.09162  0.25000  1.0000
+  Se  Se12      1.0  0.40838  0.90838  0.75000  1.0000

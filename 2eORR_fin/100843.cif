@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cd10C6
+_chemical_formula_sum              "Cd10 C6"
+_cell_length_a       7.19802
+_cell_length_b       7.19802
+_cell_length_c       7.19802
+_cell_angle_alpha    100.881
+_cell_angle_beta     100.881
+_cell_angle_gamma    128.497
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.57971  0.29507  0.87478  1.0000
+  Cd  Cd2       1.0  0.42029  0.70493  0.12522  1.0000
+  Cd  Cd3       1.0  0.70493  0.57971  0.28463  1.0000
+  Cd  Cd4       1.0  0.29507  0.42029  0.71537  1.0000
+  Cd  Cd5       1.0  0.92029  0.79507  0.71537  1.0000
+  Cd  Cd6       1.0  0.20493  0.92029  0.12522  1.0000
+  Cd  Cd7       1.0  0.25000  0.75000  0.50000  1.0000
+  Cd  Cd8       1.0  0.75000  0.25000  0.50000  1.0000
+  Cd  Cd9       1.0  0.07971  0.20493  0.28463  1.0000
+  Cd  Cd10      1.0  0.79507  0.07971  0.87478  1.0000
+  C   C1        1.0  0.84959  0.34959  0.19918  1.0000
+  C   C2        1.0  0.65041  0.84959  0.50000  1.0000
+  C   C3        1.0  0.34959  0.15041  0.50000  1.0000
+  C   C4        1.0  0.15041  0.65041  0.80082  1.0000
+  C   C5        1.0  0.75000  0.75000  0.00000  1.0000
+  C   C6        1.0  0.25000  0.25000  0.00000  1.0000

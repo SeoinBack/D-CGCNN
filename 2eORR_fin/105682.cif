@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ti4Cl12
+_chemical_formula_sum              "Ti4 Cl12"
+_cell_length_a       6.83125
+_cell_length_b       6.83125
+_cell_length_c       8.4655
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    113.347
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.67276  0.32724  0.00000  1.0000
+  Ti  Ti2       1.0  0.32724  0.67276  0.00000  1.0000
+  Ti  Ti3       1.0  0.17276  0.82724  0.50000  1.0000
+  Ti  Ti4       1.0  0.82724  0.17276  0.50000  1.0000
+  Cl  Cl1       1.0  0.58545  0.58545  0.15730  1.0000
+  Cl  Cl2       1.0  0.08545  0.08545  0.34270  1.0000
+  Cl  Cl3       1.0  0.91455  0.91455  0.65730  1.0000
+  Cl  Cl4       1.0  0.36740  0.63260  0.50000  1.0000
+  Cl  Cl5       1.0  0.98142  0.48142  0.75000  1.0000
+  Cl  Cl6       1.0  0.86740  0.13260  0.00000  1.0000
+  Cl  Cl7       1.0  0.01858  0.51858  0.25000  1.0000
+  Cl  Cl8       1.0  0.41455  0.41455  0.84270  1.0000
+  Cl  Cl9       1.0  0.63260  0.36740  0.50000  1.0000
+  Cl  Cl10      1.0  0.13260  0.86740  0.00000  1.0000
+  Cl  Cl11      1.0  0.51858  0.01858  0.25000  1.0000
+  Cl  Cl12      1.0  0.48142  0.98142  0.75000  1.0000

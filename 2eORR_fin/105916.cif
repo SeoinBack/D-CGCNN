@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Zn8Au12
+_chemical_formula_sum              "Zn8 Au12"
+_cell_length_a       3.51241
+_cell_length_b       9.50142
+_cell_length_c       10.584
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.25000  0.92527  0.79501  1.0000
+  Zn  Zn2       1.0  0.75000  0.07473  0.20499  1.0000
+  Zn  Zn3       1.0  0.75000  0.42527  0.70499  1.0000
+  Zn  Zn4       1.0  0.25000  0.57473  0.29501  1.0000
+  Zn  Zn5       1.0  0.25000  0.21392  0.51321  1.0000
+  Zn  Zn6       1.0  0.75000  0.78608  0.48679  1.0000
+  Zn  Zn7       1.0  0.75000  0.71392  0.98679  1.0000
+  Zn  Zn8       1.0  0.25000  0.28608  0.01321  1.0000
+  Au  Au1       1.0  0.25000  0.22743  0.76210  1.0000
+  Au  Au2       1.0  0.75000  0.77257  0.23790  1.0000
+  Au  Au3       1.0  0.75000  0.72743  0.73790  1.0000
+  Au  Au4       1.0  0.25000  0.27257  0.26210  1.0000
+  Au  Au5       1.0  0.25000  0.97579  0.38373  1.0000
+  Au  Au6       1.0  0.75000  0.02421  0.61627  1.0000
+  Au  Au7       1.0  0.75000  0.47579  0.11627  1.0000
+  Au  Au8       1.0  0.25000  0.52421  0.88373  1.0000
+  Au  Au9       1.0  0.25000  0.90960  0.06327  1.0000
+  Au  Au10      1.0  0.75000  0.09040  0.93673  1.0000
+  Au  Au11      1.0  0.75000  0.40960  0.43673  1.0000
+  Au  Au12      1.0  0.25000  0.59040  0.56327  1.0000

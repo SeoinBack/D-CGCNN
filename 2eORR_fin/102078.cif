@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Cu8I12
+_chemical_formula_sum              "Cu8 I12"
+_cell_length_a       3.89695
+_cell_length_b       11.0862
+_cell_length_c       15.4345
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.25000  0.91977  0.91412  1.0000
+  Cu  Cu2       1.0  0.75000  0.08023  0.08588  1.0000
+  Cu  Cu3       1.0  0.75000  0.41977  0.58588  1.0000
+  Cu  Cu4       1.0  0.25000  0.58023  0.41412  1.0000
+  Cu  Cu5       1.0  0.25000  0.04946  0.55044  1.0000
+  Cu  Cu6       1.0  0.75000  0.95054  0.44956  1.0000
+  Cu  Cu7       1.0  0.75000  0.54946  0.94956  1.0000
+  Cu  Cu8       1.0  0.25000  0.45054  0.05044  1.0000
+  I   I1        1.0  0.25000  0.26127  0.62729  1.0000
+  I   I2        1.0  0.75000  0.73873  0.37271  1.0000
+  I   I3        1.0  0.75000  0.76127  0.87271  1.0000
+  I   I4        1.0  0.25000  0.23873  0.12729  1.0000
+  I   I5        1.0  0.25000  0.07539  0.38135  1.0000
+  I   I6        1.0  0.75000  0.92461  0.61865  1.0000
+  I   I7        1.0  0.75000  0.57539  0.11865  1.0000
+  I   I8        1.0  0.25000  0.42461  0.88135  1.0000
+  I   I9        1.0  0.25000  0.91291  0.09965  1.0000
+  I   I10       1.0  0.75000  0.08709  0.90035  1.0000
+  I   I11       1.0  0.75000  0.41291  0.40035  1.0000
+  I   I12       1.0  0.25000  0.58709  0.59965  1.0000

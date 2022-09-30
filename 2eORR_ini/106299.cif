@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Zn3Tl8
+_chemical_formula_sum              "Zn3 Tl8"
+_cell_length_a       6.06035
+_cell_length_b       6.06035
+_cell_length_c       6.06035
+_cell_angle_alpha    90.8894
+_cell_angle_beta     90.8894
+_cell_angle_gamma    90.8894
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.00000  0.50000  0.50000  1.0000
+  Zn  Zn2       1.0  0.50000  0.00000  0.50000  1.0000
+  Zn  Zn3       1.0  0.50000  0.50000  0.00000  1.0000
+  Tl  Tl1       1.0  0.38347  0.88164  0.11246  1.0000
+  Tl  Tl2       1.0  0.11246  0.38347  0.88164  1.0000
+  Tl  Tl3       1.0  0.88164  0.11246  0.38347  1.0000
+  Tl  Tl4       1.0  0.61653  0.11836  0.88754  1.0000
+  Tl  Tl5       1.0  0.88754  0.61653  0.11836  1.0000
+  Tl  Tl6       1.0  0.11836  0.88754  0.61653  1.0000
+  Tl  Tl7       1.0  0.62123  0.62123  0.62123  1.0000
+  Tl  Tl8       1.0  0.37877  0.37877  0.37877  1.0000

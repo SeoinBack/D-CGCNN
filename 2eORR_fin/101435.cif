@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Co6Br16
+_chemical_formula_sum              "Co6 Br16"
+_cell_length_a       5.81629
+_cell_length_b       6.89911
+_cell_length_c       12.874
+_cell_angle_alpha    86.7851
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.45030  0.75330  0.74769  1.0000
+  Co  Co2       1.0  0.54970  0.24670  0.25231  1.0000
+  Co  Co3       1.0  0.50000  0.00000  0.00000  1.0000
+  Co  Co4       1.0  0.95030  0.24670  0.75231  1.0000
+  Co  Co5       1.0  0.04970  0.75330  0.24769  1.0000
+  Co  Co6       1.0  0.00000  0.00000  0.50000  1.0000
+  Br  Br1       1.0  0.81176  0.50005  0.17310  1.0000
+  Br  Br2       1.0  0.71539  0.00141  0.67035  1.0000
+  Br  Br3       1.0  0.65970  0.74103  0.90843  1.0000
+  Br  Br4       1.0  0.74280  0.23929  0.41876  1.0000
+  Br  Br5       1.0  0.75720  0.23929  0.91876  1.0000
+  Br  Br6       1.0  0.78461  0.00141  0.17035  1.0000
+  Br  Br7       1.0  0.84030  0.74103  0.40843  1.0000
+  Br  Br8       1.0  0.68824  0.50005  0.67310  1.0000
+  Br  Br9       1.0  0.21539  0.99859  0.82965  1.0000
+  Br  Br10      1.0  0.24280  0.76071  0.08124  1.0000
+  Br  Br11      1.0  0.15970  0.25897  0.59157  1.0000
+  Br  Br12      1.0  0.31176  0.49995  0.32690  1.0000
+  Br  Br13      1.0  0.34030  0.25897  0.09157  1.0000
+  Br  Br14      1.0  0.18824  0.49995  0.82690  1.0000
+  Br  Br15      1.0  0.28461  0.99859  0.32965  1.0000
+  Br  Br16      1.0  0.25720  0.76071  0.58124  1.0000

@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Tl4Bi4
+_chemical_formula_sum              "Tl4 Bi4"
+_cell_length_a       6.34643
+_cell_length_b       6.34643
+_cell_length_c       6.34643
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.84543  0.84543  0.84543  1.0000
+  Tl  Tl2       1.0  0.65457  0.15457  0.34543  1.0000
+  Tl  Tl3       1.0  0.34543  0.65457  0.15457  1.0000
+  Tl  Tl4       1.0  0.15457  0.34543  0.65457  1.0000
+  Bi  Bi1       1.0  0.16058  0.16058  0.16058  1.0000
+  Bi  Bi2       1.0  0.33942  0.83942  0.66058  1.0000
+  Bi  Bi3       1.0  0.66058  0.33942  0.83942  1.0000
+  Bi  Bi4       1.0  0.83942  0.66058  0.33942  1.0000

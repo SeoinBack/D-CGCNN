@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ag8Sn4
+_chemical_formula_sum              "Ag8 Sn4"
+_cell_length_a       9.60667
+_cell_length_b       3.23694
+_cell_length_c       8.78869
+_cell_angle_alpha    68.5806
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.37517  0.20656  0.32333  1.0000
+  Ag  Ag2       1.0  0.62483  0.20656  0.82333  1.0000
+  Ag  Ag3       1.0  0.37510  0.83714  0.70500  1.0000
+  Ag  Ag4       1.0  0.87528  0.20482  0.32274  1.0000
+  Ag  Ag5       1.0  0.62490  0.83714  0.20500  1.0000
+  Ag  Ag6       1.0  0.12472  0.20482  0.82274  1.0000
+  Ag  Ag7       1.0  0.87431  0.81007  0.70431  1.0000
+  Ag  Ag8       1.0  0.12569  0.81007  0.20431  1.0000
+  Sn  Sn1       1.0  0.37506  0.02723  0.01386  1.0000
+  Sn  Sn2       1.0  0.62494  0.02723  0.51386  1.0000
+  Sn  Sn3       1.0  0.87500  0.99748  0.01405  1.0000
+  Sn  Sn4       1.0  0.12500  0.99748  0.51405  1.0000

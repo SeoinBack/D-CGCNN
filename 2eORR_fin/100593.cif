@@ -1,0 +1,51 @@
+data_image0
+_chemical_formula_structural       Cd6Ag20
+_chemical_formula_sum              "Cd6 Ag20"
+_cell_length_a       10.7263
+_cell_length_b       10.7263
+_cell_length_c       4.86402
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.63944  0.74414  0.25000  1.0000
+  Cd  Cd2       1.0  0.25586  0.89530  0.25000  1.0000
+  Cd  Cd3       1.0  0.10470  0.36056  0.25000  1.0000
+  Cd  Cd4       1.0  0.36056  0.25586  0.75000  1.0000
+  Cd  Cd5       1.0  0.74414  0.10470  0.75000  1.0000
+  Cd  Cd6       1.0  0.89530  0.63944  0.75000  1.0000
+  Ag  Ag1       1.0  0.87462  0.05319  0.25000  1.0000
+  Ag  Ag2       1.0  0.94681  0.82143  0.25000  1.0000
+  Ag  Ag3       1.0  0.17857  0.12538  0.25000  1.0000
+  Ag  Ag4       1.0  0.12538  0.94681  0.75000  1.0000
+  Ag  Ag5       1.0  0.05319  0.17857  0.75000  1.0000
+  Ag  Ag6       1.0  0.82143  0.87462  0.75000  1.0000
+  Ag  Ag7       1.0  0.56553  0.97644  0.25000  1.0000
+  Ag  Ag8       1.0  0.02356  0.58909  0.25000  1.0000
+  Ag  Ag9       1.0  0.41091  0.43447  0.25000  1.0000
+  Ag  Ag10      1.0  0.43447  0.02356  0.75000  1.0000
+  Ag  Ag11      1.0  0.97644  0.41091  0.75000  1.0000
+  Ag  Ag12      1.0  0.58909  0.56553  0.75000  1.0000
+  Ag  Ag13      1.0  0.79485  0.28374  0.25000  1.0000
+  Ag  Ag14      1.0  0.71626  0.51111  0.25000  1.0000
+  Ag  Ag15      1.0  0.48889  0.20515  0.25000  1.0000
+  Ag  Ag16      1.0  0.20515  0.71626  0.75000  1.0000
+  Ag  Ag17      1.0  0.28374  0.48889  0.75000  1.0000
+  Ag  Ag18      1.0  0.51111  0.79485  0.75000  1.0000
+  Ag  Ag19      1.0  0.66667  0.33333  0.75000  1.0000
+  Ag  Ag20      1.0  0.33333  0.66667  0.25000  1.0000

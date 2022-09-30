@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Hf14Cl8
+_chemical_formula_sum              "Hf14 Cl8"
+_cell_length_a       7.33743
+_cell_length_b       6.28375
+_cell_length_c       10.0569
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.26224  0.25441  0.47366  1.0000
+  Hf  Hf2       1.0  0.26224  0.74559  0.52634  1.0000
+  Hf  Hf3       1.0  0.73776  0.24559  0.97366  1.0000
+  Hf  Hf4       1.0  0.73776  0.75441  0.02634  1.0000
+  Hf  Hf5       1.0  0.07821  0.01963  0.75008  1.0000
+  Hf  Hf6       1.0  0.07821  0.98037  0.24992  1.0000
+  Hf  Hf7       1.0  0.92179  0.48037  0.25008  1.0000
+  Hf  Hf8       1.0  0.92179  0.51963  0.74992  1.0000
+  Hf  Hf9       1.0  0.39992  0.31816  0.74725  1.0000
+  Hf  Hf10      1.0  0.39992  0.68184  0.25275  1.0000
+  Hf  Hf11      1.0  0.60008  0.18184  0.24725  1.0000
+  Hf  Hf12      1.0  0.60008  0.81816  0.75275  1.0000
+  Hf  Hf13      1.0  0.61263  0.50000  0.50000  1.0000
+  Hf  Hf14      1.0  0.38737  0.00000  0.00000  1.0000
+  Cl  Cl1       1.0  0.71222  0.18159  0.66536  1.0000
+  Cl  Cl2       1.0  0.71222  0.81841  0.33464  1.0000
+  Cl  Cl3       1.0  0.28778  0.31841  0.16536  1.0000
+  Cl  Cl4       1.0  0.28778  0.68159  0.83464  1.0000
+  Cl  Cl5       1.0  0.97498  0.50000  0.50000  1.0000
+  Cl  Cl6       1.0  0.02502  0.00000  0.00000  1.0000
+  Cl  Cl7       1.0  0.99489  0.00000  0.50000  1.0000
+  Cl  Cl8       1.0  0.00511  0.50000  0.00000  1.0000

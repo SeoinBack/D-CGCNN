@@ -1,0 +1,51 @@
+data_image0
+_chemical_formula_structural       Cu6Hg20
+_chemical_formula_sum              "Cu6 Hg20"
+_cell_length_a       14.28
+_cell_length_b       14.28
+_cell_length_c       3.60631
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.64710  0.74075  0.25000  1.0000
+  Cu  Cu2       1.0  0.25925  0.90636  0.25000  1.0000
+  Cu  Cu3       1.0  0.09364  0.35290  0.25000  1.0000
+  Cu  Cu4       1.0  0.35290  0.25925  0.75000  1.0000
+  Cu  Cu5       1.0  0.74075  0.09364  0.75000  1.0000
+  Cu  Cu6       1.0  0.90636  0.64710  0.75000  1.0000
+  Hg  Hg1       1.0  0.85387  0.04883  0.25000  1.0000
+  Hg  Hg2       1.0  0.95117  0.80504  0.25000  1.0000
+  Hg  Hg3       1.0  0.19496  0.14613  0.25000  1.0000
+  Hg  Hg4       1.0  0.14613  0.95117  0.75000  1.0000
+  Hg  Hg5       1.0  0.04883  0.19496  0.75000  1.0000
+  Hg  Hg6       1.0  0.80504  0.85387  0.75000  1.0000
+  Hg  Hg7       1.0  0.58071  0.99154  0.25000  1.0000
+  Hg  Hg8       1.0  0.00846  0.58917  0.25000  1.0000
+  Hg  Hg9       1.0  0.41083  0.41929  0.25000  1.0000
+  Hg  Hg10      1.0  0.41929  0.00846  0.75000  1.0000
+  Hg  Hg11      1.0  0.99154  0.41083  0.75000  1.0000
+  Hg  Hg12      1.0  0.58917  0.58071  0.75000  1.0000
+  Hg  Hg13      1.0  0.79507  0.25549  0.25000  1.0000
+  Hg  Hg14      1.0  0.74451  0.53958  0.25000  1.0000
+  Hg  Hg15      1.0  0.46042  0.20493  0.25000  1.0000
+  Hg  Hg16      1.0  0.20493  0.74451  0.75000  1.0000
+  Hg  Hg17      1.0  0.25549  0.46042  0.75000  1.0000
+  Hg  Hg18      1.0  0.53958  0.79507  0.75000  1.0000
+  Hg  Hg19      1.0  0.66667  0.33333  0.75000  1.0000
+  Hg  Hg20      1.0  0.33333  0.66667  0.25000  1.0000

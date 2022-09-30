@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Sn6I10
+_chemical_formula_sum              "Sn6 I10"
+_cell_length_a       4.67556
+_cell_length_b       11.0389
+_cell_length_c       13.3206
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.50000  0.34310  0.87922  1.0000
+  Sn  Sn2       1.0  0.50000  0.84310  0.62078  1.0000
+  Sn  Sn3       1.0  0.00000  0.50000  0.50000  1.0000
+  Sn  Sn4       1.0  0.00000  0.00000  0.00000  1.0000
+  Sn  Sn5       1.0  0.50000  0.65690  0.12078  1.0000
+  Sn  Sn6       1.0  0.50000  0.15690  0.37922  1.0000
+  I   I1        1.0  0.50000  0.67888  0.42170  1.0000
+  I   I2        1.0  0.50000  0.32112  0.57830  1.0000
+  I   I3        1.0  0.00000  0.17213  0.80521  1.0000
+  I   I4        1.0  0.50000  0.82112  0.92170  1.0000
+  I   I5        1.0  0.00000  0.32787  0.30521  1.0000
+  I   I6        1.0  0.00000  0.82787  0.19479  1.0000
+  I   I7        1.0  0.00000  0.67213  0.69479  1.0000
+  I   I8        1.0  0.00000  0.50000  0.00000  1.0000
+  I   I9        1.0  0.00000  0.00000  0.50000  1.0000
+  I   I10       1.0  0.50000  0.17888  0.07830  1.0000

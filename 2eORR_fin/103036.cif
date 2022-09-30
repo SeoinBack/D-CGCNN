@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Ir3Tl8
+_chemical_formula_sum              "Ir3 Tl8"
+_cell_length_a       6.73703
+_cell_length_b       6.73703
+_cell_length_c       6.73703
+_cell_angle_alpha    90.9472
+_cell_angle_beta     90.9472
+_cell_angle_gamma    90.9472
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.50000  0.00000  0.50000  1.0000
+  Ir  Ir2       1.0  1.00000  0.50000  0.50000  1.0000
+  Ir  Ir3       1.0  0.50000  0.50000  0.00000  1.0000
+  Tl  Tl1       1.0  0.68022  0.82836  0.17767  1.0000
+  Tl  Tl2       1.0  0.82836  0.17767  0.68022  1.0000
+  Tl  Tl3       1.0  0.17767  0.68022  0.82836  1.0000
+  Tl  Tl4       1.0  0.66838  0.66838  0.66838  1.0000
+  Tl  Tl5       1.0  0.33162  0.33162  0.33162  1.0000
+  Tl  Tl6       1.0  0.82233  0.31978  0.17164  1.0000
+  Tl  Tl7       1.0  0.17164  0.82233  0.31978  1.0000
+  Tl  Tl8       1.0  0.31978  0.17164  0.82233  1.0000

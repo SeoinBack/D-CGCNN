@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Co6I16
+_chemical_formula_sum              "Co6 I16"
+_cell_length_a       6.24319
+_cell_length_b       7.5137
+_cell_length_c       13.7883
+_cell_angle_alpha    87.0551
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.46338  0.75501  0.74937  1.0000
+  Co  Co2       1.0  0.53662  0.24499  0.25063  1.0000
+  Co  Co3       1.0  0.50000  0.00000  0.00000  1.0000
+  Co  Co4       1.0  0.96338  0.24499  0.75063  1.0000
+  Co  Co5       1.0  0.03662  0.75501  0.24937  1.0000
+  Co  Co6       1.0  0.00000  0.00000  0.50000  1.0000
+  I   I1        1.0  0.79997  0.50379  0.17193  1.0000
+  I   I2        1.0  0.72688  0.00477  0.66810  1.0000
+  I   I3        1.0  0.66798  0.74119  0.91143  1.0000
+  I   I4        1.0  0.73309  0.23936  0.41727  1.0000
+  I   I5        1.0  0.76691  0.23936  0.91727  1.0000
+  I   I6        1.0  0.77312  0.00477  0.16810  1.0000
+  I   I7        1.0  0.83202  0.74119  0.41143  1.0000
+  I   I8        1.0  0.70003  0.50379  0.67193  1.0000
+  I   I9        1.0  0.22688  0.99523  0.83190  1.0000
+  I   I10       1.0  0.23309  0.76064  0.08273  1.0000
+  I   I11       1.0  0.16798  0.25881  0.58857  1.0000
+  I   I12       1.0  0.29997  0.49621  0.32807  1.0000
+  I   I13       1.0  0.33202  0.25881  0.08857  1.0000
+  I   I14       1.0  0.20003  0.49621  0.82807  1.0000
+  I   I15       1.0  0.27312  0.99523  0.33190  1.0000
+  I   I16       1.0  0.26691  0.76064  0.58273  1.0000

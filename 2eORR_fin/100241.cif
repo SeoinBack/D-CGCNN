@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Hg9Bi13
+_chemical_formula_sum              "Hg9 Bi13"
+_cell_length_a       11.4314
+_cell_length_b       11.4314
+_cell_length_c       6.36189
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.00000  0.00000  0.50000  1.0000
+  Hg  Hg2       1.0  0.33333  0.66667  0.76662  1.0000
+  Hg  Hg3       1.0  0.66667  0.33333  0.23338  1.0000
+  Hg  Hg4       1.0  0.18854  0.81146  0.40430  1.0000
+  Hg  Hg5       1.0  0.18854  0.37708  0.40430  1.0000
+  Hg  Hg6       1.0  0.62292  0.81146  0.40430  1.0000
+  Hg  Hg7       1.0  0.37708  0.18854  0.59570  1.0000
+  Hg  Hg8       1.0  0.81146  0.62292  0.59570  1.0000
+  Hg  Hg9       1.0  0.81146  0.18854  0.59570  1.0000
+  Bi  Bi1       1.0  0.00000  0.00000  0.00000  1.0000
+  Bi  Bi2       1.0  0.50000  0.00000  0.00000  1.0000
+  Bi  Bi3       1.0  0.00000  0.50000  0.00000  1.0000
+  Bi  Bi4       1.0  0.50000  0.50000  0.00000  1.0000
+  Bi  Bi5       1.0  0.50000  0.00000  0.50000  1.0000
+  Bi  Bi6       1.0  0.00000  0.50000  0.50000  1.0000
+  Bi  Bi7       1.0  0.50000  0.50000  0.50000  1.0000
+  Bi  Bi8       1.0  0.16804  0.83196  0.91878  1.0000
+  Bi  Bi9       1.0  0.16804  0.33607  0.91878  1.0000
+  Bi  Bi10      1.0  0.66393  0.83196  0.91878  1.0000
+  Bi  Bi11      1.0  0.33607  0.16804  0.08122  1.0000
+  Bi  Bi12      1.0  0.83196  0.66393  0.08122  1.0000
+  Bi  Bi13      1.0  0.83196  0.16804  0.08122  1.0000

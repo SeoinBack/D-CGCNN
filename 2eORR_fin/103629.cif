@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ag10Sb6
+_chemical_formula_sum              "Ag10 Sb6"
+_cell_length_a       8.26971
+_cell_length_b       8.26971
+_cell_length_c       8.26971
+_cell_angle_alpha    126.021
+_cell_angle_beta     126.021
+_cell_angle_gamma    79.8533
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.47236  0.68294  0.50000  1.0000
+  Ag  Ag2       1.0  0.52764  0.31706  0.50000  1.0000
+  Ag  Ag3       1.0  0.50000  0.50000  1.00000  1.0000
+  Ag  Ag4       1.0  0.00000  0.00000  0.00000  1.0000
+  Ag  Ag5       1.0  0.18294  0.97236  0.50000  1.0000
+  Ag  Ag6       1.0  0.97236  0.47236  0.78942  1.0000
+  Ag  Ag7       1.0  0.68294  0.18294  0.21058  1.0000
+  Ag  Ag8       1.0  0.31706  0.81706  0.78942  1.0000
+  Ag  Ag9       1.0  0.02764  0.52764  0.21058  1.0000
+  Ag  Ag10      1.0  0.81706  0.02764  0.50000  1.0000
+  Sb  Sb1       1.0  0.85799  0.64201  0.50000  1.0000
+  Sb  Sb2       1.0  0.64201  0.14201  0.78401  1.0000
+  Sb  Sb3       1.0  0.35799  0.85799  0.21599  1.0000
+  Sb  Sb4       1.0  0.14201  0.35799  0.50000  1.0000
+  Sb  Sb5       1.0  0.25000  0.25000  0.00000  1.0000
+  Sb  Sb6       1.0  0.75000  0.75000  0.00000  1.0000

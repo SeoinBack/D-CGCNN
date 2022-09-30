@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Rh4F8
+_chemical_formula_sum              "Rh4 F8"
+_cell_length_a       8.11206
+_cell_length_b       8.11206
+_cell_length_c       10.5014
+_cell_angle_alpha    48.2251
+_cell_angle_beta     48.2251
+_cell_angle_gamma    22.261
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.68046  0.68046  0.94424  1.0000
+  Rh  Rh2       1.0  0.31954  0.31954  0.05576  1.0000
+  Rh  Rh3       1.0  0.38528  0.38528  0.37901  1.0000
+  Rh  Rh4       1.0  0.61472  0.61472  0.62099  1.0000
+  F   F1        1.0  0.06900  0.06900  0.04215  1.0000
+  F   F2        1.0  0.93100  0.93100  0.95785  1.0000
+  F   F3        1.0  0.94583  0.94583  0.42120  1.0000
+  F   F4        1.0  0.05417  0.05417  0.57880  1.0000
+  F   F5        1.0  0.70504  0.70504  0.15267  1.0000
+  F   F6        1.0  0.29496  0.29496  0.84733  1.0000
+  F   F7        1.0  0.18313  0.18313  0.65901  1.0000
+  F   F8        1.0  0.81687  0.81687  0.34099  1.0000

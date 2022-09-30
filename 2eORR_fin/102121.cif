@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cu3N4
+_chemical_formula_sum              "Cu3 N4"
+_cell_length_a       5.39087
+_cell_length_b       5.39087
+_cell_length_c       5.09176
+_cell_angle_alpha    62.5711
+_cell_angle_beta     62.5711
+_cell_angle_gamma    31.5043
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.00000  0.00000  0.00000  1.0000
+  Cu  Cu2       1.0  0.27628  0.27628  0.71472  1.0000
+  Cu  Cu3       1.0  0.72372  0.72372  0.28528  1.0000
+  N   N1        1.0  0.13066  0.13066  0.56075  1.0000
+  N   N2        1.0  0.86934  0.86934  0.43925  1.0000
+  N   N3        1.0  0.64240  0.64240  0.00870  1.0000
+  N   N4        1.0  0.35760  0.35760  0.99130  1.0000

@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Te4N18
+_chemical_formula_sum              "Te4 N18"
+_cell_length_a       9.16703
+_cell_length_b       9.16703
+_cell_length_c       6.00134
+_cell_angle_alpha    90.1678
+_cell_angle_beta     90.1678
+_cell_angle_gamma    91.4611
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.45036  0.67307  0.04886  1.0000
+  Te  Te2       1.0  0.32693  0.54964  0.45114  1.0000
+  Te  Te3       1.0  0.54964  0.32693  0.95114  1.0000
+  Te  Te4       1.0  0.67307  0.45036  0.54886  1.0000
+  N   N1        1.0  0.40862  0.96472  0.71356  1.0000
+  N   N2        1.0  0.03528  0.59138  0.78644  1.0000
+  N   N3        1.0  0.69296  0.06341  0.38154  1.0000
+  N   N4        1.0  0.93659  0.30704  0.11846  1.0000
+  N   N5        1.0  0.30704  0.93659  0.61846  1.0000
+  N   N6        1.0  0.06341  0.69296  0.88154  1.0000
+  N   N7        1.0  0.13272  0.22203  0.65188  1.0000
+  N   N8        1.0  0.77797  0.86728  0.84812  1.0000
+  N   N9        1.0  0.86728  0.77797  0.34812  1.0000
+  N   N10       1.0  0.22203  0.13272  0.15188  1.0000
+  N   N11       1.0  0.01182  0.21234  0.63302  1.0000
+  N   N12       1.0  0.78766  0.98818  0.86698  1.0000
+  N   N13       1.0  0.98818  0.78766  0.36698  1.0000
+  N   N14       1.0  0.21234  0.01182  0.13302  1.0000
+  N   N15       1.0  0.96472  0.40862  0.21356  1.0000
+  N   N16       1.0  0.59138  0.03528  0.28644  1.0000
+  N   N17       1.0  0.51590  0.48410  0.25000  1.0000
+  N   N18       1.0  0.48410  0.51590  0.75000  1.0000

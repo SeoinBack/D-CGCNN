@@ -1,0 +1,51 @@
+data_image0
+_chemical_formula_structural       Pd12Se14
+_chemical_formula_sum              "Pd12 Se14"
+_cell_length_a       8.34469
+_cell_length_b       8.28733
+_cell_length_c       8.14191
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.00000  0.71521  0.91068  1.0000
+  Pd  Pd2       1.0  0.00000  0.28479  0.08932  1.0000
+  Pd  Pd3       1.0  0.00000  0.21521  0.58932  1.0000
+  Pd  Pd4       1.0  0.00000  0.78479  0.41068  1.0000
+  Pd  Pd5       1.0  0.50000  0.77650  0.00730  1.0000
+  Pd  Pd6       1.0  0.50000  0.22350  0.99270  1.0000
+  Pd  Pd7       1.0  0.50000  0.27650  0.49270  1.0000
+  Pd  Pd8       1.0  0.50000  0.72350  0.50730  1.0000
+  Pd  Pd9       1.0  0.50000  0.49802  0.76705  1.0000
+  Pd  Pd10      1.0  0.50000  0.50198  0.23295  1.0000
+  Pd  Pd11      1.0  0.50000  0.99802  0.73295  1.0000
+  Pd  Pd12      1.0  0.50000  0.00198  0.26705  1.0000
+  Se  Se1       1.0  0.00000  0.00000  0.00000  1.0000
+  Se  Se2       1.0  0.00000  0.50000  0.50000  1.0000
+  Se  Se3       1.0  0.00000  0.93221  0.67518  1.0000
+  Se  Se4       1.0  0.00000  0.06779  0.32482  1.0000
+  Se  Se5       1.0  0.00000  0.43221  0.82482  1.0000
+  Se  Se6       1.0  0.00000  0.56779  0.17518  1.0000
+  Se  Se7       1.0  0.68362  0.24701  0.73770  1.0000
+  Se  Se8       1.0  0.68362  0.75299  0.26230  1.0000
+  Se  Se9       1.0  0.31638  0.74701  0.76230  1.0000
+  Se  Se10      1.0  0.31638  0.25299  0.23770  1.0000
+  Se  Se11      1.0  0.31638  0.75299  0.26230  1.0000
+  Se  Se12      1.0  0.31638  0.24701  0.73770  1.0000
+  Se  Se13      1.0  0.68362  0.25299  0.23770  1.0000
+  Se  Se14      1.0  0.68362  0.74701  0.76230  1.0000

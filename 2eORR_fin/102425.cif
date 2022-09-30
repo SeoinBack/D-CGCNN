@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Fe8Hg8
+_chemical_formula_sum              "Fe8 Hg8"
+_cell_length_a       6.55443
+_cell_length_b       6.55443
+_cell_length_c       7.69824
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.64585  0.59424  0.00000  1.0000
+  Fe  Fe2       1.0  0.40576  0.64585  0.50000  1.0000
+  Fe  Fe3       1.0  0.59424  0.35415  0.50000  1.0000
+  Fe  Fe4       1.0  0.35415  0.40576  0.00000  1.0000
+  Fe  Fe5       1.0  0.50000  0.00000  0.50000  1.0000
+  Fe  Fe6       1.0  0.00000  0.50000  0.00000  1.0000
+  Fe  Fe7       1.0  0.00000  0.00000  0.75000  1.0000
+  Fe  Fe8       1.0  0.00000  0.00000  0.25000  1.0000
+  Hg  Hg1       1.0  0.20349  0.33676  0.68680  1.0000
+  Hg  Hg2       1.0  0.66324  0.20349  0.18680  1.0000
+  Hg  Hg3       1.0  0.33676  0.79651  0.18680  1.0000
+  Hg  Hg4       1.0  0.79651  0.66324  0.68680  1.0000
+  Hg  Hg5       1.0  0.79651  0.66324  0.31320  1.0000
+  Hg  Hg6       1.0  0.33676  0.79651  0.81320  1.0000
+  Hg  Hg7       1.0  0.66324  0.20349  0.81320  1.0000
+  Hg  Hg8       1.0  0.20349  0.33676  0.31320  1.0000

@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Co14N8
+_chemical_formula_sum              "Co14 N8"
+_cell_length_a       4.01331
+_cell_length_b       6.38171
+_cell_length_c       8.24898
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.24004  0.21338  0.58116  1.0000
+  Co  Co2       1.0  0.24004  0.78662  0.41884  1.0000
+  Co  Co3       1.0  0.75996  0.28662  0.08116  1.0000
+  Co  Co4       1.0  0.75996  0.71338  0.91884  1.0000
+  Co  Co5       1.0  0.86040  0.16112  0.80963  1.0000
+  Co  Co6       1.0  0.86040  0.83888  0.19037  1.0000
+  Co  Co7       1.0  0.13960  0.33888  0.30963  1.0000
+  Co  Co8       1.0  0.13960  0.66112  0.69037  1.0000
+  Co  Co9       1.0  0.34256  0.38266  0.86764  1.0000
+  Co  Co10      1.0  0.34256  0.61734  0.13236  1.0000
+  Co  Co11      1.0  0.65744  0.11734  0.36764  1.0000
+  Co  Co12      1.0  0.65744  0.88266  0.63236  1.0000
+  Co  Co13      1.0  0.64801  0.50000  0.50000  1.0000
+  Co  Co14      1.0  0.35199  0.00000  0.00000  1.0000
+  N   N1        1.0  0.60257  0.32883  0.68912  1.0000
+  N   N2        1.0  0.60257  0.67117  0.31088  1.0000
+  N   N3        1.0  0.39743  0.17117  0.18912  1.0000
+  N   N4        1.0  0.39743  0.82883  0.81088  1.0000
+  N   N5        1.0  0.12666  0.50000  0.50000  1.0000
+  N   N6        1.0  0.87334  0.00000  0.00000  1.0000
+  N   N7        1.0  0.97890  0.00000  0.50000  1.0000
+  N   N8        1.0  0.02110  0.50000  0.00000  1.0000

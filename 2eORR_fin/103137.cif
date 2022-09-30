@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Au8Rh4
+_chemical_formula_sum              "Au8 Rh4"
+_cell_length_a       2.78214
+_cell_length_b       9.2363
+_cell_length_c       9.34046
+_cell_angle_alpha    59.2352
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.25194  0.06198  0.34379  1.0000
+  Au  Au2       1.0  0.75194  0.93802  0.15621  1.0000
+  Au  Au3       1.0  0.74806  0.93802  0.65621  1.0000
+  Au  Au4       1.0  0.24806  0.06198  0.84379  1.0000
+  Au  Au5       1.0  0.74786  0.39398  0.67720  1.0000
+  Au  Au6       1.0  0.24786  0.60602  0.82280  1.0000
+  Au  Au7       1.0  0.25214  0.60602  0.32280  1.0000
+  Au  Au8       1.0  0.75214  0.39398  0.17720  1.0000
+  Rh  Rh1       1.0  0.25226  0.26094  0.99365  1.0000
+  Rh  Rh2       1.0  0.75226  0.73906  0.50635  1.0000
+  Rh  Rh3       1.0  0.74774  0.73906  0.00635  1.0000
+  Rh  Rh4       1.0  0.24774  0.26094  0.49365  1.0000

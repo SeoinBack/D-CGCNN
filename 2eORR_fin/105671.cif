@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Br9Ti13
+_chemical_formula_sum              "Br9 Ti13"
+_cell_length_a       9.88193
+_cell_length_b       9.88193
+_cell_length_c       5.30961
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.00000  0.00000  0.50000  1.0000
+  Br  Br2       1.0  0.33333  0.66667  0.98827  1.0000
+  Br  Br3       1.0  0.66667  0.33333  0.01173  1.0000
+  Br  Br4       1.0  0.20194  0.79806  0.48373  1.0000
+  Br  Br5       1.0  0.20194  0.40388  0.48373  1.0000
+  Br  Br6       1.0  0.59612  0.79806  0.48373  1.0000
+  Br  Br7       1.0  0.40388  0.20194  0.51627  1.0000
+  Br  Br8       1.0  0.79806  0.59612  0.51627  1.0000
+  Br  Br9       1.0  0.79806  0.20194  0.51627  1.0000
+  Ti  Ti1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ti  Ti2       1.0  0.50000  0.00000  0.00000  1.0000
+  Ti  Ti3       1.0  0.00000  0.50000  0.00000  1.0000
+  Ti  Ti4       1.0  0.50000  0.50000  0.00000  1.0000
+  Ti  Ti5       1.0  0.50000  0.00000  0.50000  1.0000
+  Ti  Ti6       1.0  0.00000  0.50000  0.50000  1.0000
+  Ti  Ti7       1.0  0.50000  0.50000  0.50000  1.0000
+  Ti  Ti8       1.0  0.16487  0.83513  0.97985  1.0000
+  Ti  Ti9       1.0  0.16487  0.32973  0.97985  1.0000
+  Ti  Ti10      1.0  0.67027  0.83513  0.97985  1.0000
+  Ti  Ti11      1.0  0.32973  0.16487  0.02015  1.0000
+  Ti  Ti12      1.0  0.83513  0.67027  0.02015  1.0000
+  Ti  Ti13      1.0  0.83513  0.16487  0.02015  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Br8Te4
+_chemical_formula_sum              "Br8 Te4"
+_cell_length_a       5.77004
+_cell_length_b       12.133
+_cell_length_c       7.5709
+_cell_angle_alpha    82.9072
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.19437  0.13312  0.31211  1.0000
+  Br  Br2       1.0  0.69437  0.86688  0.18789  1.0000
+  Br  Br3       1.0  0.80563  0.86688  0.68789  1.0000
+  Br  Br4       1.0  0.30563  0.13312  0.81211  1.0000
+  Br  Br5       1.0  0.80371  0.36465  0.71292  1.0000
+  Br  Br6       1.0  0.30371  0.63535  0.78708  1.0000
+  Br  Br7       1.0  0.19629  0.63535  0.28708  1.0000
+  Br  Br8       1.0  0.69629  0.36465  0.21292  1.0000
+  Te  Te1       1.0  0.99994  0.24881  0.01219  1.0000
+  Te  Te2       1.0  0.49994  0.75119  0.48781  1.0000
+  Te  Te3       1.0  0.00006  0.75119  0.98781  1.0000
+  Te  Te4       1.0  0.50006  0.24881  0.51219  1.0000

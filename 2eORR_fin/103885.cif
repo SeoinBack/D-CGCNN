@@ -1,0 +1,48 @@
+data_image0
+_chemical_formula_structural       Sb16Hg7
+_chemical_formula_sum              "Sb16 Hg7"
+_cell_length_a       9.6711
+_cell_length_b       9.6711
+_cell_length_c       9.6711
+_cell_angle_alpha    109.471
+_cell_angle_beta     109.471
+_cell_angle_gamma    109.471
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.00000  0.34452  0.71807  1.0000
+  Sb  Sb2       1.0  0.71807  0.34452  0.00000  1.0000
+  Sb  Sb3       1.0  0.28193  0.28193  0.62645  1.0000
+  Sb  Sb4       1.0  0.62645  0.28193  0.28193  1.0000
+  Sb  Sb5       1.0  0.65548  0.37355  0.65548  1.0000
+  Sb  Sb6       1.0  0.72316  0.72316  0.72316  1.0000
+  Sb  Sb7       1.0  0.00000  0.00000  0.27684  1.0000
+  Sb  Sb8       1.0  0.27684  0.00000  0.00000  1.0000
+  Sb  Sb9       1.0  0.00000  0.27684  0.00000  1.0000
+  Sb  Sb10      1.0  1.00000  0.71807  0.34452  1.0000
+  Sb  Sb11      1.0  0.37355  0.65548  0.65548  1.0000
+  Sb  Sb12      1.0  0.65548  0.65548  0.37355  1.0000
+  Sb  Sb13      1.0  0.34452  0.71807  0.00000  1.0000
+  Sb  Sb14      1.0  0.71807  0.00000  0.34452  1.0000
+  Sb  Sb15      1.0  0.34452  0.00000  0.71807  1.0000
+  Sb  Sb16      1.0  0.28193  0.62645  0.28193  1.0000
+  Hg  Hg1       1.0  0.50000  0.00000  0.50000  1.0000
+  Hg  Hg2       1.0  0.00000  0.50000  0.50000  1.0000
+  Hg  Hg3       1.0  0.50000  0.50000  0.00000  1.0000
+  Hg  Hg4       1.0  0.00000  0.70600  0.00000  1.0000
+  Hg  Hg5       1.0  0.70600  0.00000  0.00000  1.0000
+  Hg  Hg6       1.0  0.00000  0.00000  0.70600  1.0000
+  Hg  Hg7       1.0  0.29400  0.29400  0.29400  1.0000

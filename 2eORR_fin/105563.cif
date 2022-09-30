@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Te9Se5
+_chemical_formula_sum              "Te9 Se5"
+_cell_length_a       9.20642
+_cell_length_b       9.20642
+_cell_length_c       10.8082
+_cell_angle_alpha    54.9184
+_cell_angle_beta     54.9184
+_cell_angle_gamma    64.1985
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.47817  0.21182  0.26715  1.0000
+  Te  Te2       1.0  0.78818  0.52183  0.73285  1.0000
+  Te  Te3       1.0  0.29598  0.95806  0.04439  1.0000
+  Te  Te4       1.0  0.02790  0.55387  0.40907  1.0000
+  Te  Te5       1.0  0.44613  0.97210  0.59093  1.0000
+  Te  Te6       1.0  0.68714  0.31286  0.50000  1.0000
+  Te  Te7       1.0  0.04194  0.70402  0.95561  1.0000
+  Te  Te8       1.0  0.96042  0.14866  0.13884  1.0000
+  Te  Te9       1.0  0.85134  0.03958  0.86116  1.0000
+  Se  Se1       1.0  0.02821  0.26565  0.41915  1.0000
+  Se  Se2       1.0  0.29983  0.70017  0.00000  1.0000
+  Se  Se3       1.0  0.73435  0.97179  0.58085  1.0000
+  Se  Se4       1.0  0.99184  0.44940  0.86208  1.0000
+  Se  Se5       1.0  0.55060  0.00816  0.13792  1.0000

@@ -1,0 +1,49 @@
+data_image0
+_chemical_formula_structural       Co8Hg16
+_chemical_formula_sum              "Co8 Hg16"
+_cell_length_a       2.89
+_cell_length_b       7.11963
+_cell_length_c       25.1285
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.25000  0.02159  0.53835  1.0000
+  Co  Co2       1.0  0.25000  0.47841  0.03835  1.0000
+  Co  Co3       1.0  0.75000  0.97841  0.46165  1.0000
+  Co  Co4       1.0  0.75000  0.52159  0.96165  1.0000
+  Co  Co5       1.0  0.25000  0.03290  0.81824  1.0000
+  Co  Co6       1.0  0.25000  0.46710  0.31824  1.0000
+  Co  Co7       1.0  0.75000  0.96710  0.18176  1.0000
+  Co  Co8       1.0  0.75000  0.53290  0.68176  1.0000
+  Hg  Hg1       1.0  0.25000  0.32077  0.88642  1.0000
+  Hg  Hg2       1.0  0.25000  0.17923  0.38642  1.0000
+  Hg  Hg3       1.0  0.75000  0.67923  0.11358  1.0000
+  Hg  Hg4       1.0  0.75000  0.82077  0.61358  1.0000
+  Hg  Hg5       1.0  0.75000  0.26609  0.75605  1.0000
+  Hg  Hg6       1.0  0.75000  0.23391  0.25605  1.0000
+  Hg  Hg7       1.0  0.25000  0.73391  0.24395  1.0000
+  Hg  Hg8       1.0  0.25000  0.76609  0.74395  1.0000
+  Hg  Hg9       1.0  0.75000  0.78419  0.87593  1.0000
+  Hg  Hg10      1.0  0.75000  0.71581  0.37593  1.0000
+  Hg  Hg11      1.0  0.25000  0.21581  0.12407  1.0000
+  Hg  Hg12      1.0  0.25000  0.28419  0.62407  1.0000
+  Hg  Hg13      1.0  0.75000  0.32441  0.50723  1.0000
+  Hg  Hg14      1.0  0.75000  0.17559  0.00723  1.0000
+  Hg  Hg15      1.0  0.25000  0.67559  0.49277  1.0000
+  Hg  Hg16      1.0  0.25000  0.82441  0.99277  1.0000

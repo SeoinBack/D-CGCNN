@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sn8Br12
+_chemical_formula_sum              "Sn8 Br12"
+_cell_length_a       3.88611
+_cell_length_b       13.9069
+_cell_length_c       12.1872
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.25000  0.96607  0.82960  1.0000
+  Sn  Sn2       1.0  0.75000  0.03393  0.17040  1.0000
+  Sn  Sn3       1.0  0.75000  0.46607  0.67040  1.0000
+  Sn  Sn4       1.0  0.25000  0.53393  0.32960  1.0000
+  Sn  Sn5       1.0  0.25000  0.15754  0.42399  1.0000
+  Sn  Sn6       1.0  0.75000  0.84246  0.57601  1.0000
+  Sn  Sn7       1.0  0.75000  0.65754  0.07601  1.0000
+  Sn  Sn8       1.0  0.25000  0.34246  0.92399  1.0000
+  Br  Br1       1.0  0.25000  0.29917  0.68943  1.0000
+  Br  Br2       1.0  0.75000  0.70083  0.31057  1.0000
+  Br  Br3       1.0  0.75000  0.79917  0.81057  1.0000
+  Br  Br4       1.0  0.25000  0.20083  0.18943  1.0000
+  Br  Br5       1.0  0.25000  0.96247  0.36357  1.0000
+  Br  Br6       1.0  0.75000  0.03753  0.63643  1.0000
+  Br  Br7       1.0  0.75000  0.46247  0.13643  1.0000
+  Br  Br8       1.0  0.25000  0.53753  0.86357  1.0000
+  Br  Br9       1.0  0.25000  0.89348  0.06486  1.0000
+  Br  Br10      1.0  0.75000  0.10652  0.93514  1.0000
+  Br  Br11      1.0  0.75000  0.39348  0.43514  1.0000
+  Br  Br12      1.0  0.25000  0.60652  0.56486  1.0000

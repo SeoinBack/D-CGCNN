@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Hf9Br9
+_chemical_formula_sum              "Hf9 Br9"
+_cell_length_a       8.26833
+_cell_length_b       8.26833
+_cell_length_c       8.95744
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  1.00000  0.67903  0.24837  1.0000
+  Hf  Hf2       1.0  0.67903  1.00000  0.24837  1.0000
+  Hf  Hf3       1.0  0.32097  0.32097  0.24837  1.0000
+  Hf  Hf4       1.0  0.20024  1.00000  0.01093  1.0000
+  Hf  Hf5       1.0  0.79976  0.79976  0.01093  1.0000
+  Hf  Hf6       1.0  1.00000  0.20024  0.01093  1.0000
+  Hf  Hf7       1.0  0.33333  0.66667  0.40430  1.0000
+  Hf  Hf8       1.0  0.00000  0.00000  0.74259  1.0000
+  Hf  Hf9       1.0  0.66667  0.33333  0.40430  1.0000
+  Br  Br1       1.0  0.00000  0.61250  0.57579  1.0000
+  Br  Br2       1.0  0.61250  0.00000  0.57579  1.0000
+  Br  Br3       1.0  0.38750  0.38750  0.57579  1.0000
+  Br  Br4       1.0  0.35362  0.00000  0.29960  1.0000
+  Br  Br5       1.0  0.64638  0.64638  0.29960  1.0000
+  Br  Br6       1.0  0.00000  0.35362  0.29960  1.0000
+  Br  Br7       1.0  0.33333  0.66667  0.08517  1.0000
+  Br  Br8       1.0  0.00000  0.00000  0.43276  1.0000
+  Br  Br9       1.0  0.66667  0.33333  0.08517  1.0000

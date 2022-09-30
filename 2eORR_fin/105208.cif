@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Te4Hg8
+_chemical_formula_sum              "Te4 Hg8"
+_cell_length_a       10.7472
+_cell_length_b       10.7472
+_cell_length_c       9.21557
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    154.756
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.57635  0.42365  0.88527  1.0000
+  Te  Te2       1.0  0.42365  0.57635  0.38527  1.0000
+  Te  Te3       1.0  0.13409  0.86591  0.34709  1.0000
+  Te  Te4       1.0  0.86591  0.13409  0.84709  1.0000
+  Hg  Hg1       1.0  0.99938  0.00062  0.89369  1.0000
+  Hg  Hg2       1.0  0.00062  0.99938  0.39369  1.0000
+  Hg  Hg3       1.0  0.19624  0.80376  0.80056  1.0000
+  Hg  Hg4       1.0  0.80376  0.19624  0.30056  1.0000
+  Hg  Hg5       1.0  0.28181  0.71819  0.08128  1.0000
+  Hg  Hg6       1.0  0.71819  0.28181  0.58128  1.0000
+  Hg  Hg7       1.0  0.61405  0.38595  0.17780  1.0000
+  Hg  Hg8       1.0  0.38595  0.61405  0.67780  1.0000

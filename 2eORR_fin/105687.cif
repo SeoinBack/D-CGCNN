@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Ti3F8
+_chemical_formula_sum              "Ti3 F8"
+_cell_length_a       5.28628
+_cell_length_b       5.28628
+_cell_length_c       5.28628
+_cell_angle_alpha    91.8229
+_cell_angle_beta     91.8229
+_cell_angle_gamma    91.8229
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.50000  0.00000  0.50000  1.0000
+  Ti  Ti2       1.0  1.00000  0.50000  0.50000  1.0000
+  Ti  Ti3       1.0  0.50000  0.50000  0.00000  1.0000
+  F   F1        1.0  0.58795  0.83296  0.17595  1.0000
+  F   F2        1.0  0.83296  0.17595  0.58795  1.0000
+  F   F3        1.0  0.17595  0.58795  0.83296  1.0000
+  F   F4        1.0  0.66694  0.66694  0.66694  1.0000
+  F   F5        1.0  0.33306  0.33306  0.33306  1.0000
+  F   F6        1.0  0.82405  0.41205  0.16704  1.0000
+  F   F7        1.0  0.16704  0.82405  0.41205  1.0000
+  F   F8        1.0  0.41205  0.16704  0.82405  1.0000

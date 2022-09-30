@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Co2S6
+_chemical_formula_sum              "Co2 S6"
+_cell_length_a       3.90067
+_cell_length_b       5.20738
+_cell_length_c       9.61216
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.50000  0.66470  0.50000  1.0000
+  Co  Co2       1.0  0.00000  0.33530  0.00000  1.0000
+  S   S1        1.0  0.50000  0.46449  0.69066  1.0000
+  S   S2        1.0  0.50000  0.46449  0.30934  1.0000
+  S   S3        1.0  0.00000  0.53551  0.80934  1.0000
+  S   S4        1.0  0.00000  0.53551  0.19066  1.0000
+  S   S5        1.0  0.00000  0.80514  0.50000  1.0000
+  S   S6        1.0  0.50000  0.19486  0.00000  1.0000

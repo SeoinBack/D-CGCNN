@@ -1,0 +1,51 @@
+data_image0
+_chemical_formula_structural       Zn6Au20
+_chemical_formula_sum              "Zn6 Au20"
+_cell_length_a       10.5201
+_cell_length_b       10.5201
+_cell_length_c       4.71604
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.63501  0.73656  0.25000  1.0000
+  Zn  Zn2       1.0  0.26344  0.89845  0.25000  1.0000
+  Zn  Zn3       1.0  0.10155  0.36499  0.25000  1.0000
+  Zn  Zn4       1.0  0.36499  0.26344  0.75000  1.0000
+  Zn  Zn5       1.0  0.73656  0.10155  0.75000  1.0000
+  Zn  Zn6       1.0  0.89845  0.63501  0.75000  1.0000
+  Au  Au1       1.0  0.86334  0.04094  0.25000  1.0000
+  Au  Au2       1.0  0.95906  0.82239  0.25000  1.0000
+  Au  Au3       1.0  0.17761  0.13666  0.25000  1.0000
+  Au  Au4       1.0  0.13666  0.95906  0.75000  1.0000
+  Au  Au5       1.0  0.04094  0.17761  0.75000  1.0000
+  Au  Au6       1.0  0.82239  0.86334  0.75000  1.0000
+  Au  Au7       1.0  0.56449  0.97348  0.25000  1.0000
+  Au  Au8       1.0  0.02652  0.59101  0.25000  1.0000
+  Au  Au9       1.0  0.40899  0.43551  0.25000  1.0000
+  Au  Au10      1.0  0.43551  0.02652  0.75000  1.0000
+  Au  Au11      1.0  0.97348  0.40899  0.75000  1.0000
+  Au  Au12      1.0  0.59101  0.56449  0.75000  1.0000
+  Au  Au13      1.0  0.79590  0.27400  0.25000  1.0000
+  Au  Au14      1.0  0.72600  0.52190  0.25000  1.0000
+  Au  Au15      1.0  0.47810  0.20410  0.25000  1.0000
+  Au  Au16      1.0  0.20410  0.72600  0.75000  1.0000
+  Au  Au17      1.0  0.27400  0.47810  0.75000  1.0000
+  Au  Au18      1.0  0.52190  0.79590  0.75000  1.0000
+  Au  Au19      1.0  0.66667  0.33333  0.75000  1.0000
+  Au  Au20      1.0  0.33333  0.66667  0.25000  1.0000

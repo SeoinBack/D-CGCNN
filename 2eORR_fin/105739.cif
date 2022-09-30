@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Br9V13
+_chemical_formula_sum              "Br9 V13"
+_cell_length_a       9.70032
+_cell_length_b       9.70032
+_cell_length_c       5.12166
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.00000  0.00000  0.50000  1.0000
+  Br  Br2       1.0  0.33333  0.66667  0.96203  1.0000
+  Br  Br3       1.0  0.66667  0.33333  0.03797  1.0000
+  Br  Br4       1.0  0.20090  0.79910  0.45784  1.0000
+  Br  Br5       1.0  0.20090  0.40179  0.45784  1.0000
+  Br  Br6       1.0  0.59821  0.79910  0.45784  1.0000
+  Br  Br7       1.0  0.40179  0.20090  0.54216  1.0000
+  Br  Br8       1.0  0.79910  0.59821  0.54216  1.0000
+  Br  Br9       1.0  0.79910  0.20090  0.54216  1.0000
+  V   V1        1.0  0.00000  0.00000  0.00000  1.0000
+  V   V2        1.0  0.50000  0.00000  0.00000  1.0000
+  V   V3        1.0  1.00000  0.50000  0.00000  1.0000
+  V   V4        1.0  0.50000  0.50000  0.00000  1.0000
+  V   V5        1.0  0.50000  0.00000  0.50000  1.0000
+  V   V6        1.0  1.00000  0.50000  0.50000  1.0000
+  V   V7        1.0  0.50000  0.50000  0.50000  1.0000
+  V   V8        1.0  0.16419  0.83581  0.95351  1.0000
+  V   V9        1.0  0.16419  0.32837  0.95351  1.0000
+  V   V10       1.0  0.67163  0.83581  0.95351  1.0000
+  V   V11       1.0  0.32837  0.16419  0.04649  1.0000
+  V   V12       1.0  0.83581  0.67163  0.04649  1.0000
+  V   V13       1.0  0.83581  0.16419  0.04649  1.0000

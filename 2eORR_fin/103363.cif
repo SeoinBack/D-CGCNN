@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Rh9I5
+_chemical_formula_sum              "Rh9 I5"
+_cell_length_a       7.77736
+_cell_length_b       7.77736
+_cell_length_c       9.49707
+_cell_angle_alpha    49.7303
+_cell_angle_beta     49.7303
+_cell_angle_gamma    42.5982
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.50231  0.15384  0.27783  1.0000
+  Rh  Rh2       1.0  0.84616  0.49769  0.72217  1.0000
+  Rh  Rh3       1.0  0.33287  0.97606  0.02100  1.0000
+  Rh  Rh4       1.0  0.93949  0.58042  0.34917  1.0000
+  Rh  Rh5       1.0  0.41958  0.06051  0.65083  1.0000
+  Rh  Rh6       1.0  0.68766  0.31234  0.50000  1.0000
+  Rh  Rh7       1.0  0.02394  0.66713  0.97900  1.0000
+  Rh  Rh8       1.0  0.77329  0.42602  0.10017  1.0000
+  Rh  Rh9       1.0  0.57398  0.22671  0.89983  1.0000
+  I   I1        1.0  0.05570  0.11018  0.62544  1.0000
+  I   I2        1.0  0.38295  0.61705  0.00000  1.0000
+  I   I3        1.0  0.88982  0.94430  0.37456  1.0000
+  I   I4        1.0  0.19913  0.44487  0.75946  1.0000
+  I   I5        1.0  0.55513  0.80087  0.24054  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sn4Au8
+_chemical_formula_sum              "Sn4 Au8"
+_cell_length_a       3.93071
+_cell_length_b       7.92668
+_cell_length_c       8.27686
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.75000  0.83016  0.09194  1.0000
+  Sn  Sn2       1.0  0.25000  0.16984  0.90806  1.0000
+  Sn  Sn3       1.0  0.75000  0.33016  0.40806  1.0000
+  Sn  Sn4       1.0  0.25000  0.66984  0.59194  1.0000
+  Au  Au1       1.0  0.75000  0.42250  0.73298  1.0000
+  Au  Au2       1.0  0.25000  0.57750  0.26702  1.0000
+  Au  Au3       1.0  0.75000  0.92250  0.76702  1.0000
+  Au  Au4       1.0  0.25000  0.07750  0.23298  1.0000
+  Au  Au5       1.0  0.75000  0.37372  0.07201  1.0000
+  Au  Au6       1.0  0.25000  0.62628  0.92799  1.0000
+  Au  Au7       1.0  0.75000  0.87372  0.42799  1.0000
+  Au  Au8       1.0  0.25000  0.12628  0.57201  1.0000

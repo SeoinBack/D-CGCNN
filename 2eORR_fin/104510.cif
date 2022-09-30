@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Sn10Au6
+_chemical_formula_sum              "Sn10 Au6"
+_cell_length_a       8.48204
+_cell_length_b       8.48204
+_cell_length_c       8.48204
+_cell_angle_alpha    98.157
+_cell_angle_beta     98.157
+_cell_angle_gamma    135.744
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.58090  0.29035  0.87125  1.0000
+  Sn  Sn2       1.0  0.41910  0.70965  0.12875  1.0000
+  Sn  Sn3       1.0  0.70965  0.58090  0.29054  1.0000
+  Sn  Sn4       1.0  0.29035  0.41910  0.70946  1.0000
+  Sn  Sn5       1.0  0.91910  0.79035  0.70946  1.0000
+  Sn  Sn6       1.0  0.20965  0.91910  0.12875  1.0000
+  Sn  Sn7       1.0  0.25000  0.75000  0.50000  1.0000
+  Sn  Sn8       1.0  0.75000  0.25000  0.50000  1.0000
+  Sn  Sn9       1.0  0.08090  0.20965  0.29054  1.0000
+  Sn  Sn10      1.0  0.79035  0.08090  0.87125  1.0000
+  Au  Au1       1.0  0.84490  0.34490  0.18979  1.0000
+  Au  Au2       1.0  0.65510  0.84490  0.50000  1.0000
+  Au  Au3       1.0  0.34490  0.15510  0.50000  1.0000
+  Au  Au4       1.0  0.15510  0.65510  0.81021  1.0000
+  Au  Au5       1.0  0.75000  0.75000  0.00000  1.0000
+  Au  Au6       1.0  0.25000  0.25000  0.00000  1.0000

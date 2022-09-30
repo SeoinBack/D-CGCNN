@@ -1,0 +1,51 @@
+data_image0
+_chemical_formula_structural       Pd13Tl13
+_chemical_formula_sum              "Pd13 Tl13"
+_cell_length_a       10.331
+_cell_length_b       10.331
+_cell_length_c       10.331
+_cell_angle_alpha    116.49
+_cell_angle_beta     116.49
+_cell_angle_gamma    116.49
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.09641  0.34198  0.04872  1.0000
+  Pd  Pd2       1.0  0.15634  0.75671  0.60135  1.0000
+  Pd  Pd3       1.0  0.60135  0.15634  0.75671  1.0000
+  Pd  Pd4       1.0  0.84366  0.24329  0.39865  1.0000
+  Pd  Pd5       1.0  0.39865  0.84366  0.24329  1.0000
+  Pd  Pd6       1.0  0.34198  0.04872  0.09641  1.0000
+  Pd  Pd7       1.0  0.95128  0.90359  0.65802  1.0000
+  Pd  Pd8       1.0  0.24329  0.39865  0.84366  1.0000
+  Pd  Pd9       1.0  0.65802  0.95128  0.90359  1.0000
+  Pd  Pd10      1.0  0.75671  0.60135  0.15634  1.0000
+  Pd  Pd11      1.0  0.04872  0.09641  0.34198  1.0000
+  Pd  Pd12      1.0  0.50000  0.50000  0.50000  1.0000
+  Pd  Pd13      1.0  0.90359  0.65802  0.95128  1.0000
+  Tl  Tl1       1.0  0.56002  0.59755  0.84908  1.0000
+  Tl  Tl2       1.0  0.43998  0.40245  0.15092  1.0000
+  Tl  Tl3       1.0  0.09291  0.65008  0.24797  1.0000
+  Tl  Tl4       1.0  0.75203  0.90709  0.34992  1.0000
+  Tl  Tl5       1.0  0.24797  0.09291  0.65008  1.0000
+  Tl  Tl6       1.0  0.90709  0.34992  0.75203  1.0000
+  Tl  Tl7       1.0  0.40245  0.15092  0.43998  1.0000
+  Tl  Tl8       1.0  0.15092  0.43998  0.40245  1.0000
+  Tl  Tl9       1.0  0.65008  0.24797  0.09291  1.0000
+  Tl  Tl10      1.0  0.34992  0.75203  0.90709  1.0000
+  Tl  Tl11      1.0  0.84908  0.56002  0.59755  1.0000
+  Tl  Tl12      1.0  0.00000  0.00000  0.00000  1.0000
+  Tl  Tl13      1.0  0.59755  0.84908  0.56002  1.0000

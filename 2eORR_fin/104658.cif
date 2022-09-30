@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Sn8I12
+_chemical_formula_sum              "Sn8 I12"
+_cell_length_a       4.07751
+_cell_length_b       14.7925
+_cell_length_c       12.9855
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.25000  0.96294  0.83377  1.0000
+  Sn  Sn2       1.0  0.75000  0.03706  0.16623  1.0000
+  Sn  Sn3       1.0  0.75000  0.46294  0.66623  1.0000
+  Sn  Sn4       1.0  0.25000  0.53706  0.33377  1.0000
+  Sn  Sn5       1.0  0.25000  0.15490  0.42581  1.0000
+  Sn  Sn6       1.0  0.75000  0.84510  0.57419  1.0000
+  Sn  Sn7       1.0  0.75000  0.65490  0.07419  1.0000
+  Sn  Sn8       1.0  0.25000  0.34510  0.92581  1.0000
+  I   I1        1.0  0.25000  0.29515  0.69576  1.0000
+  I   I2        1.0  0.75000  0.70485  0.30424  1.0000
+  I   I3        1.0  0.75000  0.79515  0.80424  1.0000
+  I   I4        1.0  0.25000  0.20485  0.19576  1.0000
+  I   I5        1.0  0.25000  0.96200  0.36105  1.0000
+  I   I6        1.0  0.75000  0.03800  0.63895  1.0000
+  I   I7        1.0  0.75000  0.46200  0.13895  1.0000
+  I   I8        1.0  0.25000  0.53800  0.86105  1.0000
+  I   I9        1.0  0.25000  0.89035  0.06537  1.0000
+  I   I10       1.0  0.75000  0.10965  0.93463  1.0000
+  I   I11       1.0  0.75000  0.39035  0.43463  1.0000
+  I   I12       1.0  0.25000  0.60965  0.56537  1.0000

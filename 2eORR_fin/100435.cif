@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Se10Bi6
+_chemical_formula_sum              "Se10 Bi6"
+_cell_length_a       8.674
+_cell_length_b       8.674
+_cell_length_c       8.674
+_cell_angle_alpha    125.44
+_cell_angle_beta     125.44
+_cell_angle_gamma    80.8103
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.50826  0.68271  0.50000  1.0000
+  Se  Se2       1.0  0.49174  0.31729  0.50000  1.0000
+  Se  Se3       1.0  0.50000  0.50000  0.00000  1.0000
+  Se  Se4       1.0  0.00000  0.00000  0.00000  1.0000
+  Se  Se5       1.0  0.18271  0.00826  0.50000  1.0000
+  Se  Se6       1.0  0.00826  0.50826  0.82554  1.0000
+  Se  Se7       1.0  0.68271  0.18271  0.17446  1.0000
+  Se  Se8       1.0  0.31729  0.81729  0.82554  1.0000
+  Se  Se9       1.0  0.99174  0.49174  0.17446  1.0000
+  Se  Se10      1.0  0.81729  0.99174  0.50000  1.0000
+  Bi  Bi1       1.0  0.83495  0.66505  0.50000  1.0000
+  Bi  Bi2       1.0  0.66505  0.16505  0.83011  1.0000
+  Bi  Bi3       1.0  0.33495  0.83495  0.16989  1.0000
+  Bi  Bi4       1.0  0.16505  0.33495  0.50000  1.0000
+  Bi  Bi5       1.0  0.25000  0.25000  0.00000  1.0000
+  Bi  Bi6       1.0  0.75000  0.75000  0.00000  1.0000

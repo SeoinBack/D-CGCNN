@@ -1,0 +1,49 @@
+data_image0
+_chemical_formula_structural       Ti8Cl16
+_chemical_formula_sum              "Ti8 Cl16"
+_cell_length_a       9.79537
+_cell_length_b       6.12874
+_cell_length_c       11.2316
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.56265  0.85449  0.06556  1.0000
+  Ti  Ti2       1.0  0.93735  0.64551  0.56556  1.0000
+  Ti  Ti3       1.0  0.93735  0.35449  0.93444  1.0000
+  Ti  Ti4       1.0  0.56265  0.14551  0.43444  1.0000
+  Ti  Ti5       1.0  0.43735  0.14551  0.93444  1.0000
+  Ti  Ti6       1.0  0.06265  0.35449  0.43444  1.0000
+  Ti  Ti7       1.0  0.06265  0.64551  0.06556  1.0000
+  Ti  Ti8       1.0  0.43735  0.85449  0.56556  1.0000
+  Cl  Cl1       1.0  0.15296  0.50000  0.25000  1.0000
+  Cl  Cl2       1.0  0.34704  0.00000  0.75000  1.0000
+  Cl  Cl3       1.0  0.84704  0.50000  0.75000  1.0000
+  Cl  Cl4       1.0  0.65296  0.00000  0.25000  1.0000
+  Cl  Cl5       1.0  0.32730  0.04693  0.40810  1.0000
+  Cl  Cl6       1.0  0.17270  0.45307  0.90810  1.0000
+  Cl  Cl7       1.0  0.17270  0.54693  0.59190  1.0000
+  Cl  Cl8       1.0  0.32730  0.95307  0.09190  1.0000
+  Cl  Cl9       1.0  0.67270  0.95307  0.59190  1.0000
+  Cl  Cl10      1.0  0.82730  0.54693  0.09190  1.0000
+  Cl  Cl11      1.0  0.82730  0.45307  0.40810  1.0000
+  Cl  Cl12      1.0  0.67270  0.04693  0.90810  1.0000
+  Cl  Cl13      1.0  0.50000  0.50000  0.00000  1.0000
+  Cl  Cl14      1.0  0.00000  0.00000  0.50000  1.0000
+  Cl  Cl15      1.0  0.00000  0.00000  0.00000  1.0000
+  Cl  Cl16      1.0  0.50000  0.50000  0.50000  1.0000

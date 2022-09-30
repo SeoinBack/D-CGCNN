@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Cd2Ag3
+_chemical_formula_sum              "Cd2 Ag3"
+_cell_length_a       10.4217
+_cell_length_b       10.4217
+_cell_length_c       10.4217
+_cell_angle_alpha    23.1923
+_cell_angle_beta     23.1923
+_cell_angle_gamma    23.1923
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.60266  0.60266  0.60266  1.0000
+  Cd  Cd2       1.0  0.39734  0.39734  0.39734  1.0000
+  Ag  Ag1       1.0  0.00000  0.00000  0.00000  1.0000
+  Ag  Ag2       1.0  0.21785  0.21785  0.21785  1.0000
+  Ag  Ag3       1.0  0.78215  0.78215  0.78215  1.0000

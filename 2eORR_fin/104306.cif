@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sc4Cl8
+_chemical_formula_sum              "Sc4 Cl8"
+_cell_length_a       12.5797
+_cell_length_b       12.5797
+_cell_length_c       13.4598
+_cell_angle_alpha    34.3987
+_cell_angle_beta     34.3987
+_cell_angle_gamma    16.2704
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sc  Sc1       1.0  0.73293  0.73293  0.92273  1.0000
+  Sc  Sc2       1.0  0.26707  0.26707  0.07727  1.0000
+  Sc  Sc3       1.0  0.30472  0.30472  0.49198  1.0000
+  Sc  Sc4       1.0  0.69528  0.69528  0.50802  1.0000
+  Cl  Cl1       1.0  0.12605  0.12605  0.01316  1.0000
+  Cl  Cl2       1.0  0.87395  0.87395  0.98684  1.0000
+  Cl  Cl3       1.0  0.82921  0.82921  0.59089  1.0000
+  Cl  Cl4       1.0  0.17079  0.17079  0.40911  1.0000
+  Cl  Cl5       1.0  0.63719  0.63719  0.23433  1.0000
+  Cl  Cl6       1.0  0.36281  0.36281  0.76567  1.0000
+  Cl  Cl7       1.0  0.12227  0.12227  0.74020  1.0000
+  Cl  Cl8       1.0  0.87773  0.87773  0.25980  1.0000

@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Ti3Hg8
+_chemical_formula_sum              "Ti3 Hg8"
+_cell_length_a       6.47488
+_cell_length_b       6.47488
+_cell_length_c       6.47488
+_cell_angle_alpha    92.5153
+_cell_angle_beta     92.5153
+_cell_angle_gamma    92.5153
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.50000  0.00000  0.50000  1.0000
+  Ti  Ti2       1.0  1.00000  0.50000  0.50000  1.0000
+  Ti  Ti3       1.0  0.50000  0.50000  0.00000  1.0000
+  Hg  Hg1       1.0  0.67791  0.88905  0.11786  1.0000
+  Hg  Hg2       1.0  0.88905  0.11786  0.67791  1.0000
+  Hg  Hg3       1.0  0.11786  0.67791  0.88905  1.0000
+  Hg  Hg4       1.0  0.64204  0.64204  0.64204  1.0000
+  Hg  Hg5       1.0  0.35796  0.35796  0.35796  1.0000
+  Hg  Hg6       1.0  0.88214  0.32209  0.11095  1.0000
+  Hg  Hg7       1.0  0.11095  0.88214  0.32209  1.0000
+  Hg  Hg8       1.0  0.32209  0.11095  0.88214  1.0000

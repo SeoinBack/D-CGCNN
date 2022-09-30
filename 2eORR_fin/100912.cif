@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Cd9Cl5
+_chemical_formula_sum              "Cd9 Cl5"
+_cell_length_a       7.19803
+_cell_length_b       7.19803
+_cell_length_c       11.9506
+_cell_angle_alpha    72.8521
+_cell_angle_beta     72.8521
+_cell_angle_gamma    48.5845
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.33598  0.20202  0.33245  1.0000
+  Cd  Cd2       1.0  0.79798  0.66402  0.66755  1.0000
+  Cd  Cd3       1.0  0.13099  0.08659  0.02528  1.0000
+  Cd  Cd4       1.0  0.19553  0.67938  0.19486  1.0000
+  Cd  Cd5       1.0  0.32062  0.80447  0.80514  1.0000
+  Cd  Cd6       1.0  0.65197  0.34803  0.50000  1.0000
+  Cd  Cd7       1.0  0.91341  0.86901  0.97472  1.0000
+  Cd  Cd8       1.0  0.01238  0.44200  0.14731  1.0000
+  Cd  Cd9       1.0  0.55800  0.98762  0.85269  1.0000
+  Cl  Cl1       1.0  0.02659  0.23589  0.56274  1.0000
+  Cl  Cl2       1.0  0.62904  0.37096  0.00000  1.0000
+  Cl  Cl3       1.0  0.76411  0.97341  0.43726  1.0000
+  Cl  Cl4       1.0  0.31092  0.46552  0.67306  1.0000
+  Cl  Cl5       1.0  0.53448  0.68908  0.32694  1.0000

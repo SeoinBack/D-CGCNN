@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Cu9Au13
+_chemical_formula_sum              "Cu9 Au13"
+_cell_length_a       6.95974
+_cell_length_b       6.95974
+_cell_length_c       9.31946
+_cell_angle_alpha    63.7969
+_cell_angle_beta     63.7969
+_cell_angle_gamma    76.1214
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.30590  0.30590  0.16388  1.0000
+  Cu  Cu2       1.0  0.72368  0.16555  0.31854  1.0000
+  Cu  Cu3       1.0  0.86431  0.86431  0.15748  1.0000
+  Cu  Cu4       1.0  0.13569  0.13569  0.84252  1.0000
+  Cu  Cu5       1.0  0.50000  0.50000  0.50000  1.0000
+  Cu  Cu6       1.0  0.69410  0.69410  0.83612  1.0000
+  Cu  Cu7       1.0  0.16555  0.72368  0.31854  1.0000
+  Cu  Cu8       1.0  0.83445  0.27632  0.68146  1.0000
+  Cu  Cu9       1.0  0.27632  0.83445  0.68146  1.0000
+  Au  Au1       1.0  0.55158  0.07793  0.66221  1.0000
+  Au  Au2       1.0  0.07793  0.55158  0.66221  1.0000
+  Au  Au3       1.0  0.56286  0.56286  0.18330  1.0000
+  Au  Au4       1.0  0.73723  0.73723  0.51533  1.0000
+  Au  Au5       1.0  0.44842  0.92207  0.33779  1.0000
+  Au  Au6       1.0  0.73954  0.26046  0.00000  1.0000
+  Au  Au7       1.0  0.26277  0.26277  0.48467  1.0000
+  Au  Au8       1.0  0.43714  0.43714  0.81670  1.0000
+  Au  Au9       1.0  0.26046  0.73954  0.00000  1.0000
+  Au  Au10      1.0  0.00000  0.00000  0.50000  1.0000
+  Au  Au11      1.0  0.92207  0.44842  0.33779  1.0000
+  Au  Au12      1.0  0.00000  0.50000  0.00000  1.0000
+  Au  Au13      1.0  0.50000  0.00000  0.00000  1.0000

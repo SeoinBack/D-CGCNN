@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Sn4I12
+_chemical_formula_sum              "Sn4 I12"
+_cell_length_a       11.3747
+_cell_length_b       11.3747
+_cell_length_c       6.09195
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90.8132
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.62967  0.37033  0.00000  1.0000
+  Sn  Sn2       1.0  0.37033  0.62967  0.00000  1.0000
+  Sn  Sn3       1.0  0.12967  0.87033  0.50000  1.0000
+  Sn  Sn4       1.0  0.87033  0.12967  0.50000  1.0000
+  I   I1        1.0  0.63456  0.63456  0.99826  1.0000
+  I   I2        1.0  0.13456  0.13456  0.50174  1.0000
+  I   I3        1.0  0.86544  0.86544  0.49826  1.0000
+  I   I4        1.0  0.34887  0.65113  0.50000  1.0000
+  I   I5        1.0  0.01789  0.51789  0.75000  1.0000
+  I   I6        1.0  0.84887  0.15113  0.00000  1.0000
+  I   I7        1.0  0.98211  0.48211  0.25000  1.0000
+  I   I8        1.0  0.36544  0.36544  0.00174  1.0000
+  I   I9        1.0  0.65113  0.34887  0.50000  1.0000
+  I   I10       1.0  0.15113  0.84887  0.00000  1.0000
+  I   I11       1.0  0.48211  0.98211  0.25000  1.0000
+  I   I12       1.0  0.51789  0.01789  0.75000  1.0000

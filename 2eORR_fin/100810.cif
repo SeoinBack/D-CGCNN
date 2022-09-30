@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cd3C4
+_chemical_formula_sum              "Cd3 C4"
+_cell_length_a       6.67057
+_cell_length_b       6.67057
+_cell_length_c       8.28803
+_cell_angle_alpha    60.5763
+_cell_angle_beta     60.5763
+_cell_angle_gamma    22.8107
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.00184  0.00184  0.82687  1.0000
+  Cd  Cd2       1.0  0.99816  0.99816  0.17313  1.0000
+  Cd  Cd3       1.0  0.50000  0.50000  0.50000  1.0000
+  C   C1        1.0  0.75114  0.75114  0.49674  1.0000
+  C   C2        1.0  0.24886  0.24886  0.50326  1.0000
+  C   C3        1.0  0.24716  0.24716  0.00094  1.0000
+  C   C4        1.0  0.75284  0.75284  0.99906  1.0000

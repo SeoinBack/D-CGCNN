@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Rh4Se8
+_chemical_formula_sum              "Rh4 Se8"
+_cell_length_a       10.3794
+_cell_length_b       10.3794
+_cell_length_c       6.63505
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    158.728
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.63200  0.36800  0.78081  1.0000
+  Rh  Rh2       1.0  0.36800  0.63200  0.28081  1.0000
+  Rh  Rh3       1.0  0.13222  0.86778  0.28119  1.0000
+  Rh  Rh4       1.0  0.86778  0.13222  0.78119  1.0000
+  Se  Se1       1.0  0.93059  0.06941  0.11385  1.0000
+  Se  Se2       1.0  0.06941  0.93059  0.61385  1.0000
+  Se  Se3       1.0  0.18618  0.81382  0.94765  1.0000
+  Se  Se4       1.0  0.81382  0.18618  0.44765  1.0000
+  Se  Se5       1.0  0.31361  0.68639  0.94824  1.0000
+  Se  Se6       1.0  0.68639  0.31361  0.44824  1.0000
+  Se  Se7       1.0  0.56949  0.43051  0.11394  1.0000
+  Se  Se8       1.0  0.43051  0.56949  0.61394  1.0000

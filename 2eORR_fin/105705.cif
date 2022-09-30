@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Ti4Hg18
+_chemical_formula_sum              "Ti4 Hg18"
+_cell_length_a       8.34539
+_cell_length_b       8.29788
+_cell_length_c       8.36383
+_cell_angle_alpha    104.534
+_cell_angle_beta     102.365
+_cell_angle_gamma    102.641
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.10869  0.12642  0.13465  1.0000
+  Ti  Ti2       1.0  0.89131  0.87358  0.86535  1.0000
+  Ti  Ti3       1.0  0.39188  0.36467  0.37377  1.0000
+  Ti  Ti4       1.0  0.60812  0.63533  0.62623  1.0000
+  Hg  Hg1       1.0  0.94723  0.19377  0.41274  1.0000
+  Hg  Hg2       1.0  0.05277  0.80623  0.58726  1.0000
+  Hg  Hg3       1.0  0.26260  0.50304  0.67155  1.0000
+  Hg  Hg4       1.0  0.73740  0.49696  0.32845  1.0000
+  Hg  Hg5       1.0  0.58506  0.75930  0.98437  1.0000
+  Hg  Hg6       1.0  0.41494  0.24070  0.01563  1.0000
+  Hg  Hg7       1.0  0.93846  0.75587  0.16539  1.0000
+  Hg  Hg8       1.0  0.06154  0.24413  0.83461  1.0000
+  Hg  Hg9       1.0  0.25126  0.04407  0.44510  1.0000
+  Hg  Hg10      1.0  0.74874  0.95593  0.55490  1.0000
+  Hg  Hg11      1.0  0.55706  0.33045  0.74013  1.0000
+  Hg  Hg12      1.0  0.44294  0.66955  0.25987  1.0000
+  Hg  Hg13      1.0  0.23612  0.82698  0.99526  1.0000
+  Hg  Hg14      1.0  0.76388  0.17302  0.00474  1.0000
+  Hg  Hg15      1.0  0.91236  0.51335  0.73694  1.0000
+  Hg  Hg16      1.0  0.08764  0.48665  0.26306  1.0000
+  Hg  Hg17      1.0  0.55758  0.08611  0.30090  1.0000
+  Hg  Hg18      1.0  0.44242  0.91389  0.69910  1.0000

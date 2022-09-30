@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Y4N8
+_chemical_formula_sum              "Y4 N8"
+_cell_length_a       6.72499
+_cell_length_b       6.72499
+_cell_length_c       11.4835
+_cell_angle_alpha    46.1156
+_cell_angle_beta     46.1156
+_cell_angle_gamma    29.7109
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Y   Y1        1.0  0.75821  0.75821  0.73350  1.0000
+  Y   Y2        1.0  0.24179  0.24179  0.26650  1.0000
+  Y   Y3        1.0  0.42241  0.42241  0.36531  1.0000
+  Y   Y4        1.0  0.57759  0.57759  0.63469  1.0000
+  N   N1        1.0  0.82007  0.82007  0.03685  1.0000
+  N   N2        1.0  0.17993  0.17993  0.96315  1.0000
+  N   N3        1.0  0.01508  0.01508  0.54833  1.0000
+  N   N4        1.0  0.98492  0.98492  0.45167  1.0000
+  N   N5        1.0  0.68814  0.68814  0.13936  1.0000
+  N   N6        1.0  0.31186  0.31186  0.86064  1.0000
+  N   N7        1.0  0.19227  0.19227  0.66254  1.0000
+  N   N8        1.0  0.80773  0.80773  0.33746  1.0000

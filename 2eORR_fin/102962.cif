@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ir4F8
+_chemical_formula_sum              "Ir4 F8"
+_cell_length_a       7.29741
+_cell_length_b       7.29741
+_cell_length_c       11.0814
+_cell_angle_alpha    55.2831
+_cell_angle_beta     55.2831
+_cell_angle_gamma    24.8872
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.72569  0.72569  0.93216  1.0000
+  Ir  Ir2       1.0  0.27431  0.27431  0.06784  1.0000
+  Ir  Ir3       1.0  0.33560  0.33560  0.43037  1.0000
+  Ir  Ir4       1.0  0.66440  0.66440  0.56963  1.0000
+  F   F1        1.0  0.10914  0.10914  0.00101  1.0000
+  F   F2        1.0  0.89086  0.89086  0.99899  1.0000
+  F   F3        1.0  0.89344  0.89344  0.49460  1.0000
+  F   F4        1.0  0.10656  0.10656  0.50540  1.0000
+  F   F5        1.0  0.68540  0.68540  0.21656  1.0000
+  F   F6        1.0  0.31460  0.31460  0.78344  1.0000
+  F   F7        1.0  0.12058  0.12058  0.71763  1.0000
+  F   F8        1.0  0.87942  0.87942  0.28237  1.0000

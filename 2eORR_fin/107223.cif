@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Se10Pd5
+_chemical_formula_sum              "Se10 Pd5"
+_cell_length_a       3.80345
+_cell_length_b       6.30358
+_cell_length_c       13.9356
+_cell_angle_alpha    103.946
+_cell_angle_beta     90.1358
+_cell_angle_gamma    107.414
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.82417  0.68103  0.09035  1.0000
+  Se  Se2       1.0  0.44945  0.86578  0.88868  1.0000
+  Se  Se3       1.0  0.05185  0.06605  0.68994  1.0000
+  Se  Se4       1.0  0.63434  0.27615  0.49138  1.0000
+  Se  Se5       1.0  0.21866  0.48573  0.29192  1.0000
+  Se  Se6       1.0  0.55055  0.13422  0.11132  1.0000
+  Se  Se7       1.0  0.17583  0.31897  0.90965  1.0000
+  Se  Se8       1.0  0.78134  0.51427  0.70808  1.0000
+  Se  Se9       1.0  0.36566  0.72385  0.50862  1.0000
+  Se  Se10      1.0  0.94815  0.93395  0.31006  1.0000
+  Pd  Pd1       1.0  0.81253  0.59265  0.89919  1.0000
+  Pd  Pd2       1.0  0.41611  0.79018  0.69883  1.0000
+  Pd  Pd3       1.0  0.00000  0.00000  0.50000  1.0000
+  Pd  Pd4       1.0  0.18747  0.40735  0.10081  1.0000
+  Pd  Pd5       1.0  0.58389  0.20982  0.30117  1.0000

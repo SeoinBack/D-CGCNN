@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Au10Co6
+_chemical_formula_sum              "Au10 Co6"
+_cell_length_a       7.47119
+_cell_length_b       7.47119
+_cell_length_c       7.47119
+_cell_angle_alpha    127.059
+_cell_angle_beta     127.059
+_cell_angle_gamma    78.1536
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.50617  0.68157  0.50000  1.0000
+  Au  Au2       1.0  0.49383  0.31843  0.50000  1.0000
+  Au  Au3       1.0  0.50000  0.50000  0.00000  1.0000
+  Au  Au4       1.0  0.00000  0.00000  0.00000  1.0000
+  Au  Au5       1.0  0.18157  0.00617  0.50000  1.0000
+  Au  Au6       1.0  0.00617  0.50617  0.82460  1.0000
+  Au  Au7       1.0  0.68157  0.18157  0.17540  1.0000
+  Au  Au8       1.0  0.31843  0.81843  0.82460  1.0000
+  Au  Au9       1.0  0.99383  0.49383  0.17540  1.0000
+  Au  Au10      1.0  0.81843  0.99383  0.50000  1.0000
+  Co  Co1       1.0  0.87612  0.62388  0.50000  1.0000
+  Co  Co2       1.0  0.62388  0.12388  0.74777  1.0000
+  Co  Co3       1.0  0.37612  0.87612  0.25223  1.0000
+  Co  Co4       1.0  0.12388  0.37612  0.50000  1.0000
+  Co  Co5       1.0  0.25000  0.25000  0.00000  1.0000
+  Co  Co6       1.0  0.75000  0.75000  0.00000  1.0000

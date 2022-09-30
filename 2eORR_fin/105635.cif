@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Te6Tl16
+_chemical_formula_sum              "Te6 Tl16"
+_cell_length_a       6.90134
+_cell_length_b       6.94581
+_cell_length_c       18.9605
+_cell_angle_alpha    59.2696
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.41374  0.82905  0.72815  1.0000
+  Te  Te2       1.0  0.58626  0.17095  0.27185  1.0000
+  Te  Te3       1.0  0.50000  0.00000  0.00000  1.0000
+  Te  Te4       1.0  0.91374  0.17095  0.77185  1.0000
+  Te  Te5       1.0  0.08626  0.82905  0.22815  1.0000
+  Te  Te6       1.0  0.00000  0.00000  0.50000  1.0000
+  Tl  Tl1       1.0  0.58049  0.72799  0.21035  1.0000
+  Tl  Tl2       1.0  0.66489  0.27604  0.60529  1.0000
+  Tl  Tl3       1.0  0.65903  0.72070  0.90315  1.0000
+  Tl  Tl4       1.0  0.57405  0.24439  0.42624  1.0000
+  Tl  Tl5       1.0  0.92595  0.24439  0.92624  1.0000
+  Tl  Tl6       1.0  0.83511  0.27604  0.10529  1.0000
+  Tl  Tl7       1.0  0.84097  0.72070  0.40315  1.0000
+  Tl  Tl8       1.0  0.91951  0.72799  0.71035  1.0000
+  Tl  Tl9       1.0  0.16489  0.72396  0.89471  1.0000
+  Tl  Tl10      1.0  0.07405  0.75561  0.07376  1.0000
+  Tl  Tl11      1.0  0.15903  0.27930  0.59685  1.0000
+  Tl  Tl12      1.0  0.08049  0.27201  0.28965  1.0000
+  Tl  Tl13      1.0  0.34097  0.27930  0.09685  1.0000
+  Tl  Tl14      1.0  0.41951  0.27201  0.78965  1.0000
+  Tl  Tl15      1.0  0.33511  0.72396  0.39471  1.0000
+  Tl  Tl16      1.0  0.42595  0.75561  0.57376  1.0000

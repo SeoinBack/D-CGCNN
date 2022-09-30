@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       S12Pd3
+_chemical_formula_sum              "S12 Pd3"
+_cell_length_a       4.91837
+_cell_length_b       7.46087
+_cell_length_c       7.86628
+_cell_angle_alpha    111.33
+_cell_angle_beta     90.3449
+_cell_angle_gamma    100.434
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.82197  0.83747  0.21449  1.0000
+  S   S2        1.0  0.17803  0.16253  0.78551  1.0000
+  S   S3        1.0  0.72802  0.57313  0.54863  1.0000
+  S   S4        1.0  0.27198  0.42687  0.45137  1.0000
+  S   S5        1.0  0.79461  0.29601  0.12400  1.0000
+  S   S6        1.0  0.20539  0.70399  0.87600  1.0000
+  S   S7        1.0  0.40065  0.63317  0.10033  1.0000
+  S   S8        1.0  0.59935  0.36683  0.89967  1.0000
+  S   S9        1.0  0.34083  0.91414  0.56133  1.0000
+  S   S10       1.0  0.65917  0.08586  0.43867  1.0000
+  S   S11       1.0  0.60846  0.83087  0.76877  1.0000
+  S   S12       1.0  0.39154  0.16913  0.23123  1.0000
+  Pd  Pd1       1.0  0.00000  0.00000  0.00000  1.0000
+  Pd  Pd2       1.0  0.05912  0.62752  0.32795  1.0000
+  Pd  Pd3       1.0  0.94088  0.37248  0.67205  1.0000

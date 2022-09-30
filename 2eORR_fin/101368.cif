@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Co6Ag16
+_chemical_formula_sum              "Co6 Ag16"
+_cell_length_a       5.28858
+_cell_length_b       5.11082
+_cell_length_c       15.0953
+_cell_angle_alpha    66.4564
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.44304  0.92305  0.74318  1.0000
+  Co  Co2       1.0  0.55696  0.07695  0.25682  1.0000
+  Co  Co3       1.0  0.50000  0.00000  0.00000  1.0000
+  Co  Co4       1.0  0.94304  0.07695  0.75682  1.0000
+  Co  Co5       1.0  0.05696  0.92305  0.24318  1.0000
+  Co  Co6       1.0  0.00000  0.00000  0.50000  1.0000
+  Ag  Ag1       1.0  0.52464  0.65695  0.19753  1.0000
+  Ag  Ag2       1.0  0.70282  0.27407  0.58962  1.0000
+  Ag  Ag3       1.0  0.69841  0.69616  0.90705  1.0000
+  Ag  Ag4       1.0  0.52394  0.22656  0.40718  1.0000
+  Ag  Ag5       1.0  0.97606  0.22656  0.90718  1.0000
+  Ag  Ag6       1.0  0.79718  0.27407  0.08962  1.0000
+  Ag  Ag7       1.0  0.80159  0.69616  0.40705  1.0000
+  Ag  Ag8       1.0  0.97536  0.65695  0.69753  1.0000
+  Ag  Ag9       1.0  0.20282  0.72593  0.91038  1.0000
+  Ag  Ag10      1.0  0.02394  0.77344  0.09282  1.0000
+  Ag  Ag11      1.0  0.19841  0.30384  0.59295  1.0000
+  Ag  Ag12      1.0  0.02464  0.34305  0.30247  1.0000
+  Ag  Ag13      1.0  0.30159  0.30384  0.09295  1.0000
+  Ag  Ag14      1.0  0.47536  0.34305  0.80247  1.0000
+  Ag  Ag15      1.0  0.29718  0.72593  0.41038  1.0000
+  Ag  Ag16      1.0  0.47606  0.77344  0.59282  1.0000

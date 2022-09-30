@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Sb4Au12
+_chemical_formula_sum              "Sb4 Au12"
+_cell_length_a       9.07222
+_cell_length_b       9.07222
+_cell_length_c       6.0144
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    139.598
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.62647  0.37353  0.00000  1.0000
+  Sb  Sb2       1.0  0.37353  0.62647  0.00000  1.0000
+  Sb  Sb3       1.0  0.12647  0.87353  0.50000  1.0000
+  Sb  Sb4       1.0  0.87353  0.12647  0.50000  1.0000
+  Au  Au1       1.0  0.74909  0.74909  0.24220  1.0000
+  Au  Au2       1.0  0.24909  0.24909  0.25780  1.0000
+  Au  Au3       1.0  0.75091  0.75091  0.74220  1.0000
+  Au  Au4       1.0  0.37588  0.62412  0.50000  1.0000
+  Au  Au5       1.0  0.99475  0.49475  0.75000  1.0000
+  Au  Au6       1.0  0.87588  0.12412  0.00000  1.0000
+  Au  Au7       1.0  0.00525  0.50525  0.25000  1.0000
+  Au  Au8       1.0  0.25091  0.25091  0.75780  1.0000
+  Au  Au9       1.0  0.62412  0.37588  0.50000  1.0000
+  Au  Au10      1.0  0.12412  0.87588  0.00000  1.0000
+  Au  Au11      1.0  0.50525  0.00525  0.25000  1.0000
+  Au  Au12      1.0  0.49475  0.99475  0.75000  1.0000

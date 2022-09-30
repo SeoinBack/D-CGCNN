@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Te8Br12
+_chemical_formula_sum              "Te8 Br12"
+_cell_length_a       3.96481
+_cell_length_b       11.4969
+_cell_length_c       20.4086
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.25000  0.03754  0.79036  1.0000
+  Te  Te2       1.0  0.75000  0.96246  0.20964  1.0000
+  Te  Te3       1.0  0.75000  0.53754  0.70964  1.0000
+  Te  Te4       1.0  0.25000  0.46246  0.29036  1.0000
+  Te  Te5       1.0  0.25000  0.09350  0.50738  1.0000
+  Te  Te6       1.0  0.75000  0.90650  0.49262  1.0000
+  Te  Te7       1.0  0.75000  0.59350  0.99262  1.0000
+  Te  Te8       1.0  0.25000  0.40650  0.00738  1.0000
+  Br  Br1       1.0  0.25000  0.26442  0.59159  1.0000
+  Br  Br2       1.0  0.75000  0.73558  0.40841  1.0000
+  Br  Br3       1.0  0.75000  0.76442  0.90841  1.0000
+  Br  Br4       1.0  0.25000  0.23558  0.09159  1.0000
+  Br  Br5       1.0  0.25000  0.05970  0.28909  1.0000
+  Br  Br6       1.0  0.75000  0.94030  0.71091  1.0000
+  Br  Br7       1.0  0.75000  0.55970  0.21091  1.0000
+  Br  Br8       1.0  0.25000  0.44030  0.78909  1.0000
+  Br  Br9       1.0  0.25000  0.86423  0.13038  1.0000
+  Br  Br10      1.0  0.75000  0.13577  0.86962  1.0000
+  Br  Br11      1.0  0.75000  0.36423  0.36962  1.0000
+  Br  Br12      1.0  0.25000  0.63577  0.63038  1.0000

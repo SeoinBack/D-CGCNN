@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Sb10Tl6
+_chemical_formula_sum              "Sb10 Tl6"
+_cell_length_a       9.5589
+_cell_length_b       9.5589
+_cell_length_c       9.5589
+_cell_angle_alpha    96.8447
+_cell_angle_beta     96.8447
+_cell_angle_gamma    139.609
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.55109  0.21778  0.76887  1.0000
+  Sb  Sb2       1.0  0.44891  0.78222  0.23113  1.0000
+  Sb  Sb3       1.0  0.78222  0.55109  0.33330  1.0000
+  Sb  Sb4       1.0  0.21778  0.44891  0.66670  1.0000
+  Sb  Sb5       1.0  0.94891  0.71778  0.66670  1.0000
+  Sb  Sb6       1.0  0.28222  0.94891  0.23113  1.0000
+  Sb  Sb7       1.0  0.25000  0.75000  0.50000  1.0000
+  Sb  Sb8       1.0  0.75000  0.25000  0.50000  1.0000
+  Sb  Sb9       1.0  0.05109  0.28222  0.33330  1.0000
+  Sb  Sb10      1.0  0.71778  0.05109  0.76887  1.0000
+  Tl  Tl1       1.0  0.80016  0.30016  0.10032  1.0000
+  Tl  Tl2       1.0  0.69984  0.80016  0.50000  1.0000
+  Tl  Tl3       1.0  0.30016  0.19984  0.50000  1.0000
+  Tl  Tl4       1.0  0.19984  0.69984  0.89968  1.0000
+  Tl  Tl5       1.0  0.75000  0.75000  0.00000  1.0000
+  Tl  Tl6       1.0  0.25000  0.25000  0.00000  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Sb4Ag8
+_chemical_formula_sum              "Sb4 Ag8"
+_cell_length_a       9.8124
+_cell_length_b       9.8124
+_cell_length_c       6.7054
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    155.659
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.53372  0.46628  0.80490  1.0000
+  Sb  Sb2       1.0  0.46628  0.53372  0.30490  1.0000
+  Sb  Sb3       1.0  0.20718  0.79282  0.28152  1.0000
+  Sb  Sb4       1.0  0.79282  0.20718  0.78152  1.0000
+  Ag  Ag1       1.0  0.93874  0.06126  0.99320  1.0000
+  Ag  Ag2       1.0  0.06126  0.93874  0.49320  1.0000
+  Ag  Ag3       1.0  0.15700  0.84300  0.87441  1.0000
+  Ag  Ag4       1.0  0.84300  0.15700  0.37441  1.0000
+  Ag  Ag5       1.0  0.33166  0.66834  0.06329  1.0000
+  Ag  Ag6       1.0  0.66834  0.33166  0.56329  1.0000
+  Ag  Ag7       1.0  0.60932  0.39068  0.16838  1.0000
+  Ag  Ag8       1.0  0.39068  0.60932  0.66838  1.0000

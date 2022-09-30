@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Pd2Au8
+_chemical_formula_sum              "Pd2 Au8"
+_cell_length_a       5.62154
+_cell_length_b       5.67164
+_cell_length_c       7.05095
+_cell_angle_alpha    101.002
+_cell_angle_beta     113.694
+_cell_angle_gamma    90.5606
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.00275  0.50075  0.99898  1.0000
+  Pd  Pd2       1.0  0.49416  0.99776  0.99850  1.0000
+  Au  Au1       1.0  0.91736  0.30670  0.29910  1.0000
+  Au  Au2       1.0  0.57856  0.19080  0.69848  1.0000
+  Au  Au3       1.0  0.11216  0.65320  0.69238  1.0000
+  Au  Au4       1.0  0.07522  0.15368  0.69534  1.0000
+  Au  Au5       1.0  0.38591  0.84642  0.30517  1.0000
+  Au  Au6       1.0  0.42061  0.34590  0.30211  1.0000
+  Au  Au7       1.0  0.88353  0.80705  0.29862  1.0000
+  Au  Au8       1.0  0.61440  0.69037  0.69878  1.0000

@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Au9Bi13
+_chemical_formula_sum              "Au9 Bi13"
+_cell_length_a       8.98967
+_cell_length_b       8.98967
+_cell_length_c       8.53591
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.00000  0.00000  0.50000  1.0000
+  Au  Au2       1.0  0.33333  0.66667  0.78763  1.0000
+  Au  Au3       1.0  0.66667  0.33333  0.21237  1.0000
+  Au  Au4       1.0  0.22588  0.77412  0.24737  1.0000
+  Au  Au5       1.0  0.22588  0.45177  0.24737  1.0000
+  Au  Au6       1.0  0.54823  0.77412  0.24737  1.0000
+  Au  Au7       1.0  0.45177  0.22588  0.75263  1.0000
+  Au  Au8       1.0  0.77412  0.54823  0.75263  1.0000
+  Au  Au9       1.0  0.77412  0.22588  0.75263  1.0000
+  Bi  Bi1       1.0  0.00000  0.00000  0.00000  1.0000
+  Bi  Bi2       1.0  0.50000  0.00000  0.00000  1.0000
+  Bi  Bi3       1.0  0.00000  0.50000  0.00000  1.0000
+  Bi  Bi4       1.0  0.50000  0.50000  0.00000  1.0000
+  Bi  Bi5       1.0  0.50000  0.00000  0.50000  1.0000
+  Bi  Bi6       1.0  0.00000  0.50000  0.50000  1.0000
+  Bi  Bi7       1.0  0.50000  0.50000  0.50000  1.0000
+  Bi  Bi8       1.0  0.14603  0.85397  0.73022  1.0000
+  Bi  Bi9       1.0  0.14603  0.29207  0.73022  1.0000
+  Bi  Bi10      1.0  0.70793  0.85397  0.73022  1.0000
+  Bi  Bi11      1.0  0.29207  0.14603  0.26978  1.0000
+  Bi  Bi12      1.0  0.85397  0.70793  0.26978  1.0000
+  Bi  Bi13      1.0  0.85397  0.14603  0.26978  1.0000

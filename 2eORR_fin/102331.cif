@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Fe8Au12
+_chemical_formula_sum              "Fe8 Au12"
+_cell_length_a       2.80038
+_cell_length_b       10.427
+_cell_length_c       11.2551
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.25000  0.97286  0.91586  1.0000
+  Fe  Fe2       1.0  0.75000  0.02714  0.08414  1.0000
+  Fe  Fe3       1.0  0.75000  0.47286  0.58414  1.0000
+  Fe  Fe4       1.0  0.25000  0.52714  0.41586  1.0000
+  Fe  Fe5       1.0  0.25000  0.09307  0.50373  1.0000
+  Fe  Fe6       1.0  0.75000  0.90693  0.49627  1.0000
+  Fe  Fe7       1.0  0.75000  0.59307  0.99627  1.0000
+  Fe  Fe8       1.0  0.25000  0.40693  0.00373  1.0000
+  Au  Au1       1.0  0.25000  0.27179  0.67467  1.0000
+  Au  Au2       1.0  0.75000  0.72821  0.32533  1.0000
+  Au  Au3       1.0  0.75000  0.77179  0.82533  1.0000
+  Au  Au4       1.0  0.25000  0.22821  0.17467  1.0000
+  Au  Au5       1.0  0.25000  0.98220  0.29312  1.0000
+  Au  Au6       1.0  0.75000  0.01780  0.70688  1.0000
+  Au  Au7       1.0  0.75000  0.48220  0.20688  1.0000
+  Au  Au8       1.0  0.25000  0.51780  0.79312  1.0000
+  Au  Au9       1.0  0.25000  0.79434  0.09294  1.0000
+  Au  Au10      1.0  0.75000  0.20566  0.90706  1.0000
+  Au  Au11      1.0  0.75000  0.29434  0.40706  1.0000
+  Au  Au12      1.0  0.25000  0.70566  0.59294  1.0000

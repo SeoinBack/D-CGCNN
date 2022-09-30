@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Hg8Co4
+_chemical_formula_sum              "Hg8 Co4"
+_cell_length_a       3.28316
+_cell_length_b       9.15444
+_cell_length_c       8.69184
+_cell_angle_alpha    62.138
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.25112  0.06343  0.34366  1.0000
+  Hg  Hg2       1.0  0.75112  0.93657  0.15634  1.0000
+  Hg  Hg3       1.0  0.74888  0.93657  0.65634  1.0000
+  Hg  Hg4       1.0  0.24888  0.06343  0.84366  1.0000
+  Hg  Hg5       1.0  0.74639  0.38776  0.68134  1.0000
+  Hg  Hg6       1.0  0.24639  0.61224  0.81866  1.0000
+  Hg  Hg7       1.0  0.25361  0.61224  0.31866  1.0000
+  Hg  Hg8       1.0  0.75361  0.38776  0.18134  1.0000
+  Co  Co1       1.0  0.25164  0.27083  0.99128  1.0000
+  Co  Co2       1.0  0.75164  0.72917  0.50872  1.0000
+  Co  Co3       1.0  0.74836  0.72917  0.00872  1.0000
+  Co  Co4       1.0  0.24836  0.27083  0.49128  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Br8Cd4
+_chemical_formula_sum              "Br8 Cd4"
+_cell_length_a       6.92216
+_cell_length_b       10.0339
+_cell_length_c       8.34131
+_cell_angle_alpha    55.2693
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.21885  0.15024  0.24770  1.0000
+  Br  Br2       1.0  0.71885  0.84976  0.25230  1.0000
+  Br  Br3       1.0  0.78115  0.84976  0.75230  1.0000
+  Br  Br4       1.0  0.28115  0.15024  0.74770  1.0000
+  Br  Br5       1.0  0.79151  0.36531  0.79677  1.0000
+  Br  Br6       1.0  0.29151  0.63469  0.70323  1.0000
+  Br  Br7       1.0  0.20849  0.63469  0.20323  1.0000
+  Br  Br8       1.0  0.70849  0.36531  0.29677  1.0000
+  Cd  Cd1       1.0  0.17596  0.33525  0.86318  1.0000
+  Cd  Cd2       1.0  0.67596  0.66475  0.63682  1.0000
+  Cd  Cd3       1.0  0.82404  0.66475  0.13682  1.0000
+  Cd  Cd4       1.0  0.32404  0.33525  0.36318  1.0000

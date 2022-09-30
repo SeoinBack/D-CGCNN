@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Rh4Ag16
+_chemical_formula_sum              "Rh4 Ag16"
+_cell_length_a       4.74885
+_cell_length_b       4.98474
+_cell_length_c       14.5461
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.25000  0.67264  0.89722  1.0000
+  Rh  Rh2       1.0  0.25000  0.17264  0.60278  1.0000
+  Rh  Rh3       1.0  0.75000  0.82736  0.39722  1.0000
+  Rh  Rh4       1.0  0.75000  0.32736  0.10278  1.0000
+  Ag  Ag1       1.0  0.25000  0.16905  0.99916  1.0000
+  Ag  Ag2       1.0  0.25000  0.17013  0.19789  1.0000
+  Ag  Ag3       1.0  0.25000  0.16042  0.40383  1.0000
+  Ag  Ag4       1.0  0.75000  0.32987  0.69789  1.0000
+  Ag  Ag5       1.0  0.75000  0.33095  0.49916  1.0000
+  Ag  Ag6       1.0  0.25000  0.66905  0.50084  1.0000
+  Ag  Ag7       1.0  0.75000  0.83958  0.59617  1.0000
+  Ag  Ag8       1.0  0.25000  0.66042  0.09617  1.0000
+  Ag  Ag9       1.0  0.75000  0.82776  0.19950  1.0000
+  Ag  Ag10      1.0  0.25000  0.17224  0.80050  1.0000
+  Ag  Ag11      1.0  0.75000  0.82987  0.80211  1.0000
+  Ag  Ag12      1.0  0.75000  0.33958  0.90383  1.0000
+  Ag  Ag13      1.0  0.25000  0.67013  0.30211  1.0000
+  Ag  Ag14      1.0  0.25000  0.67224  0.69950  1.0000
+  Ag  Ag15      1.0  0.75000  0.83095  0.00084  1.0000
+  Ag  Ag16      1.0  0.75000  0.32776  0.30050  1.0000

@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Sb4Hg6
+_chemical_formula_sum              "Sb4 Hg6"
+_cell_length_a       7.75085
+_cell_length_b       7.75085
+_cell_length_c       7.75085
+_cell_angle_alpha    134.017
+_cell_angle_beta     115.241
+_cell_angle_gamma    83.0327
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.60652  0.37654  0.22998  1.0000
+  Sb  Sb2       1.0  0.39348  0.62346  0.77002  1.0000
+  Sb  Sb3       1.0  0.85344  0.12346  0.72998  1.0000
+  Sb  Sb4       1.0  0.14656  0.87654  0.27002  1.0000
+  Hg  Hg1       1.0  0.50575  0.86085  0.64489  1.0000
+  Hg  Hg2       1.0  0.49425  0.13915  0.35511  1.0000
+  Hg  Hg3       1.0  0.21596  0.36085  0.85511  1.0000
+  Hg  Hg4       1.0  0.78404  0.63915  0.14489  1.0000
+  Hg  Hg5       1.0  0.00000  0.75000  0.75000  1.0000
+  Hg  Hg6       1.0  0.00000  0.25000  0.25000  1.0000

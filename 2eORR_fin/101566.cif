@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Co3Hg4
+_chemical_formula_sum              "Co3 Hg4"
+_cell_length_a       5.44769
+_cell_length_b       5.44769
+_cell_length_c       7.98066
+_cell_angle_alpha    50.556
+_cell_angle_beta     50.556
+_cell_angle_gamma    48.3814
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.00000  0.00000  0.00000  1.0000
+  Co  Co2       1.0  0.33977  0.33977  0.67422  1.0000
+  Co  Co3       1.0  0.66023  0.66023  0.32578  1.0000
+  Hg  Hg1       1.0  0.11043  0.11043  0.57684  1.0000
+  Hg  Hg2       1.0  0.88957  0.88957  0.42316  1.0000
+  Hg  Hg3       1.0  0.66366  0.66366  0.97556  1.0000
+  Hg  Hg4       1.0  0.33634  0.33634  0.02444  1.0000

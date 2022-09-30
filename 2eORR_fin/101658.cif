@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       I8Co4
+_chemical_formula_sum              "I8 Co4"
+_cell_length_a       7.32471
+_cell_length_b       9.91501
+_cell_length_c       8.22365
+_cell_angle_alpha    56.2435
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.20762  0.17323  0.24136  1.0000
+  I   I2        1.0  0.70762  0.82677  0.25864  1.0000
+  I   I3        1.0  0.79238  0.82677  0.75864  1.0000
+  I   I4        1.0  0.29238  0.17323  0.74136  1.0000
+  I   I5        1.0  0.81895  0.37388  0.79686  1.0000
+  I   I6        1.0  0.31895  0.62612  0.70314  1.0000
+  I   I7        1.0  0.18105  0.62612  0.20314  1.0000
+  I   I8        1.0  0.68105  0.37388  0.29686  1.0000
+  Co  Co1       1.0  0.16722  0.34588  0.86419  1.0000
+  Co  Co2       1.0  0.66722  0.65412  0.63581  1.0000
+  Co  Co3       1.0  0.83278  0.65412  0.13581  1.0000
+  Co  Co4       1.0  0.33278  0.34588  0.36419  1.0000

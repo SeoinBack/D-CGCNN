@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Rh6F16
+_chemical_formula_sum              "Rh6 F16"
+_cell_length_a       5.0843
+_cell_length_b       5.26451
+_cell_length_c       11.523
+_cell_angle_alpha    73.0933
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.44597  0.75265  0.74949  1.0000
+  Rh  Rh2       1.0  0.55403  0.24735  0.25051  1.0000
+  Rh  Rh3       1.0  0.50000  0.00000  0.00000  1.0000
+  Rh  Rh4       1.0  0.94597  0.24735  0.75051  1.0000
+  Rh  Rh5       1.0  0.05403  0.75265  0.24949  1.0000
+  Rh  Rh6       1.0  0.00000  0.00000  0.50000  1.0000
+  F   F1        1.0  0.72324  0.61323  0.18820  1.0000
+  F   F2        1.0  0.61945  0.11018  0.68804  1.0000
+  F   F3        1.0  0.59563  0.72673  0.91413  1.0000
+  F   F4        1.0  0.68895  0.22082  0.41819  1.0000
+  F   F5        1.0  0.81105  0.22082  0.91819  1.0000
+  F   F6        1.0  0.88055  0.11018  0.18804  1.0000
+  F   F7        1.0  0.90437  0.72673  0.41413  1.0000
+  F   F8        1.0  0.77676  0.61323  0.68820  1.0000
+  F   F9        1.0  0.11945  0.88982  0.81196  1.0000
+  F   F10       1.0  0.18895  0.77918  0.08181  1.0000
+  F   F11       1.0  0.09563  0.27327  0.58587  1.0000
+  F   F12       1.0  0.22324  0.38677  0.31180  1.0000
+  F   F13       1.0  0.40437  0.27327  0.08587  1.0000
+  F   F14       1.0  0.27676  0.38677  0.81180  1.0000
+  F   F15       1.0  0.38055  0.88982  0.31196  1.0000
+  F   F16       1.0  0.31105  0.77918  0.58181  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       N10Sb6
+_chemical_formula_sum              "N10 Sb6"
+_cell_length_a       6.61811
+_cell_length_b       6.61811
+_cell_length_c       6.61811
+_cell_angle_alpha    123.376
+_cell_angle_beta     123.376
+_cell_angle_gamma    84.2463
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.51657  0.71271  0.50000  1.0000
+  N   N2        1.0  0.48343  0.28729  0.50000  1.0000
+  N   N3        1.0  0.50000  0.50000  0.00000  1.0000
+  N   N4        1.0  0.00000  0.00000  0.00000  1.0000
+  N   N5        1.0  0.21271  0.01657  0.50000  1.0000
+  N   N6        1.0  0.01657  0.51657  0.80386  1.0000
+  N   N7        1.0  0.71271  0.21271  0.19614  1.0000
+  N   N8        1.0  0.28729  0.78729  0.80386  1.0000
+  N   N9        1.0  0.98343  0.48343  0.19614  1.0000
+  N   N10       1.0  0.78729  0.98343  0.50000  1.0000
+  Sb  Sb1       1.0  0.83497  0.66503  0.50000  1.0000
+  Sb  Sb2       1.0  0.66503  0.16503  0.83005  1.0000
+  Sb  Sb3       1.0  0.33497  0.83497  0.16995  1.0000
+  Sb  Sb4       1.0  0.16503  0.33497  0.50000  1.0000
+  Sb  Sb5       1.0  0.25000  0.25000  0.00000  1.0000
+  Sb  Sb6       1.0  0.75000  0.75000  0.00000  1.0000

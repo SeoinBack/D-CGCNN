@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Te6Cl10
+_chemical_formula_sum              "Te6 Cl10"
+_cell_length_a       4.44267
+_cell_length_b       8.58425
+_cell_length_c       15.3944
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.50000  0.25388  0.00531  1.0000
+  Te  Te2       1.0  0.50000  0.75388  0.49469  1.0000
+  Te  Te3       1.0  0.00000  0.50000  0.50000  1.0000
+  Te  Te4       1.0  0.00000  0.00000  0.00000  1.0000
+  Te  Te5       1.0  0.50000  0.74612  0.99469  1.0000
+  Te  Te6       1.0  0.50000  0.24612  0.50531  1.0000
+  Cl  Cl1       1.0  0.50000  0.79624  0.34542  1.0000
+  Cl  Cl2       1.0  0.50000  0.20376  0.65458  1.0000
+  Cl  Cl3       1.0  0.00000  0.08408  0.84353  1.0000
+  Cl  Cl4       1.0  0.50000  0.70376  0.84542  1.0000
+  Cl  Cl5       1.0  0.00000  0.41592  0.34353  1.0000
+  Cl  Cl6       1.0  0.00000  0.91592  0.15647  1.0000
+  Cl  Cl7       1.0  0.00000  0.58408  0.65647  1.0000
+  Cl  Cl8       1.0  0.00000  0.50000  0.00000  1.0000
+  Cl  Cl9       1.0  0.00000  0.00000  0.50000  1.0000
+  Cl  Cl10      1.0  0.50000  0.29624  0.15458  1.0000

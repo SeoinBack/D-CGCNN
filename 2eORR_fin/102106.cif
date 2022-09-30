@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Cu4N18
+_chemical_formula_sum              "Cu4 N18"
+_cell_length_a       6.23718
+_cell_length_b       7.07367
+_cell_length_c       6.92156
+_cell_angle_alpha    96.0729
+_cell_angle_beta     92.2331
+_cell_angle_gamma    91.0712
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.09211  0.10233  0.14317  1.0000
+  Cu  Cu2       1.0  0.90789  0.89767  0.85683  1.0000
+  Cu  Cu3       1.0  0.41157  0.35819  0.39598  1.0000
+  Cu  Cu4       1.0  0.58843  0.64181  0.60402  1.0000
+  N   N1        1.0  0.99912  0.20672  0.39448  1.0000
+  N   N2        1.0  0.00088  0.79328  0.60552  1.0000
+  N   N3        1.0  0.35140  0.46819  0.67895  1.0000
+  N   N4        1.0  0.64860  0.53181  0.32105  1.0000
+  N   N5        1.0  0.60023  0.80276  0.87783  1.0000
+  N   N6        1.0  0.39977  0.19724  0.12217  1.0000
+  N   N7        1.0  0.97044  0.82621  0.12532  1.0000
+  N   N8        1.0  0.02956  0.17379  0.87468  1.0000
+  N   N9        1.0  0.26512  0.08947  0.39813  1.0000
+  N   N10       1.0  0.73488  0.91053  0.60187  1.0000
+  N   N11       1.0  0.55748  0.36974  0.66095  1.0000
+  N   N12       1.0  0.44252  0.63026  0.33905  1.0000
+  N   N13       1.0  0.16776  0.82880  0.00434  1.0000
+  N   N14       1.0  0.83224  0.17120  0.99566  1.0000
+  N   N15       1.0  0.90485  0.63613  0.68361  1.0000
+  N   N16       1.0  0.09515  0.36387  0.31639  1.0000
+  N   N17       1.0  0.51633  0.11976  0.27048  1.0000
+  N   N18       1.0  0.48367  0.88024  0.72952  1.0000

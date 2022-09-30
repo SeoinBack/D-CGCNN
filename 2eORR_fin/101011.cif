@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cd4Hg8
+_chemical_formula_sum              "Cd4 Hg8"
+_cell_length_a       10.0002
+_cell_length_b       10.0002
+_cell_length_c       8.88555
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    159.312
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.55661  0.44339  0.80179  1.0000
+  Cd  Cd2       1.0  0.44339  0.55661  0.30179  1.0000
+  Cd  Cd3       1.0  0.20933  0.79067  0.26211  1.0000
+  Cd  Cd4       1.0  0.79067  0.20933  0.76211  1.0000
+  Hg  Hg1       1.0  0.96150  0.03850  0.00238  1.0000
+  Hg  Hg2       1.0  0.03850  0.96150  0.50238  1.0000
+  Hg  Hg3       1.0  0.17644  0.82356  0.90587  1.0000
+  Hg  Hg4       1.0  0.82356  0.17644  0.40587  1.0000
+  Hg  Hg5       1.0  0.32860  0.67140  0.04577  1.0000
+  Hg  Hg6       1.0  0.67140  0.32860  0.54577  1.0000
+  Hg  Hg7       1.0  0.58820  0.41180  0.16778  1.0000
+  Hg  Hg8       1.0  0.41180  0.58820  0.66778  1.0000

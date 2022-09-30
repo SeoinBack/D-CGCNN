@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Cl9Te13
+_chemical_formula_sum              "Cl9 Te13"
+_cell_length_a       9.30359
+_cell_length_b       9.30359
+_cell_length_c       9.90018
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.00000  0.00000  0.50000  1.0000
+  Cl  Cl2       1.0  0.33333  0.66667  0.74649  1.0000
+  Cl  Cl3       1.0  0.66667  0.33333  0.25351  1.0000
+  Cl  Cl4       1.0  0.20470  0.79530  0.39930  1.0000
+  Cl  Cl5       1.0  0.20470  0.40941  0.39930  1.0000
+  Cl  Cl6       1.0  0.59059  0.79530  0.39930  1.0000
+  Cl  Cl7       1.0  0.40941  0.20470  0.60070  1.0000
+  Cl  Cl8       1.0  0.79530  0.59059  0.60070  1.0000
+  Cl  Cl9       1.0  0.79530  0.20470  0.60070  1.0000
+  Te  Te1       1.0  0.00000  0.00000  0.00000  1.0000
+  Te  Te2       1.0  0.50000  0.00000  0.00000  1.0000
+  Te  Te3       1.0  1.00000  0.50000  0.00000  1.0000
+  Te  Te4       1.0  0.50000  0.50000  0.00000  1.0000
+  Te  Te5       1.0  0.50000  0.00000  0.50000  1.0000
+  Te  Te6       1.0  1.00000  0.50000  0.50000  1.0000
+  Te  Te7       1.0  0.50000  0.50000  0.50000  1.0000
+  Te  Te8       1.0  0.16870  0.83130  0.85552  1.0000
+  Te  Te9       1.0  0.16870  0.33741  0.85552  1.0000
+  Te  Te10      1.0  0.66259  0.83130  0.85552  1.0000
+  Te  Te11      1.0  0.33741  0.16870  0.14448  1.0000
+  Te  Te12      1.0  0.83130  0.66259  0.14448  1.0000
+  Te  Te13      1.0  0.83130  0.16870  0.14448  1.0000

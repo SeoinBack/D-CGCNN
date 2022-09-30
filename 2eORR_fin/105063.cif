@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cl8Te4
+_chemical_formula_sum              "Cl8 Te4"
+_cell_length_a       8.65457
+_cell_length_b       7.36483
+_cell_length_c       12.0295
+_cell_angle_alpha    37.9247
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.49531  0.00231  0.39508  1.0000
+  Cl  Cl2       1.0  0.50469  0.00231  0.89508  1.0000
+  Cl  Cl3       1.0  0.33563  0.52309  0.84969  1.0000
+  Cl  Cl4       1.0  0.16224  0.50146  0.18014  1.0000
+  Cl  Cl5       1.0  0.66437  0.52309  0.34969  1.0000
+  Cl  Cl6       1.0  0.83776  0.50146  0.68014  1.0000
+  Cl  Cl7       1.0  0.99527  0.02909  0.63049  1.0000
+  Cl  Cl8       1.0  0.00473  0.02909  0.13049  1.0000
+  Te  Te1       1.0  0.25229  0.01341  0.01458  1.0000
+  Te  Te2       1.0  0.74771  0.01341  0.51458  1.0000
+  Te  Te3       1.0  0.75237  0.01395  0.01331  1.0000
+  Te  Te4       1.0  0.24763  0.01395  0.51331  1.0000

@@ -1,0 +1,49 @@
+data_image0
+_chemical_formula_structural       Sn8Hg16
+_chemical_formula_sum              "Sn8 Hg16"
+_cell_length_a       3.13824
+_cell_length_b       7.6332
+_cell_length_c       29.2277
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.25000  0.93568  0.81135  1.0000
+  Sn  Sn2       1.0  0.75000  0.06432  0.18865  1.0000
+  Sn  Sn3       1.0  0.75000  0.43568  0.68865  1.0000
+  Sn  Sn4       1.0  0.25000  0.56432  0.31135  1.0000
+  Sn  Sn5       1.0  0.25000  0.94015  0.55254  1.0000
+  Sn  Sn6       1.0  0.75000  0.05985  0.44746  1.0000
+  Sn  Sn7       1.0  0.75000  0.44015  0.94746  1.0000
+  Sn  Sn8       1.0  0.25000  0.55985  0.05254  1.0000
+  Hg  Hg1       1.0  0.25000  0.58457  0.85800  1.0000
+  Hg  Hg2       1.0  0.75000  0.41543  0.14200  1.0000
+  Hg  Hg3       1.0  0.75000  0.08457  0.64200  1.0000
+  Hg  Hg4       1.0  0.25000  0.91543  0.35800  1.0000
+  Hg  Hg5       1.0  0.25000  0.18420  0.27895  1.0000
+  Hg  Hg6       1.0  0.75000  0.81580  0.72105  1.0000
+  Hg  Hg7       1.0  0.75000  0.68420  0.22105  1.0000
+  Hg  Hg8       1.0  0.25000  0.31580  0.77895  1.0000
+  Hg  Hg9       1.0  0.25000  0.16128  0.02661  1.0000
+  Hg  Hg10      1.0  0.75000  0.83872  0.97339  1.0000
+  Hg  Hg11      1.0  0.75000  0.66128  0.47339  1.0000
+  Hg  Hg12      1.0  0.25000  0.33872  0.52661  1.0000
+  Hg  Hg13      1.0  0.25000  0.89283  0.10615  1.0000
+  Hg  Hg14      1.0  0.75000  0.10717  0.89385  1.0000
+  Hg  Hg15      1.0  0.75000  0.39283  0.39385  1.0000
+  Hg  Hg16      1.0  0.25000  0.60717  0.60615  1.0000

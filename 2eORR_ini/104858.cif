@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Te12Ag4
+_chemical_formula_sum              "Te12 Ag4"
+_cell_length_a       9.16035
+_cell_length_b       9.16035
+_cell_length_c       9.16035
+_cell_angle_alpha    96.322
+_cell_angle_beta     96.322
+_cell_angle_gamma    141.239
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.14090  0.50000  0.64090  1.0000
+  Te  Te2       1.0  0.50000  0.85910  0.35910  1.0000
+  Te  Te3       1.0  0.50000  0.14090  0.64090  1.0000
+  Te  Te4       1.0  0.85910  0.50000  0.35910  1.0000
+  Te  Te5       1.0  0.16003  0.16003  0.80821  1.0000
+  Te  Te6       1.0  0.64819  0.83997  0.00000  1.0000
+  Te  Te7       1.0  0.83997  0.64819  0.00000  1.0000
+  Te  Te8       1.0  0.35181  0.35181  0.19179  1.0000
+  Te  Te9       1.0  0.56266  0.56266  0.59909  1.0000
+  Te  Te10      1.0  0.03643  0.43734  0.00000  1.0000
+  Te  Te11      1.0  0.43734  0.03643  0.00000  1.0000
+  Te  Te12      1.0  0.96357  0.96357  0.40091  1.0000
+  Ag  Ag1       1.0  0.70596  0.00000  0.70596  1.0000
+  Ag  Ag2       1.0  0.00000  0.29404  0.29404  1.0000
+  Ag  Ag3       1.0  1.00000  0.70596  0.70596  1.0000
+  Ag  Ag4       1.0  0.29404  0.00000  0.29404  1.0000

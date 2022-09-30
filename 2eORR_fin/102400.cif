@@ -1,0 +1,51 @@
+data_image0
+_chemical_formula_structural       Fe6Hg20
+_chemical_formula_sum              "Fe6 Hg20"
+_cell_length_a       12.1397
+_cell_length_b       12.1397
+_cell_length_c       4.42902
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.64329  0.71147  0.25000  1.0000
+  Fe  Fe2       1.0  0.28853  0.93181  0.25000  1.0000
+  Fe  Fe3       1.0  0.06819  0.35671  0.25000  1.0000
+  Fe  Fe4       1.0  0.35671  0.28853  0.75000  1.0000
+  Fe  Fe5       1.0  0.71147  0.06819  0.75000  1.0000
+  Fe  Fe6       1.0  0.93181  0.64329  0.75000  1.0000
+  Hg  Hg1       1.0  0.81201  0.97378  0.25000  1.0000
+  Hg  Hg2       1.0  0.02622  0.83822  0.25000  1.0000
+  Hg  Hg3       1.0  0.16178  0.18799  0.25000  1.0000
+  Hg  Hg4       1.0  0.18799  0.02622  0.75000  1.0000
+  Hg  Hg5       1.0  0.97378  0.16178  0.75000  1.0000
+  Hg  Hg6       1.0  0.83822  0.81201  0.75000  1.0000
+  Hg  Hg7       1.0  0.54433  0.95268  0.25000  1.0000
+  Hg  Hg8       1.0  0.04732  0.59165  0.25000  1.0000
+  Hg  Hg9       1.0  0.40835  0.45567  0.25000  1.0000
+  Hg  Hg10      1.0  0.45567  0.04732  0.75000  1.0000
+  Hg  Hg11      1.0  0.95268  0.40835  0.75000  1.0000
+  Hg  Hg12      1.0  0.59165  0.54433  0.75000  1.0000
+  Hg  Hg13      1.0  0.77887  0.23061  0.25000  1.0000
+  Hg  Hg14      1.0  0.76939  0.54826  0.25000  1.0000
+  Hg  Hg15      1.0  0.45174  0.22113  0.25000  1.0000
+  Hg  Hg16      1.0  0.22113  0.76939  0.75000  1.0000
+  Hg  Hg17      1.0  0.23061  0.45174  0.75000  1.0000
+  Hg  Hg18      1.0  0.54826  0.77887  0.75000  1.0000
+  Hg  Hg19      1.0  0.66667  0.33333  0.75000  1.0000
+  Hg  Hg20      1.0  0.33333  0.66667  0.25000  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cu6Tl10
+_chemical_formula_sum              "Cu6 Tl10"
+_cell_length_a       4.7362
+_cell_length_b       7.53094
+_cell_length_c       10.6393
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.50000  0.42416  0.88632  1.0000
+  Cu  Cu2       1.0  0.50000  0.92416  0.61368  1.0000
+  Cu  Cu3       1.0  0.00000  0.50000  0.50000  1.0000
+  Cu  Cu4       1.0  0.00000  0.00000  0.00000  1.0000
+  Cu  Cu5       1.0  0.50000  0.57584  0.11368  1.0000
+  Cu  Cu6       1.0  0.50000  0.07584  0.38632  1.0000
+  Tl  Tl1       1.0  0.50000  0.65838  0.39243  1.0000
+  Tl  Tl2       1.0  0.50000  0.34162  0.60757  1.0000
+  Tl  Tl3       1.0  0.00000  0.18732  0.78504  1.0000
+  Tl  Tl4       1.0  0.50000  0.84162  0.89243  1.0000
+  Tl  Tl5       1.0  0.00000  0.31268  0.28504  1.0000
+  Tl  Tl6       1.0  0.00000  0.81268  0.21496  1.0000
+  Tl  Tl7       1.0  0.00000  0.68732  0.71496  1.0000
+  Tl  Tl8       1.0  0.00000  0.50000  0.00000  1.0000
+  Tl  Tl9       1.0  0.00000  0.00000  0.50000  1.0000
+  Tl  Tl10      1.0  0.50000  0.15838  0.10757  1.0000

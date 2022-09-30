@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       RhS4
+_chemical_formula_sum              "Rh1 S4"
+_cell_length_a       5.87415
+_cell_length_b       5.87415
+_cell_length_c       5.87415
+_cell_angle_alpha    95.101
+_cell_angle_beta     95.101
+_cell_angle_gamma    145.303
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.00000  0.00000  0.00000  1.0000
+  S   S1        1.0  0.58379  0.69852  0.28231  1.0000
+  S   S2        1.0  0.41621  0.30148  0.71769  1.0000
+  S   S3        1.0  0.30148  0.58379  0.88527  1.0000
+  S   S4        1.0  0.69852  0.41621  0.11473  1.0000

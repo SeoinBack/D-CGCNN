@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       I12Zn8
+_chemical_formula_sum              "I12 Zn8"
+_cell_length_a       10.9924
+_cell_length_b       11.6529
+_cell_length_c       8.60969
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.25000  0.06984  0.39236  1.0000
+  I   I2        1.0  0.75000  0.93016  0.60764  1.0000
+  I   I3        1.0  0.56039  0.35035  0.36327  1.0000
+  I   I4        1.0  0.06039  0.64965  0.63673  1.0000
+  I   I5        1.0  0.43961  0.14965  0.86327  1.0000
+  I   I6        1.0  0.06039  0.14965  0.86327  1.0000
+  I   I7        1.0  0.43961  0.64965  0.63673  1.0000
+  I   I8        1.0  0.93961  0.35035  0.36327  1.0000
+  I   I9        1.0  0.56039  0.85035  0.13673  1.0000
+  I   I10       1.0  0.25000  0.56984  0.10764  1.0000
+  I   I11       1.0  0.93961  0.85035  0.13673  1.0000
+  I   I12       1.0  0.75000  0.43016  0.89236  1.0000
+  Zn  Zn1       1.0  0.25000  0.60646  0.42813  1.0000
+  Zn  Zn2       1.0  0.25000  0.11897  0.68429  1.0000
+  Zn  Zn3       1.0  0.75000  0.88103  0.31571  1.0000
+  Zn  Zn4       1.0  0.75000  0.38103  0.18429  1.0000
+  Zn  Zn5       1.0  0.25000  0.61897  0.81571  1.0000
+  Zn  Zn6       1.0  0.25000  0.10646  0.07187  1.0000
+  Zn  Zn7       1.0  0.75000  0.39354  0.57187  1.0000
+  Zn  Zn8       1.0  0.75000  0.89354  0.92813  1.0000

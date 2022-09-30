@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Pd3Hg3
+_chemical_formula_sum              "Pd3 Hg3"
+_cell_length_a       5.00252
+_cell_length_b       5.04719
+_cell_length_c       12.5504
+_cell_angle_alpha    88.7614
+_cell_angle_beta     89.399
+_cell_angle_gamma    61.2225
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.98880  0.73652  0.99691  1.0000
+  Pd  Pd2       1.0  0.26045  0.00177  0.17506  1.0000
+  Pd  Pd3       1.0  0.24654  0.01128  0.66128  1.0000
+  Hg  Hg1       1.0  0.76245  0.23331  0.34076  1.0000
+  Hg  Hg2       1.0  0.75438  0.23797  0.82793  1.0000
+  Hg  Hg3       1.0  0.98738  0.77915  0.49796  1.0000

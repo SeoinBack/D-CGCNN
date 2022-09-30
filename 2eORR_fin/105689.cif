@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Ti8F12
+_chemical_formula_sum              "Ti8 F12"
+_cell_length_a       2.71028
+_cell_length_b       7.7312
+_cell_length_c       12.0435
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.25000  0.99475  0.89522  1.0000
+  Ti  Ti2       1.0  0.75000  0.00525  0.10478  1.0000
+  Ti  Ti3       1.0  0.75000  0.49475  0.60478  1.0000
+  Ti  Ti4       1.0  0.25000  0.50525  0.39522  1.0000
+  Ti  Ti5       1.0  0.25000  0.19919  0.51015  1.0000
+  Ti  Ti6       1.0  0.75000  0.80081  0.48985  1.0000
+  Ti  Ti7       1.0  0.75000  0.69919  0.98985  1.0000
+  Ti  Ti8       1.0  0.25000  0.30081  0.01015  1.0000
+  F   F1        1.0  0.25000  0.31538  0.66746  1.0000
+  F   F2        1.0  0.75000  0.68462  0.33254  1.0000
+  F   F3        1.0  0.75000  0.81538  0.83254  1.0000
+  F   F4        1.0  0.25000  0.18462  0.16746  1.0000
+  F   F5        1.0  0.25000  0.97327  0.40798  1.0000
+  F   F6        1.0  0.75000  0.02673  0.59202  1.0000
+  F   F7        1.0  0.75000  0.47327  0.09202  1.0000
+  F   F8        1.0  0.25000  0.52673  0.90798  1.0000
+  F   F9        1.0  0.25000  0.78598  0.12790  1.0000
+  F   F10       1.0  0.75000  0.21402  0.87210  1.0000
+  F   F11       1.0  0.75000  0.28598  0.37210  1.0000
+  F   F12       1.0  0.25000  0.71402  0.62790  1.0000

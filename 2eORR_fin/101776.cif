@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Se8Co4
+_chemical_formula_sum              "Se8 Co4"
+_cell_length_a       8.40685
+_cell_length_b       4.2007
+_cell_length_c       7.26535
+_cell_angle_alpha    54.8457
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Se  Se1       1.0  0.37480  0.26273  0.26550  1.0000
+  Se  Se2       1.0  0.62520  0.26273  0.76550  1.0000
+  Se  Se3       1.0  0.37531  0.76211  0.76570  1.0000
+  Se  Se4       1.0  0.87420  0.26566  0.26225  1.0000
+  Se  Se5       1.0  0.62469  0.76211  0.26570  1.0000
+  Se  Se6       1.0  0.12580  0.26566  0.76225  1.0000
+  Se  Se7       1.0  0.87592  0.76563  0.76231  1.0000
+  Se  Se8       1.0  0.12408  0.76563  0.26231  1.0000
+  Co  Co1       1.0  0.37441  0.01276  0.01439  1.0000
+  Co  Co2       1.0  0.62559  0.01276  0.51439  1.0000
+  Co  Co3       1.0  0.87543  0.01441  0.01315  1.0000
+  Co  Co4       1.0  0.12457  0.01441  0.51315  1.0000

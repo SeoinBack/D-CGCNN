@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Zr3Hg8
+_chemical_formula_sum              "Zr3 Hg8"
+_cell_length_a       6.91807
+_cell_length_b       6.91807
+_cell_length_c       6.91807
+_cell_angle_alpha    106.715
+_cell_angle_beta     106.715
+_cell_angle_gamma    106.715
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zr  Zr1       1.0  0.50000  0.00000  0.50000  1.0000
+  Zr  Zr2       1.0  1.00000  0.50000  0.50000  1.0000
+  Zr  Zr3       1.0  0.50000  0.50000  1.00000  1.0000
+  Hg  Hg1       1.0  0.68919  0.00268  0.17907  1.0000
+  Hg  Hg2       1.0  0.00268  0.17907  0.68919  1.0000
+  Hg  Hg3       1.0  0.17907  0.68919  0.00268  1.0000
+  Hg  Hg4       1.0  0.69551  0.69551  0.69551  1.0000
+  Hg  Hg5       1.0  0.30449  0.30449  0.30449  1.0000
+  Hg  Hg6       1.0  0.82093  0.31081  0.99732  1.0000
+  Hg  Hg7       1.0  0.99732  0.82093  0.31081  1.0000
+  Hg  Hg8       1.0  0.31081  0.99732  0.82093  1.0000

@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Hg8Hf12
+_chemical_formula_sum              "Hg8 Hf12"
+_cell_length_a       6.15288
+_cell_length_b       6.15288
+_cell_length_c       15.1127
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.00000  0.00000  0.25000  1.0000
+  Hg  Hg2       1.0  0.00000  0.00000  0.75000  1.0000
+  Hg  Hg3       1.0  0.33333  0.66667  0.25000  1.0000
+  Hg  Hg4       1.0  0.66667  0.33333  0.75000  1.0000
+  Hg  Hg5       1.0  0.33333  0.66667  0.58258  1.0000
+  Hg  Hg6       1.0  0.66667  0.33333  0.08258  1.0000
+  Hg  Hg7       1.0  0.66667  0.33333  0.41742  1.0000
+  Hg  Hg8       1.0  0.33333  0.66667  0.91742  1.0000
+  Hf  Hf1       1.0  0.16512  0.33024  0.41675  1.0000
+  Hf  Hf2       1.0  0.16512  0.83488  0.41675  1.0000
+  Hf  Hf3       1.0  0.66976  0.83488  0.41675  1.0000
+  Hf  Hf4       1.0  0.83488  0.16512  0.91675  1.0000
+  Hf  Hf5       1.0  0.33024  0.16512  0.91675  1.0000
+  Hf  Hf6       1.0  0.83488  0.66976  0.91675  1.0000
+  Hf  Hf7       1.0  0.83488  0.66976  0.58325  1.0000
+  Hf  Hf8       1.0  0.83488  0.16512  0.58325  1.0000
+  Hf  Hf9       1.0  0.33024  0.16512  0.58325  1.0000
+  Hf  Hf10      1.0  0.16512  0.83488  0.08325  1.0000
+  Hf  Hf11      1.0  0.66976  0.83488  0.08325  1.0000
+  Hf  Hf12      1.0  0.16512  0.33024  0.08325  1.0000

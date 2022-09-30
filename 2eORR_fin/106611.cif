@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Pd4Au16
+_chemical_formula_sum              "Pd4 Au16"
+_cell_length_a       7.15619
+_cell_length_b       5.50376
+_cell_length_c       9.87318
+_cell_angle_alpha    86.7871
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.30166  0.23434  0.64642  1.0000
+  Pd  Pd2       1.0  0.30166  0.76566  0.85358  1.0000
+  Pd  Pd3       1.0  0.69834  0.76566  0.35358  1.0000
+  Pd  Pd4       1.0  0.69834  0.23434  0.14642  1.0000
+  Au  Au1       1.0  0.01410  0.50000  0.75000  1.0000
+  Au  Au2       1.0  0.98590  0.50000  0.25000  1.0000
+  Au  Au3       1.0  0.95903  0.00000  0.75000  1.0000
+  Au  Au4       1.0  0.04097  0.00000  0.25000  1.0000
+  Au  Au5       1.0  0.01612  0.24659  0.99187  1.0000
+  Au  Au6       1.0  0.01612  0.75341  0.50813  1.0000
+  Au  Au7       1.0  0.98388  0.75341  0.00813  1.0000
+  Au  Au8       1.0  0.98388  0.24659  0.49187  1.0000
+  Au  Au9       1.0  0.49870  0.18751  0.39239  1.0000
+  Au  Au10      1.0  0.49870  0.81249  0.10761  1.0000
+  Au  Au11      1.0  0.50130  0.81249  0.60761  1.0000
+  Au  Au12      1.0  0.50130  0.18751  0.89239  1.0000
+  Au  Au13      1.0  0.33256  0.34711  0.13577  1.0000
+  Au  Au14      1.0  0.33256  0.65289  0.36423  1.0000
+  Au  Au15      1.0  0.66744  0.65289  0.86423  1.0000
+  Au  Au16      1.0  0.66744  0.34711  0.63577  1.0000

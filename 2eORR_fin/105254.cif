@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Te2I3
+_chemical_formula_sum              "Te2 I3"
+_cell_length_a       9.00699
+_cell_length_b       9.00699
+_cell_length_c       9.00699
+_cell_angle_alpha    32.64
+_cell_angle_beta     32.64
+_cell_angle_gamma    32.64
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.60868  0.60868  0.60868  1.0000
+  Te  Te2       1.0  0.39132  0.39132  0.39132  1.0000
+  I   I1        1.0  0.00000  0.00000  0.00000  1.0000
+  I   I2        1.0  0.21804  0.21804  0.21804  1.0000
+  I   I3        1.0  0.78196  0.78196  0.78196  1.0000

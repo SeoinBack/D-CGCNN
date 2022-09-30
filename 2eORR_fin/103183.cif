@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Br8Rh4
+_chemical_formula_sum              "Br8 Rh4"
+_cell_length_a       5.91375
+_cell_length_b       7.85772
+_cell_length_c       7.25092
+_cell_angle_alpha    57.1381
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Br  Br1       1.0  0.28509  0.08920  0.32177  1.0000
+  Br  Br2       1.0  0.78509  0.91080  0.17823  1.0000
+  Br  Br3       1.0  0.71491  0.91080  0.67823  1.0000
+  Br  Br4       1.0  0.21491  0.08920  0.82177  1.0000
+  Br  Br5       1.0  0.71401  0.41063  0.67822  1.0000
+  Br  Br6       1.0  0.21401  0.58937  0.82178  1.0000
+  Br  Br7       1.0  0.28599  0.58937  0.32178  1.0000
+  Br  Br8       1.0  0.78599  0.41063  0.17822  1.0000
+  Rh  Rh1       1.0  0.00011  0.25027  0.99945  1.0000
+  Rh  Rh2       1.0  0.50011  0.74973  0.50055  1.0000
+  Rh  Rh3       1.0  0.99989  0.74973  0.00055  1.0000
+  Rh  Rh4       1.0  0.49989  0.25027  0.49945  1.0000

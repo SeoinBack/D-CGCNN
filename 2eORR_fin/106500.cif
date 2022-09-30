@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       PdAg2
+_chemical_formula_sum              "Pd1 Ag2"
+_cell_length_a       15.3126
+_cell_length_b       15.1843
+_cell_length_c       2.82547
+_cell_angle_alpha    87.2804
+_cell_angle_beta     82.0986
+_cell_angle_gamma    10.621
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.07553  0.92447  0.07553  1.0000
+  Ag  Ag1       1.0  0.81963  0.33615  0.66385  1.0000
+  Ag  Ag2       1.0  0.66385  0.18037  0.81963  1.0000

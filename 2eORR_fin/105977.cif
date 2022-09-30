@@ -1,0 +1,40 @@
+data_image0
+_chemical_formula_structural       Zn9C6
+_chemical_formula_sum              "Zn9 C6"
+_cell_length_a       7.61692
+_cell_length_b       7.61692
+_cell_length_c       7.82718
+_cell_angle_alpha    84.816
+_cell_angle_beta     84.816
+_cell_angle_gamma    23.6241
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.83360  0.83360  0.33355  1.0000
+  Zn  Zn2       1.0  0.16640  0.16640  0.66645  1.0000
+  Zn  Zn3       1.0  0.17145  0.17145  0.99589  1.0000
+  Zn  Zn4       1.0  0.82855  0.82855  0.00411  1.0000
+  Zn  Zn5       1.0  0.16197  0.16197  0.33715  1.0000
+  Zn  Zn6       1.0  0.83803  0.83803  0.66285  1.0000
+  Zn  Zn7       1.0  0.50493  0.50493  0.32967  1.0000
+  Zn  Zn8       1.0  0.49507  0.49507  0.67033  1.0000
+  Zn  Zn9       1.0  0.50000  0.50000  0.00000  1.0000
+  C   C1        1.0  0.38477  0.38477  0.48668  1.0000
+  C   C2        1.0  0.61523  0.61523  0.51332  1.0000
+  C   C3        1.0  0.28198  0.28198  0.18060  1.0000
+  C   C4        1.0  0.71802  0.71802  0.81940  1.0000
+  C   C5        1.0  0.05128  0.05128  0.15277  1.0000
+  C   C6        1.0  0.94872  0.94872  0.84723  1.0000

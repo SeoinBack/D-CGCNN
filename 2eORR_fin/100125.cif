@@ -1,0 +1,49 @@
+data_image0
+_chemical_formula_structural       Bi8Br16
+_chemical_formula_sum              "Bi8 Br16"
+_cell_length_a       10.165
+_cell_length_b       10.165
+_cell_length_c       11.4782
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    109.922
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.10172  0.10172  0.89681  1.0000
+  Bi  Bi2       1.0  0.39828  0.39828  0.39681  1.0000
+  Bi  Bi3       1.0  0.60172  0.60172  0.60319  1.0000
+  Bi  Bi4       1.0  0.89828  0.89828  0.10319  1.0000
+  Bi  Bi5       1.0  0.33052  0.66948  0.50000  1.0000
+  Bi  Bi6       1.0  0.16948  0.83052  0.00000  1.0000
+  Bi  Bi7       1.0  0.66948  0.33052  0.50000  1.0000
+  Bi  Bi8       1.0  0.83052  0.16948  0.00000  1.0000
+  Br  Br1       1.0  0.36800  0.62774  0.25253  1.0000
+  Br  Br2       1.0  0.13200  0.87226  0.75253  1.0000
+  Br  Br3       1.0  0.12774  0.86800  0.24747  1.0000
+  Br  Br4       1.0  0.37226  0.63200  0.74747  1.0000
+  Br  Br5       1.0  0.63200  0.37226  0.74747  1.0000
+  Br  Br6       1.0  0.86800  0.12774  0.24747  1.0000
+  Br  Br7       1.0  0.87226  0.13200  0.75253  1.0000
+  Br  Br8       1.0  0.62774  0.36800  0.25253  1.0000
+  Br  Br9       1.0  0.11412  0.37256  0.99814  1.0000
+  Br  Br10      1.0  0.38588  0.12744  0.49814  1.0000
+  Br  Br11      1.0  0.87256  0.61412  0.50186  1.0000
+  Br  Br12      1.0  0.62744  0.88588  0.00186  1.0000
+  Br  Br13      1.0  0.88588  0.62744  0.00186  1.0000
+  Br  Br14      1.0  0.61412  0.87256  0.50186  1.0000
+  Br  Br15      1.0  0.12744  0.38588  0.49814  1.0000
+  Br  Br16      1.0  0.37256  0.11412  0.99814  1.0000

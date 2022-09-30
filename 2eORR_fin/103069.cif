@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Mn8I8
+_chemical_formula_sum              "Mn8 I8"
+_cell_length_a       7.9709
+_cell_length_b       7.9709
+_cell_length_c       7.919
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.54314  0.65562  0.00000  1.0000
+  Mn  Mn2       1.0  0.34438  0.54314  0.50000  1.0000
+  Mn  Mn3       1.0  0.65562  0.45686  0.50000  1.0000
+  Mn  Mn4       1.0  0.45686  0.34438  0.00000  1.0000
+  Mn  Mn5       1.0  0.50000  0.00000  0.50000  1.0000
+  Mn  Mn6       1.0  0.00000  0.50000  0.00000  1.0000
+  Mn  Mn7       1.0  0.00000  0.00000  0.75000  1.0000
+  Mn  Mn8       1.0  0.00000  0.00000  0.25000  1.0000
+  I   I1        1.0  0.17828  0.30981  0.75372  1.0000
+  I   I2        1.0  0.69019  0.17828  0.25372  1.0000
+  I   I3        1.0  0.30981  0.82172  0.25372  1.0000
+  I   I4        1.0  0.82172  0.69019  0.75372  1.0000
+  I   I5        1.0  0.82172  0.69019  0.24628  1.0000
+  I   I6        1.0  0.30981  0.82172  0.74628  1.0000
+  I   I7        1.0  0.69019  0.17828  0.74628  1.0000
+  I   I8        1.0  0.17828  0.30981  0.24628  1.0000

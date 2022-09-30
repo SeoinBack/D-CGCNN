@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Rh4Cl12
+_chemical_formula_sum              "Rh4 Cl12"
+_cell_length_a       7.1945
+_cell_length_b       7.1945
+_cell_length_c       8.0019
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    97.9431
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.68206  0.31794  0.00000  1.0000
+  Rh  Rh2       1.0  0.31794  0.68206  0.00000  1.0000
+  Rh  Rh3       1.0  0.18206  0.81794  0.50000  1.0000
+  Rh  Rh4       1.0  0.81794  0.18206  0.50000  1.0000
+  Cl  Cl1       1.0  0.62964  0.62964  0.91493  1.0000
+  Cl  Cl2       1.0  0.12964  0.12964  0.58507  1.0000
+  Cl  Cl3       1.0  0.87036  0.87036  0.41493  1.0000
+  Cl  Cl4       1.0  0.38331  0.61669  0.50000  1.0000
+  Cl  Cl5       1.0  0.10343  0.60343  0.75000  1.0000
+  Cl  Cl6       1.0  0.88331  0.11669  0.00000  1.0000
+  Cl  Cl7       1.0  0.89657  0.39657  0.25000  1.0000
+  Cl  Cl8       1.0  0.37036  0.37036  0.08507  1.0000
+  Cl  Cl9       1.0  0.61669  0.38331  0.50000  1.0000
+  Cl  Cl10      1.0  0.11669  0.88331  0.00000  1.0000
+  Cl  Cl11      1.0  0.39657  0.89657  0.25000  1.0000
+  Cl  Cl12      1.0  0.60343  0.10343  0.75000  1.0000

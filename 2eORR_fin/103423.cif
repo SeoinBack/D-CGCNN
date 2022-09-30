@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Rh4S18
+_chemical_formula_sum              "Rh4 S18"
+_cell_length_a       8.17653
+_cell_length_b       9.1157
+_cell_length_c       8.30382
+_cell_angle_alpha    92.5036
+_cell_angle_beta     94.8506
+_cell_angle_gamma    95.2383
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.06595  0.14600  0.15180  1.0000
+  Rh  Rh2       1.0  0.93405  0.85400  0.84820  1.0000
+  Rh  Rh3       1.0  0.43538  0.33254  0.36232  1.0000
+  Rh  Rh4       1.0  0.56462  0.66746  0.63768  1.0000
+  S   S1        1.0  0.98977  0.29638  0.36601  1.0000
+  S   S2        1.0  0.01023  0.70362  0.63399  1.0000
+  S   S3        1.0  0.38707  0.44043  0.61897  1.0000
+  S   S4        1.0  0.61293  0.55957  0.38103  1.0000
+  S   S5        1.0  0.52341  0.67512  0.92187  1.0000
+  S   S6        1.0  0.47659  0.32488  0.07813  1.0000
+  S   S7        1.0  0.94395  0.90264  0.13766  1.0000
+  S   S8        1.0  0.05605  0.09736  0.86234  1.0000
+  S   S9        1.0  0.29632  0.08171  0.29648  1.0000
+  S   S10       1.0  0.70368  0.91829  0.70352  1.0000
+  S   S11       1.0  0.53488  0.27664  0.62946  1.0000
+  S   S12       1.0  0.46512  0.72336  0.37054  1.0000
+  S   S13       1.0  0.12023  0.78191  0.06035  1.0000
+  S   S14       1.0  0.87977  0.21809  0.93965  1.0000
+  S   S15       1.0  0.83598  0.59645  0.74895  1.0000
+  S   S16       1.0  0.16402  0.40355  0.25105  1.0000
+  S   S17       1.0  0.52998  0.14590  0.19528  1.0000
+  S   S18       1.0  0.47002  0.85410  0.80472  1.0000

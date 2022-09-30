@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       BiAu4
+_chemical_formula_sum              "Bi1 Au4"
+_cell_length_a       5.78455
+_cell_length_b       5.78455
+_cell_length_c       5.78455
+_cell_angle_alpha    94.895
+_cell_angle_beta     94.895
+_cell_angle_gamma    146.031
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.00000  0.00000  0.00000  1.0000
+  Au  Au1       1.0  0.63329  0.83723  0.47052  1.0000
+  Au  Au2       1.0  0.36671  0.16277  0.52948  1.0000
+  Au  Au3       1.0  0.16277  0.63329  0.79607  1.0000
+  Au  Au4       1.0  0.83723  0.36671  0.20393  1.0000

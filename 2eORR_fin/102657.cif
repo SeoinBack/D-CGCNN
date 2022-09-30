@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Hf4S18
+_chemical_formula_sum              "Hf4 S18"
+_cell_length_a       8.38871
+_cell_length_b       8.87896
+_cell_length_c       8.94373
+_cell_angle_alpha    98.3055
+_cell_angle_beta     97.8991
+_cell_angle_gamma    93.8496
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.09734  0.10383  0.15786  1.0000
+  Hf  Hf2       1.0  0.90266  0.89617  0.84214  1.0000
+  Hf  Hf3       1.0  0.40443  0.34559  0.39462  1.0000
+  Hf  Hf4       1.0  0.59557  0.65441  0.60538  1.0000
+  S   S1        1.0  0.98229  0.18454  0.39977  1.0000
+  S   S2        1.0  0.01771  0.81546  0.60023  1.0000
+  S   S3        1.0  0.35956  0.48116  0.66120  1.0000
+  S   S4        1.0  0.64044  0.51884  0.33880  1.0000
+  S   S5        1.0  0.60706  0.79717  0.88724  1.0000
+  S   S6        1.0  0.39294  0.20283  0.11276  1.0000
+  S   S7        1.0  0.96348  0.82798  0.12239  1.0000
+  S   S8        1.0  0.03652  0.17202  0.87761  1.0000
+  S   S9        1.0  0.30397  0.06368  0.39502  1.0000
+  S   S10       1.0  0.69603  0.93632  0.60498  1.0000
+  S   S11       1.0  0.57499  0.37331  0.66414  1.0000
+  S   S12       1.0  0.42501  0.62669  0.33586  1.0000
+  S   S13       1.0  0.16440  0.84497  0.00814  1.0000
+  S   S14       1.0  0.83560  0.15503  0.99186  1.0000
+  S   S15       1.0  0.90425  0.63253  0.68098  1.0000
+  S   S16       1.0  0.09575  0.36747  0.31902  1.0000
+  S   S17       1.0  0.51671  0.09795  0.28532  1.0000
+  S   S18       1.0  0.48329  0.90205  0.71468  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Te6S10
+_chemical_formula_sum              "Te6 S10"
+_cell_length_a       3.76116
+_cell_length_b       8.53666
+_cell_length_c       11.2932
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.50000  0.43081  0.81763  1.0000
+  Te  Te2       1.0  0.50000  0.93081  0.68237  1.0000
+  Te  Te3       1.0  0.00000  0.50000  0.50000  1.0000
+  Te  Te4       1.0  0.00000  0.00000  0.00000  1.0000
+  Te  Te5       1.0  0.50000  0.56919  0.18237  1.0000
+  Te  Te6       1.0  0.50000  0.06919  0.31763  1.0000
+  S   S1        1.0  0.50000  0.67939  0.40248  1.0000
+  S   S2        1.0  0.50000  0.32061  0.59752  1.0000
+  S   S3        1.0  0.00000  0.16120  0.79218  1.0000
+  S   S4        1.0  0.50000  0.82061  0.90248  1.0000
+  S   S5        1.0  0.00000  0.33880  0.29218  1.0000
+  S   S6        1.0  0.00000  0.83880  0.20782  1.0000
+  S   S7        1.0  0.00000  0.66120  0.70782  1.0000
+  S   S8        1.0  0.00000  0.50000  0.00000  1.0000
+  S   S9        1.0  0.00000  0.00000  0.50000  1.0000
+  S   S10       1.0  0.50000  0.17939  0.09752  1.0000

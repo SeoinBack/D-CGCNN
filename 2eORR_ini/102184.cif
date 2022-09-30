@@ -1,0 +1,34 @@
+data_image0
+_chemical_formula_structural       S6Cu3
+_chemical_formula_sum              "S6 Cu3"
+_cell_length_a       4.43548
+_cell_length_b       4.61999
+_cell_length_c       9.80554
+_cell_angle_alpha    99.7844
+_cell_angle_beta     98.1977
+_cell_angle_gamma    94.8692
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  S   S1        1.0  0.22566  0.68136  0.81592  1.0000
+  S   S2        1.0  0.75602  0.11713  0.78255  1.0000
+  S   S3        1.0  0.89428  0.47546  0.09743  1.0000
+  S   S4        1.0  0.55999  0.00845  0.47178  1.0000
+  S   S5        1.0  0.10191  0.45094  0.44606  1.0000
+  S   S6        1.0  0.48716  0.92971  0.15879  1.0000
+  Cu  Cu1       1.0  0.25838  0.21941  0.65745  1.0000
+  Cu  Cu2       1.0  0.60622  0.53726  0.31573  1.0000
+  Cu  Cu3       1.0  0.98538  0.95528  0.00430  1.0000

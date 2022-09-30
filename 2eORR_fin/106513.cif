@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Pd2Ag16
+_chemical_formula_sum              "Pd2 Ag16"
+_cell_length_a       11.7777
+_cell_length_b       6.57118
+_cell_length_c       10.7857
+_cell_angle_alpha    81.5636
+_cell_angle_beta     33.4972
+_cell_angle_gamma    64.9393
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.50000  0.50000  0.50000  1.0000
+  Pd  Pd2       1.0  0.75000  0.75000  0.75000  1.0000
+  Ag  Ag1       1.0  0.81824  0.43186  0.52067  1.0000
+  Ag  Ag2       1.0  0.52067  0.22923  0.81824  1.0000
+  Ag  Ag3       1.0  0.43186  0.81824  0.22923  1.0000
+  Ag  Ag4       1.0  0.81814  0.43176  0.02077  1.0000
+  Ag  Ag5       1.0  0.96598  0.27086  0.66491  1.0000
+  Ag  Ag6       1.0  0.09824  0.66491  0.27086  1.0000
+  Ag  Ag7       1.0  0.72933  0.02077  0.43176  1.0000
+  Ag  Ag8       1.0  0.28402  0.97914  0.58509  1.0000
+  Ag  Ag9       1.0  0.97914  0.28402  0.15176  1.0000
+  Ag  Ag10      1.0  0.15176  0.58509  0.97914  1.0000
+  Ag  Ag11      1.0  0.02077  0.72933  0.81814  1.0000
+  Ag  Ag12      1.0  0.43176  0.81814  0.72933  1.0000
+  Ag  Ag13      1.0  0.22923  0.52067  0.43186  1.0000
+  Ag  Ag14      1.0  0.27086  0.96598  0.09824  1.0000
+  Ag  Ag15      1.0  0.58509  0.15176  0.28402  1.0000
+  Ag  Ag16      1.0  0.66491  0.09824  0.96598  1.0000

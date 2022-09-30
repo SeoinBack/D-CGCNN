@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Bi3Se4
+_chemical_formula_sum              "Bi3 Se4"
+_cell_length_a       8.09727
+_cell_length_b       8.09727
+_cell_length_c       7.41234
+_cell_angle_alpha    66.2561
+_cell_angle_beta     66.2561
+_cell_angle_gamma    30.6777
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.23365  0.23365  0.78045  1.0000
+  Bi  Bi2       1.0  0.76635  0.76635  0.21955  1.0000
+  Bi  Bi3       1.0  0.50000  0.50000  0.50000  1.0000
+  Se  Se1       1.0  0.86998  0.86998  0.48979  1.0000
+  Se  Se2       1.0  0.13002  0.13002  0.51021  1.0000
+  Se  Se3       1.0  0.37213  0.37213  0.95324  1.0000
+  Se  Se4       1.0  0.62787  0.62787  0.04676  1.0000

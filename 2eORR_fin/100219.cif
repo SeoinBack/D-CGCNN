@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       F8Bi4
+_chemical_formula_sum              "F8 Bi4"
+_cell_length_a       8.30219
+_cell_length_b       4.76453
+_cell_length_c       6.80894
+_cell_angle_alpha    56.1496
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  F   F1        1.0  0.39667  0.32965  0.46432  1.0000
+  F   F2        1.0  0.60333  0.32965  0.96432  1.0000
+  F   F3        1.0  0.33893  0.65968  0.72074  1.0000
+  F   F4        1.0  0.89385  0.21542  0.27160  1.0000
+  F   F5        1.0  0.66107  0.65968  0.22074  1.0000
+  F   F6        1.0  0.10615  0.21542  0.77160  1.0000
+  F   F7        1.0  0.86744  0.66210  0.72684  1.0000
+  F   F8        1.0  0.13256  0.66210  0.22684  1.0000
+  Bi  Bi1       1.0  0.33775  0.10728  0.98565  1.0000
+  Bi  Bi2       1.0  0.66225  0.10728  0.48565  1.0000
+  Bi  Bi3       1.0  0.82800  0.10917  0.91414  1.0000
+  Bi  Bi4       1.0  0.17200  0.10917  0.41414  1.0000

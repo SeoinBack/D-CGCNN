@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Hf4Cl8
+_chemical_formula_sum              "Hf4 Cl8"
+_cell_length_a       10.5512
+_cell_length_b       10.5512
+_cell_length_c       14.6964
+_cell_angle_alpha    46.4575
+_cell_angle_beta     46.4575
+_cell_angle_gamma    17.8382
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.71582  0.71582  0.95964  1.0000
+  Hf  Hf2       1.0  0.28418  0.28418  0.04036  1.0000
+  Hf  Hf3       1.0  0.32602  0.32602  0.45202  1.0000
+  Hf  Hf4       1.0  0.67398  0.67398  0.54798  1.0000
+  Cl  Cl1       1.0  0.09494  0.09494  0.02672  1.0000
+  Cl  Cl2       1.0  0.90506  0.90506  0.97328  1.0000
+  Cl  Cl3       1.0  0.89085  0.89085  0.50370  1.0000
+  Cl  Cl4       1.0  0.10915  0.10915  0.49630  1.0000
+  Cl  Cl5       1.0  0.65482  0.65482  0.19646  1.0000
+  Cl  Cl6       1.0  0.34518  0.34518  0.80354  1.0000
+  Cl  Cl7       1.0  0.16285  0.16285  0.69352  1.0000
+  Cl  Cl8       1.0  0.83715  0.83715  0.30648  1.0000

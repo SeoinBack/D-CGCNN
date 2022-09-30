@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Pd4S10
+_chemical_formula_sum              "Pd4 S10"
+_cell_length_a       4.48764
+_cell_length_b       5.85862
+_cell_length_c       14.3849
+_cell_angle_alpha    89.1475
+_cell_angle_beta     89.9246
+_cell_angle_gamma    90.0027
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.01902  0.08077  0.14531  1.0000
+  Pd  Pd2       1.0  0.51806  0.92009  0.35489  1.0000
+  Pd  Pd3       1.0  0.51893  0.91489  0.64623  1.0000
+  Pd  Pd4       1.0  0.01801  0.08418  0.85378  1.0000
+  S   S1        1.0  0.51865  0.97822  0.19172  1.0000
+  S   S2        1.0  0.01858  0.02264  0.30846  1.0000
+  S   S3        1.0  0.01856  0.01731  0.69196  1.0000
+  S   S4        1.0  0.51850  0.98121  0.80812  1.0000
+  S   S5        1.0  0.01943  0.42686  0.92951  1.0000
+  S   S6        1.0  0.51781  0.57260  0.57028  1.0000
+  S   S7        1.0  0.51924  0.57377  0.43285  1.0000
+  S   S8        1.0  0.51863  0.08330  0.49988  1.0000
+  S   S9        1.0  0.01868  0.91717  0.00028  1.0000
+  S   S10       1.0  0.01789  0.42697  0.06672  1.0000

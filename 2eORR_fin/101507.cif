@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Co8F12
+_chemical_formula_sum              "Co8 F12"
+_cell_length_a       2.69754
+_cell_length_b       8.81695
+_cell_length_c       9.82611
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.25000  0.01161  0.89095  1.0000
+  Co  Co2       1.0  0.75000  0.98839  0.10905  1.0000
+  Co  Co3       1.0  0.75000  0.51161  0.60905  1.0000
+  Co  Co4       1.0  0.25000  0.48839  0.39095  1.0000
+  Co  Co5       1.0  0.25000  0.16274  0.50991  1.0000
+  Co  Co6       1.0  0.75000  0.83726  0.49009  1.0000
+  Co  Co7       1.0  0.75000  0.66274  0.99009  1.0000
+  Co  Co8       1.0  0.25000  0.33726  0.00991  1.0000
+  F   F1        1.0  0.25000  0.34267  0.64565  1.0000
+  F   F2        1.0  0.75000  0.65733  0.35435  1.0000
+  F   F3        1.0  0.75000  0.84267  0.85435  1.0000
+  F   F4        1.0  0.25000  0.15733  0.14565  1.0000
+  F   F5        1.0  0.25000  0.97085  0.38194  1.0000
+  F   F6        1.0  0.75000  0.02915  0.61806  1.0000
+  F   F7        1.0  0.75000  0.47085  0.11806  1.0000
+  F   F8        1.0  0.25000  0.52915  0.88194  1.0000
+  F   F9        1.0  0.25000  0.79996  0.11348  1.0000
+  F   F10       1.0  0.75000  0.20004  0.88652  1.0000
+  F   F11       1.0  0.75000  0.29996  0.38652  1.0000
+  F   F12       1.0  0.25000  0.70004  0.61348  1.0000

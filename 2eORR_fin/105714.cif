@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ti4I12
+_chemical_formula_sum              "Ti4 I12"
+_cell_length_a       8.11425
+_cell_length_b       8.11425
+_cell_length_c       9.28706
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    110.737
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.67306  0.32694  0.00000  1.0000
+  Ti  Ti2       1.0  0.32694  0.67306  0.00000  1.0000
+  Ti  Ti3       1.0  0.17306  0.82694  0.50000  1.0000
+  Ti  Ti4       1.0  0.82694  0.17306  0.50000  1.0000
+  I   I1        1.0  0.63115  0.63115  0.13166  1.0000
+  I   I2        1.0  0.13115  0.13115  0.36834  1.0000
+  I   I3        1.0  0.86885  0.86885  0.63166  1.0000
+  I   I4        1.0  0.36986  0.63014  0.50000  1.0000
+  I   I5        1.0  0.98622  0.48622  0.75000  1.0000
+  I   I6        1.0  0.86986  0.13014  0.00000  1.0000
+  I   I7        1.0  0.01378  0.51378  0.25000  1.0000
+  I   I8        1.0  0.36885  0.36885  0.86834  1.0000
+  I   I9        1.0  0.63014  0.36986  0.50000  1.0000
+  I   I10       1.0  0.13014  0.86986  0.00000  1.0000
+  I   I11       1.0  0.51378  0.01378  0.25000  1.0000
+  I   I12       1.0  0.48622  0.98622  0.75000  1.0000

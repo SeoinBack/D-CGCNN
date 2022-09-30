@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Ag9Te13
+_chemical_formula_sum              "Ag9 Te13"
+_cell_length_a       8.62164
+_cell_length_b       8.62164
+_cell_length_c       9.05825
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.00000  0.00000  0.50000  1.0000
+  Ag  Ag2       1.0  0.33333  0.66667  0.83445  1.0000
+  Ag  Ag3       1.0  0.66667  0.33333  0.16555  1.0000
+  Ag  Ag4       1.0  0.21799  0.78201  0.21930  1.0000
+  Ag  Ag5       1.0  0.21799  0.43599  0.21930  1.0000
+  Ag  Ag6       1.0  0.56401  0.78201  0.21930  1.0000
+  Ag  Ag7       1.0  0.43599  0.21799  0.78070  1.0000
+  Ag  Ag8       1.0  0.78201  0.56401  0.78070  1.0000
+  Ag  Ag9       1.0  0.78201  0.21799  0.78070  1.0000
+  Te  Te1       1.0  0.00000  0.00000  0.00000  1.0000
+  Te  Te2       1.0  0.50000  0.00000  0.00000  1.0000
+  Te  Te3       1.0  0.00000  0.50000  0.00000  1.0000
+  Te  Te4       1.0  0.50000  0.50000  0.00000  1.0000
+  Te  Te5       1.0  0.50000  0.00000  0.50000  1.0000
+  Te  Te6       1.0  0.00000  0.50000  0.50000  1.0000
+  Te  Te7       1.0  0.50000  0.50000  0.50000  1.0000
+  Te  Te8       1.0  0.15642  0.84358  0.69806  1.0000
+  Te  Te9       1.0  0.15642  0.31285  0.69806  1.0000
+  Te  Te10      1.0  0.68715  0.84358  0.69806  1.0000
+  Te  Te11      1.0  0.31285  0.15642  0.30194  1.0000
+  Te  Te12      1.0  0.84358  0.68715  0.30194  1.0000
+  Te  Te13      1.0  0.84358  0.15642  0.30194  1.0000

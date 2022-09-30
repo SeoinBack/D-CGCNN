@@ -1,0 +1,36 @@
+data_image0
+_chemical_formula_structural       Pd5Au6
+_chemical_formula_sum              "Pd5 Au6"
+_cell_length_a       9.79714
+_cell_length_b       9.79714
+_cell_length_c       7.22473
+_cell_angle_alpha    67.5182
+_cell_angle_beta     67.5182
+_cell_angle_gamma    17.4048
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.42767  0.42767  0.36190  1.0000
+  Pd  Pd2       1.0  0.00000  0.00000  0.00000  1.0000
+  Pd  Pd3       1.0  0.57233  0.57233  0.63810  1.0000
+  Pd  Pd4       1.0  0.31056  0.31056  0.89126  1.0000
+  Pd  Pd5       1.0  0.68944  0.68944  0.10874  1.0000
+  Au  Au1       1.0  0.84570  0.84570  0.16674  1.0000
+  Au  Au2       1.0  0.05980  0.05980  0.30130  1.0000
+  Au  Au3       1.0  0.15430  0.15430  0.83326  1.0000
+  Au  Au4       1.0  0.79469  0.79469  0.58882  1.0000
+  Au  Au5       1.0  0.20531  0.20531  0.41118  1.0000
+  Au  Au6       1.0  0.94020  0.94020  0.69870  1.0000

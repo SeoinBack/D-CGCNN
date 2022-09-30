@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       PdN7
+_chemical_formula_sum              "Pd1 N7"
+_cell_length_a       12.6364
+_cell_length_b       12.6364
+_cell_length_c       12.6364
+_cell_angle_alpha    14.4071
+_cell_angle_beta     14.4071
+_cell_angle_gamma    14.4071
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.78993  0.78993  0.78993  1.0000
+  N   N1        1.0  0.92797  0.92797  0.92797  1.0000
+  N   N2        1.0  0.74294  0.74294  0.74294  1.0000
+  N   N3        1.0  0.54266  0.54266  0.54266  1.0000
+  N   N4        1.0  0.51256  0.51256  0.51256  1.0000
+  N   N5        1.0  0.37170  0.37170  0.37170  1.0000
+  N   N6        1.0  0.34176  0.34176  0.34176  1.0000
+  N   N7        1.0  0.95766  0.95766  0.95766  1.0000

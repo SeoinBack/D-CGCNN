@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Hg10Fe6
+_chemical_formula_sum              "Hg10 Fe6"
+_cell_length_a       7.79073
+_cell_length_b       7.79036
+_cell_length_c       7.79281
+_cell_angle_alpha    124.795
+_cell_angle_beta     124.788
+_cell_angle_gamma    81.8637
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.50783  0.68084  0.49982  1.0000
+  Hg  Hg2       1.0  0.49211  0.31901  0.49989  1.0000
+  Hg  Hg3       1.0  0.49996  0.49996  0.99990  1.0000
+  Hg  Hg4       1.0  0.00002  0.00005  0.00006  1.0000
+  Hg  Hg5       1.0  0.18100  0.00790  0.50011  1.0000
+  Hg  Hg6       1.0  0.00811  0.50798  0.82711  1.0000
+  Hg  Hg7       1.0  0.68092  0.18099  0.17293  1.0000
+  Hg  Hg8       1.0  0.31903  0.81915  0.82712  1.0000
+  Hg  Hg9       1.0  0.99204  0.49190  0.17291  1.0000
+  Hg  Hg10      1.0  0.81915  0.99213  0.50011  1.0000
+  Fe  Fe1       1.0  0.88552  0.61452  0.50001  1.0000
+  Fe  Fe2       1.0  0.61428  0.11430  0.72859  1.0000
+  Fe  Fe3       1.0  0.38568  0.88569  0.27134  1.0000
+  Fe  Fe4       1.0  0.11432  0.38571  0.50002  1.0000
+  Fe  Fe5       1.0  0.24994  0.24990  0.00007  1.0000
+  Fe  Fe6       1.0  0.75008  0.74997  0.00001  1.0000

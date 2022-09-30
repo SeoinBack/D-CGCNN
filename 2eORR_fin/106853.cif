@@ -1,0 +1,33 @@
+data_image0
+_chemical_formula_structural       Pd2Hg6
+_chemical_formula_sum              "Pd2 Hg6"
+_cell_length_a       6.4983
+_cell_length_b       6.4983
+_cell_length_c       5.78807
+_cell_angle_alpha    61.8235
+_cell_angle_beta     61.8235
+_cell_angle_gamma    90.7202
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.67987  0.67987  0.17051  1.0000
+  Pd  Pd2       1.0  0.32013  0.32013  0.82949  1.0000
+  Hg  Hg1       1.0  0.76964  0.23036  0.50000  1.0000
+  Hg  Hg2       1.0  0.23036  0.76964  0.50000  1.0000
+  Hg  Hg3       1.0  0.82083  0.17917  0.00000  1.0000
+  Hg  Hg4       1.0  0.17917  0.82083  0.00000  1.0000
+  Hg  Hg5       1.0  0.69799  0.69799  0.65632  1.0000
+  Hg  Hg6       1.0  0.30201  0.30201  0.34368  1.0000

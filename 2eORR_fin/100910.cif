@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cl8Cd4
+_chemical_formula_sum              "Cl8 Cd4"
+_cell_length_a       6.18148
+_cell_length_b       7.9227
+_cell_length_c       7.55658
+_cell_angle_alpha    58.5608
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cl  Cl1       1.0  0.28539  0.08571  0.32568  1.0000
+  Cl  Cl2       1.0  0.78539  0.91429  0.17432  1.0000
+  Cl  Cl3       1.0  0.71461  0.91429  0.67432  1.0000
+  Cl  Cl4       1.0  0.21461  0.08571  0.82568  1.0000
+  Cl  Cl5       1.0  0.71571  0.41255  0.67436  1.0000
+  Cl  Cl6       1.0  0.21571  0.58745  0.82564  1.0000
+  Cl  Cl7       1.0  0.28429  0.58745  0.32564  1.0000
+  Cl  Cl8       1.0  0.78429  0.41255  0.17436  1.0000
+  Cd  Cd1       1.0  0.00250  0.25126  0.99783  1.0000
+  Cd  Cd2       1.0  0.50250  0.74874  0.50217  1.0000
+  Cd  Cd3       1.0  0.99750  0.74874  0.00217  1.0000
+  Cd  Cd4       1.0  0.49750  0.25126  0.49783  1.0000

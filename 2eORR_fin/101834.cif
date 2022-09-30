@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       Cu4Au6
+_chemical_formula_sum              "Cu4 Au6"
+_cell_length_a       6.62907
+_cell_length_b       6.62907
+_cell_length_c       6.62907
+_cell_angle_alpha    133.812
+_cell_angle_beta     119.602
+_cell_angle_gamma    79.2651
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.57967  0.34183  0.23784  1.0000
+  Cu  Cu2       1.0  0.42033  0.65817  0.76216  1.0000
+  Cu  Cu3       1.0  0.89601  0.15817  0.73784  1.0000
+  Cu  Cu4       1.0  0.10399  0.84183  0.26216  1.0000
+  Au  Au1       1.0  0.53742  0.89483  0.64260  1.0000
+  Au  Au2       1.0  0.46258  0.10517  0.35740  1.0000
+  Au  Au3       1.0  0.25223  0.39483  0.85740  1.0000
+  Au  Au4       1.0  0.74777  0.60517  0.14260  1.0000
+  Au  Au5       1.0  0.00000  0.75000  0.75000  1.0000
+  Au  Au6       1.0  0.00000  0.25000  0.25000  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ru4Ag8
+_chemical_formula_sum              "Ru4 Ag8"
+_cell_length_a       9.2116
+_cell_length_b       9.2116
+_cell_length_c       6.99469
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    158.794
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ru  Ru1       1.0  0.70921  0.29079  0.72756  1.0000
+  Ru  Ru2       1.0  0.29079  0.70921  0.22756  1.0000
+  Ru  Ru3       1.0  0.94065  0.05935  0.69350  1.0000
+  Ru  Ru4       1.0  0.05935  0.94065  0.19350  1.0000
+  Ag  Ag1       1.0  0.08632  0.91368  0.82094  1.0000
+  Ag  Ag2       1.0  0.91368  0.08632  0.32094  1.0000
+  Ag  Ag3       1.0  0.16958  0.83042  0.45073  1.0000
+  Ag  Ag4       1.0  0.83042  0.16958  0.95073  1.0000
+  Ag  Ag5       1.0  0.67732  0.32268  0.09674  1.0000
+  Ag  Ag6       1.0  0.32268  0.67732  0.59674  1.0000
+  Ag  Ag7       1.0  0.53528  0.46472  0.49854  1.0000
+  Ag  Ag8       1.0  0.46472  0.53528  0.99854  1.0000

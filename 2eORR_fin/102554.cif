@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ga4Au8
+_chemical_formula_sum              "Ga4 Au8"
+_cell_length_a       9.33491
+_cell_length_b       9.33491
+_cell_length_c       7.0572
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    159.643
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.70959  0.29041  0.72955  1.0000
+  Ga  Ga2       1.0  0.29041  0.70959  0.22955  1.0000
+  Ga  Ga3       1.0  0.94019  0.05981  0.69308  1.0000
+  Ga  Ga4       1.0  0.05981  0.94019  0.19308  1.0000
+  Au  Au1       1.0  0.08675  0.91325  0.82110  1.0000
+  Au  Au2       1.0  0.91325  0.08675  0.32110  1.0000
+  Au  Au3       1.0  0.17016  0.82984  0.45033  1.0000
+  Au  Au4       1.0  0.82984  0.17016  0.95033  1.0000
+  Au  Au5       1.0  0.67750  0.32250  0.09531  1.0000
+  Au  Au6       1.0  0.32250  0.67750  0.59531  1.0000
+  Au  Au7       1.0  0.53556  0.46444  0.49862  1.0000
+  Au  Au8       1.0  0.46444  0.53556  0.99862  1.0000

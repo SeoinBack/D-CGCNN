@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Cd6C8
+_chemical_formula_sum              "Cd6 C8"
+_cell_length_a       6.77429
+_cell_length_b       6.77429
+_cell_length_c       6.77429
+_cell_angle_alpha    60
+_cell_angle_beta     60
+_cell_angle_gamma    60
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.75000  0.75000  0.75000  1.0000
+  Cd  Cd2       1.0  0.50000  0.50000  0.50000  1.0000
+  Cd  Cd3       1.0  0.12500  0.12500  0.12500  1.0000
+  Cd  Cd4       1.0  0.62500  0.12500  0.12500  1.0000
+  Cd  Cd5       1.0  0.12500  0.62500  0.12500  1.0000
+  Cd  Cd6       1.0  0.12500  0.12500  0.62500  1.0000
+  C   C1        1.0  0.88957  0.88957  0.88957  1.0000
+  C   C2        1.0  0.91870  0.36043  0.36043  1.0000
+  C   C3        1.0  0.36043  0.91870  0.36043  1.0000
+  C   C4        1.0  0.36043  0.36043  0.91870  1.0000
+  C   C5        1.0  0.88957  0.33130  0.88957  1.0000
+  C   C6        1.0  0.88957  0.88957  0.33130  1.0000
+  C   C7        1.0  0.33130  0.88957  0.88957  1.0000
+  C   C8        1.0  0.36043  0.36043  0.36043  1.0000

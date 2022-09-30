@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cd4Tl8
+_chemical_formula_sum              "Cd4 Tl8"
+_cell_length_a       10.583
+_cell_length_b       10.583
+_cell_length_c       8.54283
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    158.042
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.55735  0.44265  0.80271  1.0000
+  Cd  Cd2       1.0  0.44265  0.55735  0.30271  1.0000
+  Cd  Cd3       1.0  0.20658  0.79342  0.27113  1.0000
+  Cd  Cd4       1.0  0.79342  0.20658  0.77113  1.0000
+  Tl  Tl1       1.0  0.96325  0.03675  0.99741  1.0000
+  Tl  Tl2       1.0  0.03675  0.96325  0.49741  1.0000
+  Tl  Tl3       1.0  0.17596  0.82404  0.89032  1.0000
+  Tl  Tl4       1.0  0.82404  0.17596  0.39032  1.0000
+  Tl  Tl5       1.0  0.32757  0.67243  0.05042  1.0000
+  Tl  Tl6       1.0  0.67243  0.32757  0.55042  1.0000
+  Tl  Tl7       1.0  0.58930  0.41070  0.17370  1.0000
+  Tl  Tl8       1.0  0.41070  0.58930  0.67370  1.0000

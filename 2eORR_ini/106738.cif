@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Pd2C18
+_chemical_formula_sum              "Pd2 C18"
+_cell_length_a       8.26258
+_cell_length_b       8.26258
+_cell_length_c       8.26258
+_cell_angle_alpha    53.631
+_cell_angle_beta     53.631
+_cell_angle_gamma    53.631
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.68698  0.68698  0.68698  1.0000
+  Pd  Pd2       1.0  0.31302  0.31302  0.31302  1.0000
+  C   C1        1.0  0.38206  0.63062  0.86661  1.0000
+  C   C2        1.0  0.63062  0.86661  0.38206  1.0000
+  C   C3        1.0  0.86661  0.38206  0.63062  1.0000
+  C   C4        1.0  0.61794  0.36938  0.13339  1.0000
+  C   C5        1.0  0.36938  0.13339  0.61794  1.0000
+  C   C6        1.0  0.13339  0.61794  0.36938  1.0000
+  C   C7        1.0  0.26519  0.73036  0.76160  1.0000
+  C   C8        1.0  0.73036  0.76160  0.26519  1.0000
+  C   C9        1.0  0.76160  0.26519  0.73036  1.0000
+  C   C10       1.0  0.73481  0.26964  0.23840  1.0000
+  C   C11       1.0  0.26964  0.23840  0.73481  1.0000
+  C   C12       1.0  0.23840  0.73481  0.26964  1.0000
+  C   C13       1.0  0.15239  0.82258  0.66702  1.0000
+  C   C14       1.0  0.82258  0.66702  0.15239  1.0000
+  C   C15       1.0  0.66702  0.15239  0.82258  1.0000
+  C   C16       1.0  0.84761  0.17742  0.33298  1.0000
+  C   C17       1.0  0.17742  0.33298  0.84761  1.0000
+  C   C18       1.0  0.33298  0.84761  0.17742  1.0000

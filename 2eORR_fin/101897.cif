@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Au8Cu4
+_chemical_formula_sum              "Au8 Cu4"
+_cell_length_a       4.11464
+_cell_length_b       8.42687
+_cell_length_c       7.64255
+_cell_angle_alpha    47.1601
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.24989  0.01070  0.36693  1.0000
+  Au  Au2       1.0  0.74989  0.98930  0.13307  1.0000
+  Au  Au3       1.0  0.75011  0.98930  0.63307  1.0000
+  Au  Au4       1.0  0.25011  0.01070  0.86693  1.0000
+  Au  Au5       1.0  0.74964  0.34539  0.61545  1.0000
+  Au  Au6       1.0  0.24964  0.65461  0.88455  1.0000
+  Au  Au7       1.0  0.25036  0.65461  0.38455  1.0000
+  Au  Au8       1.0  0.75036  0.34539  0.11545  1.0000
+  Cu  Cu1       1.0  0.24981  0.33686  0.87235  1.0000
+  Cu  Cu2       1.0  0.74981  0.66314  0.62765  1.0000
+  Cu  Cu3       1.0  0.75019  0.66314  0.12765  1.0000
+  Cu  Cu4       1.0  0.25019  0.33686  0.37235  1.0000

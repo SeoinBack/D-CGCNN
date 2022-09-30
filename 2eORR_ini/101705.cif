@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Co4S8
+_chemical_formula_sum              "Co4 S8"
+_cell_length_a       8.71604
+_cell_length_b       8.71604
+_cell_length_c       12.3347
+_cell_angle_alpha    53.8562
+_cell_angle_beta     53.8562
+_cell_angle_gamma    28.1797
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.69863  0.69863  0.90808  1.0000
+  Co  Co2       1.0  0.30137  0.30137  0.09192  1.0000
+  Co  Co3       1.0  0.38774  0.38774  0.39705  1.0000
+  Co  Co4       1.0  0.61226  0.61226  0.60295  1.0000
+  S   S1        1.0  0.03750  0.03750  0.05713  1.0000
+  S   S2        1.0  0.96250  0.96250  0.94287  1.0000
+  S   S3        1.0  0.91509  0.91509  0.54228  1.0000
+  S   S4        1.0  0.08491  0.08491  0.45772  1.0000
+  S   S5        1.0  0.65573  0.65573  0.16192  1.0000
+  S   S6        1.0  0.34427  0.34427  0.83808  1.0000
+  S   S7        1.0  0.20959  0.20959  0.65576  1.0000
+  S   S8        1.0  0.79041  0.79041  0.34424  1.0000

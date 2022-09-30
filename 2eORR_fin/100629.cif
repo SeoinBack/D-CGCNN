@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Cd10Ag6
+_chemical_formula_sum              "Cd10 Ag6"
+_cell_length_a       8.24235
+_cell_length_b       8.24235
+_cell_length_c       8.24235
+_cell_angle_alpha    96.3415
+_cell_angle_beta     96.3415
+_cell_angle_gamma    141.177
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.57521  0.27292  0.84813  1.0000
+  Cd  Cd2       1.0  0.42479  0.72708  0.15187  1.0000
+  Cd  Cd3       1.0  0.72708  0.57521  0.30229  1.0000
+  Cd  Cd4       1.0  0.27292  0.42479  0.69771  1.0000
+  Cd  Cd5       1.0  0.92479  0.77292  0.69771  1.0000
+  Cd  Cd6       1.0  0.22708  0.92479  0.15187  1.0000
+  Cd  Cd7       1.0  0.25000  0.75000  0.50000  1.0000
+  Cd  Cd8       1.0  0.75000  0.25000  0.50000  1.0000
+  Cd  Cd9       1.0  0.07521  0.22708  0.30229  1.0000
+  Cd  Cd10      1.0  0.77292  0.07521  0.84813  1.0000
+  Ag  Ag1       1.0  0.82947  0.32947  0.15893  1.0000
+  Ag  Ag2       1.0  0.67053  0.82947  0.50000  1.0000
+  Ag  Ag3       1.0  0.32947  0.17053  0.50000  1.0000
+  Ag  Ag4       1.0  0.17053  0.67053  0.84107  1.0000
+  Ag  Ag5       1.0  0.75000  0.75000  0.00000  1.0000
+  Ag  Ag6       1.0  0.25000  0.25000  0.00000  1.0000

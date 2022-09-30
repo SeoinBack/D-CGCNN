@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Au8Te4
+_chemical_formula_sum              "Au8 Te4"
+_cell_length_a       9.16499
+_cell_length_b       5.1071
+_cell_length_c       8.70255
+_cell_angle_alpha    53.5464
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.37866  0.35135  0.33624  1.0000
+  Au  Au2       1.0  0.62134  0.35135  0.83624  1.0000
+  Au  Au3       1.0  0.36707  0.79281  0.72220  1.0000
+  Au  Au4       1.0  0.87357  0.33295  0.34071  1.0000
+  Au  Au5       1.0  0.63293  0.79281  0.22220  1.0000
+  Au  Au6       1.0  0.12643  0.33295  0.84071  1.0000
+  Au  Au7       1.0  0.87997  0.76654  0.72709  1.0000
+  Au  Au8       1.0  0.12003  0.76654  0.22709  1.0000
+  Te  Te1       1.0  0.37581  0.92559  0.97821  1.0000
+  Te  Te2       1.0  0.62419  0.92559  0.47821  1.0000
+  Te  Te3       1.0  0.87440  0.91407  0.97887  1.0000
+  Te  Te4       1.0  0.12560  0.91407  0.47887  1.0000

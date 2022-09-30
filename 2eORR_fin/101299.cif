@@ -1,0 +1,51 @@
+data_image0
+_chemical_formula_structural       Cd6Tl20
+_chemical_formula_sum              "Cd6 Tl20"
+_cell_length_a       12.538
+_cell_length_b       12.538
+_cell_length_c       5.72015
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.63946  0.74387  0.25000  1.0000
+  Cd  Cd2       1.0  0.25613  0.89559  0.25000  1.0000
+  Cd  Cd3       1.0  0.10441  0.36054  0.25000  1.0000
+  Cd  Cd4       1.0  0.36054  0.25613  0.75000  1.0000
+  Cd  Cd5       1.0  0.74387  0.10441  0.75000  1.0000
+  Cd  Cd6       1.0  0.89559  0.63946  0.75000  1.0000
+  Tl  Tl1       1.0  0.87628  0.05856  0.25000  1.0000
+  Tl  Tl2       1.0  0.94144  0.81771  0.25000  1.0000
+  Tl  Tl3       1.0  0.18229  0.12372  0.25000  1.0000
+  Tl  Tl4       1.0  0.12372  0.94144  0.75000  1.0000
+  Tl  Tl5       1.0  0.05856  0.18229  0.75000  1.0000
+  Tl  Tl6       1.0  0.81771  0.87628  0.75000  1.0000
+  Tl  Tl7       1.0  0.56777  0.97553  0.25000  1.0000
+  Tl  Tl8       1.0  0.02447  0.59224  0.25000  1.0000
+  Tl  Tl9       1.0  0.40776  0.43223  0.25000  1.0000
+  Tl  Tl10      1.0  0.43223  0.02447  0.75000  1.0000
+  Tl  Tl11      1.0  0.97553  0.40776  0.75000  1.0000
+  Tl  Tl12      1.0  0.59224  0.56777  0.75000  1.0000
+  Tl  Tl13      1.0  0.79481  0.27982  0.25000  1.0000
+  Tl  Tl14      1.0  0.72018  0.51500  0.25000  1.0000
+  Tl  Tl15      1.0  0.48500  0.20519  0.25000  1.0000
+  Tl  Tl16      1.0  0.20519  0.72018  0.75000  1.0000
+  Tl  Tl17      1.0  0.27982  0.48500  0.75000  1.0000
+  Tl  Tl18      1.0  0.51500  0.79481  0.75000  1.0000
+  Tl  Tl19      1.0  0.66667  0.33333  0.75000  1.0000
+  Tl  Tl20      1.0  0.33333  0.66667  0.25000  1.0000

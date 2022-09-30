@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       BiS2
+_chemical_formula_sum              "Bi1 S2"
+_cell_length_a       4.05517
+_cell_length_b       4.05517
+_cell_length_c       5.40249
+_cell_angle_alpha    79.8836
+_cell_angle_beta     79.8836
+_cell_angle_gamma    61.1382
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.67095  0.32905  0.50000  1.0000
+  S   S1        1.0  0.28608  0.95703  0.80613  1.0000
+  S   S2        1.0  0.04297  0.71392  0.19387  1.0000

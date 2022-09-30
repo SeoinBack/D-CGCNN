@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Pd4C8
+_chemical_formula_sum              "Pd4 C8"
+_cell_length_a       6.21885
+_cell_length_b       6.21885
+_cell_length_c       10.1539
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120.035
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.83261  0.16631  0.56237  1.0000
+  Pd  Pd2       1.0  0.16631  0.83261  0.43763  1.0000
+  Pd  Pd3       1.0  0.16739  0.83369  0.06237  1.0000
+  Pd  Pd4       1.0  0.83369  0.16739  0.93763  1.0000
+  C   C1        1.0  0.83257  0.16743  0.75000  1.0000
+  C   C2        1.0  0.16743  0.83257  0.25000  1.0000
+  C   C3        1.0  0.98336  0.98336  0.00000  1.0000
+  C   C4        1.0  0.02207  0.50093  0.00101  1.0000
+  C   C5        1.0  0.50093  0.02207  0.99899  1.0000
+  C   C6        1.0  0.01664  0.01664  0.50000  1.0000
+  C   C7        1.0  0.97793  0.49907  0.50101  1.0000
+  C   C8        1.0  0.49907  0.97793  0.49899  1.0000

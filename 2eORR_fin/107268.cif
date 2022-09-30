@@ -1,0 +1,51 @@
+data_image0
+_chemical_formula_structural       Pd10Tl16
+_chemical_formula_sum              "Pd10 Tl16"
+_cell_length_a       7.73445
+_cell_length_b       13.1439
+_cell_length_c       7.29445
+_cell_angle_alpha    90.1306
+_cell_angle_beta     122.016
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.00182  0.99897  0.00364  1.0000
+  Pd  Pd2       1.0  0.50056  0.49957  0.00112  1.0000
+  Pd  Pd3       1.0  0.04467  0.75327  0.08933  1.0000
+  Pd  Pd4       1.0  0.95638  0.24717  0.91276  1.0000
+  Pd  Pd5       1.0  0.45623  0.74825  0.91246  1.0000
+  Pd  Pd6       1.0  0.54140  0.25259  0.08279  1.0000
+  Pd  Pd7       1.0  0.44012  0.74933  0.50105  1.0000
+  Pd  Pd8       1.0  0.06094  0.74933  0.50105  1.0000
+  Pd  Pd9       1.0  0.56087  0.25040  0.49915  1.0000
+  Pd  Pd10      1.0  0.93828  0.25040  0.49915  1.0000
+  Tl  Tl1       1.0  0.16775  0.14754  0.33550  1.0000
+  Tl  Tl2       1.0  0.82139  0.42503  0.64277  1.0000
+  Tl  Tl3       1.0  0.17906  0.57547  0.35812  1.0000
+  Tl  Tl4       1.0  0.66795  0.64698  0.33591  1.0000
+  Tl  Tl5       1.0  0.33147  0.35406  0.66293  1.0000
+  Tl  Tl6       1.0  0.67724  0.07656  0.35448  1.0000
+  Tl  Tl7       1.0  0.31953  0.92445  0.63905  1.0000
+  Tl  Tl8       1.0  0.14340  0.61744  0.84864  1.0000
+  Tl  Tl9       1.0  0.70524  0.61744  0.84864  1.0000
+  Tl  Tl10      1.0  0.85689  0.38242  0.15286  1.0000
+  Tl  Tl11      1.0  0.29597  0.38242  0.15286  1.0000
+  Tl  Tl12      1.0  0.20135  0.11626  0.84380  1.0000
+  Tl  Tl13      1.0  0.64244  0.11626  0.84380  1.0000
+  Tl  Tl14      1.0  0.79599  0.88271  0.15564  1.0000
+  Tl  Tl15      1.0  0.35965  0.88271  0.15564  1.0000
+  Tl  Tl16      1.0  0.83342  0.85298  0.66683  1.0000

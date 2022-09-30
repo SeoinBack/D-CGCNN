@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Cu6Ag16
+_chemical_formula_sum              "Cu6 Ag16"
+_cell_length_a       5.38172
+_cell_length_b       5.0985
+_cell_length_c       14.7601
+_cell_angle_alpha    68.1969
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cu  Cu1       1.0  0.48500  0.90403  0.74163  1.0000
+  Cu  Cu2       1.0  0.51500  0.09597  0.25837  1.0000
+  Cu  Cu3       1.0  0.50000  0.00000  0.00000  1.0000
+  Cu  Cu4       1.0  0.98500  0.09597  0.75837  1.0000
+  Cu  Cu5       1.0  0.01500  0.90403  0.24163  1.0000
+  Cu  Cu6       1.0  0.00000  0.00000  0.50000  1.0000
+  Ag  Ag1       1.0  0.50697  0.66455  0.19827  1.0000
+  Ag  Ag2       1.0  0.74026  0.27164  0.59220  1.0000
+  Ag  Ag3       1.0  0.73779  0.71897  0.90676  1.0000
+  Ag  Ag4       1.0  0.50397  0.23384  0.41206  1.0000
+  Ag  Ag5       1.0  0.99603  0.23384  0.91206  1.0000
+  Ag  Ag6       1.0  0.75974  0.27164  0.09220  1.0000
+  Ag  Ag7       1.0  0.76221  0.71897  0.40676  1.0000
+  Ag  Ag8       1.0  0.99303  0.66455  0.69827  1.0000
+  Ag  Ag9       1.0  0.24026  0.72836  0.90780  1.0000
+  Ag  Ag10      1.0  0.00397  0.76616  0.08794  1.0000
+  Ag  Ag11      1.0  0.23779  0.28103  0.59324  1.0000
+  Ag  Ag12      1.0  0.00697  0.33545  0.30173  1.0000
+  Ag  Ag13      1.0  0.26221  0.28103  0.09324  1.0000
+  Ag  Ag14      1.0  0.49303  0.33545  0.80173  1.0000
+  Ag  Ag15      1.0  0.25974  0.72836  0.40780  1.0000
+  Ag  Ag16      1.0  0.49603  0.76616  0.58794  1.0000

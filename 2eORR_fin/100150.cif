@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Bi4C10
+_chemical_formula_sum              "Bi4 C10"
+_cell_length_a       6.7664
+_cell_length_b       6.7664
+_cell_length_c       8.64346
+_cell_angle_alpha    76.0407
+_cell_angle_beta     76.0407
+_cell_angle_gamma    48.3382
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.39111  0.39111  0.88190  1.0000
+  Bi  Bi2       1.0  0.60889  0.60889  0.11810  1.0000
+  Bi  Bi3       1.0  0.18221  0.18221  0.67717  1.0000
+  Bi  Bi4       1.0  0.81779  0.81779  0.32283  1.0000
+  C   C1        1.0  0.45346  0.98159  0.22024  1.0000
+  C   C2        1.0  0.01841  0.54654  0.77976  1.0000
+  C   C3        1.0  0.54654  0.01841  0.77976  1.0000
+  C   C4        1.0  0.98159  0.45346  0.22024  1.0000
+  C   C5        1.0  0.36202  0.63798  0.50000  1.0000
+  C   C6        1.0  0.63798  0.36202  0.50000  1.0000
+  C   C7        1.0  0.78533  0.78533  0.77740  1.0000
+  C   C8        1.0  0.21467  0.21467  0.22260  1.0000
+  C   C9        1.0  0.51996  0.51996  0.62978  1.0000
+  C   C10       1.0  0.48004  0.48004  0.37022  1.0000

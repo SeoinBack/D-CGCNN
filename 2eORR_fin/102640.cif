@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Hf6I6
+_chemical_formula_sum              "Hf6 I6"
+_cell_length_a       3.8898
+_cell_length_b       3.8898
+_cell_length_c       29.3066
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    91.5377
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hf  Hf1       1.0  0.44529  0.55471  0.16253  1.0000
+  Hf  Hf2       1.0  0.55471  0.44529  0.83747  1.0000
+  Hf  Hf3       1.0  0.55471  0.44529  0.66253  1.0000
+  Hf  Hf4       1.0  0.44529  0.55471  0.33747  1.0000
+  Hf  Hf5       1.0  0.30008  0.69992  0.75000  1.0000
+  Hf  Hf6       1.0  0.69992  0.30008  0.25000  1.0000
+  I   I1        1.0  0.80386  0.19614  0.75000  1.0000
+  I   I2        1.0  0.19614  0.80386  0.25000  1.0000
+  I   I3        1.0  0.07094  0.92906  0.61294  1.0000
+  I   I4        1.0  0.92906  0.07094  0.11294  1.0000
+  I   I5        1.0  0.07094  0.92906  0.88706  1.0000
+  I   I6        1.0  0.92906  0.07094  0.38706  1.0000

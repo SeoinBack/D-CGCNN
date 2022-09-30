@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Tl8Pd6
+_chemical_formula_sum              "Tl8 Pd6"
+_cell_length_a       6.75427
+_cell_length_b       7.27663
+_cell_length_c       11.5147
+_cell_angle_alpha    101.862
+_cell_angle_beta     102.942
+_cell_angle_gamma    96.124
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.85882  0.34607  0.71271  1.0000
+  Tl  Tl2       1.0  0.01728  0.80040  0.59449  1.0000
+  Tl  Tl3       1.0  0.39766  0.15615  0.21582  1.0000
+  Tl  Tl4       1.0  0.72245  0.34828  0.01383  1.0000
+  Tl  Tl5       1.0  0.98272  0.19960  0.40551  1.0000
+  Tl  Tl6       1.0  0.27755  0.65172  0.98617  1.0000
+  Tl  Tl7       1.0  0.14118  0.65393  0.28729  1.0000
+  Tl  Tl8       1.0  0.60234  0.84385  0.78418  1.0000
+  Pd  Pd1       1.0  0.14394  0.09423  0.90609  1.0000
+  Pd  Pd2       1.0  0.35294  0.31582  0.71365  1.0000
+  Pd  Pd3       1.0  0.50000  0.50000  0.50000  1.0000
+  Pd  Pd4       1.0  0.85606  0.90577  0.09391  1.0000
+  Pd  Pd5       1.0  0.50000  0.00000  0.50000  1.0000
+  Pd  Pd6       1.0  0.64706  0.68418  0.28635  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Hg8Cu4
+_chemical_formula_sum              "Hg8 Cu4"
+_cell_length_a       8.97566
+_cell_length_b       4.52935
+_cell_length_c       7.91645
+_cell_angle_alpha    54.0775
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Hg  Hg1       1.0  0.37488  0.26284  0.26318  1.0000
+  Hg  Hg2       1.0  0.62512  0.26284  0.76318  1.0000
+  Hg  Hg3       1.0  0.37548  0.76622  0.76544  1.0000
+  Hg  Hg4       1.0  0.87429  0.26155  0.26168  1.0000
+  Hg  Hg5       1.0  0.62452  0.76622  0.26544  1.0000
+  Hg  Hg6       1.0  0.12571  0.26155  0.76168  1.0000
+  Hg  Hg7       1.0  0.87595  0.76494  0.76518  1.0000
+  Hg  Hg8       1.0  0.12405  0.76494  0.26518  1.0000
+  Cu  Cu1       1.0  0.37452  0.01463  0.01475  1.0000
+  Cu  Cu2       1.0  0.62548  0.01463  0.51475  1.0000
+  Cu  Cu3       1.0  0.87505  0.01312  0.01306  1.0000
+  Cu  Cu4       1.0  0.12495  0.01312  0.51306  1.0000

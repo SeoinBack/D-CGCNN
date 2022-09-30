@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Sb3N4
+_chemical_formula_sum              "Sb3 N4"
+_cell_length_a       7.36839
+_cell_length_b       7.36839
+_cell_length_c       5.5735
+_cell_angle_alpha    60.5836
+_cell_angle_beta     60.5836
+_cell_angle_gamma    24.9764
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.23532  0.23532  0.76680  1.0000
+  Sb  Sb2       1.0  0.76468  0.76468  0.23320  1.0000
+  Sb  Sb3       1.0  0.50000  0.50000  0.50000  1.0000
+  N   N1        1.0  0.83738  0.83738  0.48526  1.0000
+  N   N2        1.0  0.16262  0.16262  0.51474  1.0000
+  N   N3        1.0  0.34345  0.34345  0.94698  1.0000
+  N   N4        1.0  0.65655  0.65655  0.05302  1.0000

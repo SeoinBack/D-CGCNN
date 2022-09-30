@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       Te4Hg2
+_chemical_formula_sum              "Te4 Hg2"
+_cell_length_a       6.47913
+_cell_length_b       6.47913
+_cell_length_c       6.47913
+_cell_angle_alpha    101.397
+_cell_angle_beta     101.397
+_cell_angle_gamma    127.214
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.11933  0.61933  0.73865  1.0000
+  Te  Te2       1.0  0.88067  0.38067  0.26135  1.0000
+  Te  Te3       1.0  0.38067  0.11933  0.50000  1.0000
+  Te  Te4       1.0  0.61933  0.88067  0.50000  1.0000
+  Hg  Hg1       1.0  0.25000  0.25000  0.00000  1.0000
+  Hg  Hg2       1.0  0.75000  0.75000  0.00000  1.0000

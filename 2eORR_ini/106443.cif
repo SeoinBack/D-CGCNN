@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ag8Pd4
+_chemical_formula_sum              "Ag8 Pd4"
+_cell_length_a       8.11366
+_cell_length_b       8.11366
+_cell_length_c       12.952
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    147.407
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.50203  0.49797  0.36027  1.0000
+  Ag  Ag2       1.0  0.99797  0.00203  0.86027  1.0000
+  Ag  Ag3       1.0  0.49797  0.50203  0.63973  1.0000
+  Ag  Ag4       1.0  0.00203  0.99797  0.13973  1.0000
+  Ag  Ag5       1.0  0.82377  0.17623  0.37388  1.0000
+  Ag  Ag6       1.0  0.67623  0.32377  0.87388  1.0000
+  Ag  Ag7       1.0  0.17623  0.82377  0.62612  1.0000
+  Ag  Ag8       1.0  0.32377  0.67623  0.12612  1.0000
+  Pd  Pd1       1.0  0.33242  0.66758  0.89607  1.0000
+  Pd  Pd2       1.0  0.16758  0.83242  0.39607  1.0000
+  Pd  Pd3       1.0  0.66758  0.33242  0.10393  1.0000
+  Pd  Pd4       1.0  0.83242  0.16758  0.60393  1.0000

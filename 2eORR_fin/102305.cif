@@ -1,0 +1,49 @@
+data_image0
+_chemical_formula_structural       Fe8Ag16
+_chemical_formula_sum              "Fe8 Ag16"
+_cell_length_a       4.45968
+_cell_length_b       7.85504
+_cell_length_c       11.2761
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Fe  Fe1       1.0  0.48826  0.80657  0.12334  1.0000
+  Fe  Fe2       1.0  0.01174  0.69343  0.62334  1.0000
+  Fe  Fe3       1.0  0.01174  0.30657  0.87666  1.0000
+  Fe  Fe4       1.0  0.48826  0.19343  0.37666  1.0000
+  Fe  Fe5       1.0  0.51174  0.19343  0.87666  1.0000
+  Fe  Fe6       1.0  0.98826  0.30657  0.37666  1.0000
+  Fe  Fe7       1.0  0.98826  0.69343  0.12334  1.0000
+  Fe  Fe8       1.0  0.51174  0.80657  0.62334  1.0000
+  Ag  Ag1       1.0  0.49452  0.50000  0.25000  1.0000
+  Ag  Ag2       1.0  0.00548  0.00000  0.75000  1.0000
+  Ag  Ag3       1.0  0.50548  0.50000  0.75000  1.0000
+  Ag  Ag4       1.0  0.99452  0.00000  0.25000  1.0000
+  Ag  Ag5       1.0  0.49599  0.85147  0.37364  1.0000
+  Ag  Ag6       1.0  0.00401  0.64853  0.87364  1.0000
+  Ag  Ag7       1.0  0.00401  0.35147  0.62636  1.0000
+  Ag  Ag8       1.0  0.49599  0.14853  0.12636  1.0000
+  Ag  Ag9       1.0  0.50401  0.14853  0.62636  1.0000
+  Ag  Ag10      1.0  0.99599  0.35147  0.12636  1.0000
+  Ag  Ag11      1.0  0.99599  0.64853  0.37364  1.0000
+  Ag  Ag12      1.0  0.50401  0.85147  0.87364  1.0000
+  Ag  Ag13      1.0  0.50000  0.50000  0.00000  1.0000
+  Ag  Ag14      1.0  0.00000  0.00000  0.50000  1.0000
+  Ag  Ag15      1.0  0.00000  0.00000  0.00000  1.0000
+  Ag  Ag16      1.0  0.50000  0.50000  0.50000  1.0000

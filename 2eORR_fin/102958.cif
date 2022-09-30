@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Ir4Br12
+_chemical_formula_sum              "Ir4 Br12"
+_cell_length_a       7.6531
+_cell_length_b       7.6531
+_cell_length_c       8.32306
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    98.5553
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ir  Ir1       1.0  0.68231  0.31769  0.00000  1.0000
+  Ir  Ir2       1.0  0.31769  0.68231  0.00000  1.0000
+  Ir  Ir3       1.0  0.18231  0.81769  0.50000  1.0000
+  Ir  Ir4       1.0  0.81769  0.18231  0.50000  1.0000
+  Br  Br1       1.0  0.62874  0.62874  0.91051  1.0000
+  Br  Br2       1.0  0.12874  0.12874  0.58949  1.0000
+  Br  Br3       1.0  0.87126  0.87126  0.41051  1.0000
+  Br  Br4       1.0  0.38323  0.61677  0.50000  1.0000
+  Br  Br5       1.0  0.10195  0.60195  0.75000  1.0000
+  Br  Br6       1.0  0.88323  0.11677  0.00000  1.0000
+  Br  Br7       1.0  0.89805  0.39805  0.25000  1.0000
+  Br  Br8       1.0  0.37126  0.37126  0.08949  1.0000
+  Br  Br9       1.0  0.61677  0.38323  0.50000  1.0000
+  Br  Br10      1.0  0.11677  0.88323  0.00000  1.0000
+  Br  Br11      1.0  0.39805  0.89805  0.25000  1.0000
+  Br  Br12      1.0  0.60195  0.10195  0.75000  1.0000

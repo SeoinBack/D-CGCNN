@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Tl12Sn4
+_chemical_formula_sum              "Tl12 Sn4"
+_cell_length_a       8.45304
+_cell_length_b       8.45304
+_cell_length_c       8.06998
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Tl  Tl1       1.0  0.50000  0.00000  0.00000  1.0000
+  Tl  Tl2       1.0  0.50000  0.00000  0.50000  1.0000
+  Tl  Tl3       1.0  0.00000  0.50000  0.00000  1.0000
+  Tl  Tl4       1.0  0.00000  0.50000  0.50000  1.0000
+  Tl  Tl5       1.0  0.66765  0.33235  0.74629  1.0000
+  Tl  Tl6       1.0  0.83235  0.83235  0.75371  1.0000
+  Tl  Tl7       1.0  0.16765  0.16765  0.75371  1.0000
+  Tl  Tl8       1.0  0.33235  0.66765  0.74629  1.0000
+  Tl  Tl9       1.0  0.33235  0.66765  0.25371  1.0000
+  Tl  Tl10      1.0  0.66765  0.33235  0.25371  1.0000
+  Tl  Tl11      1.0  0.83235  0.83235  0.24629  1.0000
+  Tl  Tl12      1.0  0.16765  0.16765  0.24629  1.0000
+  Sn  Sn1       1.0  0.86634  0.13366  0.00000  1.0000
+  Sn  Sn2       1.0  0.63366  0.63366  0.50000  1.0000
+  Sn  Sn3       1.0  0.36634  0.36634  0.50000  1.0000
+  Sn  Sn4       1.0  0.13366  0.86634  0.00000  1.0000

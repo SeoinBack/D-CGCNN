@@ -1,0 +1,51 @@
+data_image0
+_chemical_formula_structural       Pd2Hg24
+_chemical_formula_sum              "Pd2 Hg24"
+_cell_length_a       7.7292
+_cell_length_b       7.7292
+_cell_length_c       11.9885
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    80.1349
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.82618  0.82618  0.75000  1.0000
+  Pd  Pd2       1.0  0.17382  0.17382  0.25000  1.0000
+  Hg  Hg1       1.0  0.86460  0.20459  0.11975  1.0000
+  Hg  Hg2       1.0  0.86460  0.20459  0.38025  1.0000
+  Hg  Hg3       1.0  0.48301  0.12763  0.11349  1.0000
+  Hg  Hg4       1.0  0.48301  0.12763  0.38651  1.0000
+  Hg  Hg5       1.0  0.79541  0.13540  0.61975  1.0000
+  Hg  Hg6       1.0  0.79541  0.13540  0.88025  1.0000
+  Hg  Hg7       1.0  0.87237  0.51699  0.61349  1.0000
+  Hg  Hg8       1.0  0.87237  0.51699  0.88651  1.0000
+  Hg  Hg9       1.0  0.20459  0.86460  0.11975  1.0000
+  Hg  Hg10      1.0  0.20459  0.86460  0.38025  1.0000
+  Hg  Hg11      1.0  0.79185  0.79185  0.10828  1.0000
+  Hg  Hg12      1.0  0.79185  0.79185  0.39172  1.0000
+  Hg  Hg13      1.0  0.13540  0.79541  0.61975  1.0000
+  Hg  Hg14      1.0  0.13540  0.79541  0.88025  1.0000
+  Hg  Hg15      1.0  0.20815  0.20815  0.60828  1.0000
+  Hg  Hg16      1.0  0.20815  0.20815  0.89172  1.0000
+  Hg  Hg17      1.0  0.53213  0.53213  0.12443  1.0000
+  Hg  Hg18      1.0  0.53213  0.53213  0.37557  1.0000
+  Hg  Hg19      1.0  0.12763  0.48301  0.11349  1.0000
+  Hg  Hg20      1.0  0.12763  0.48301  0.38651  1.0000
+  Hg  Hg21      1.0  0.46787  0.46787  0.62443  1.0000
+  Hg  Hg22      1.0  0.46787  0.46787  0.87557  1.0000
+  Hg  Hg23      1.0  0.51699  0.87237  0.61349  1.0000
+  Hg  Hg24      1.0  0.51699  0.87237  0.88651  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Co4S12
+_chemical_formula_sum              "Co4 S12"
+_cell_length_a       7.33823
+_cell_length_b       7.33823
+_cell_length_c       7.0277
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    101.446
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.66025  0.33975  0.00000  1.0000
+  Co  Co2       1.0  0.33975  0.66025  0.00000  1.0000
+  Co  Co3       1.0  0.16025  0.83975  0.50000  1.0000
+  Co  Co4       1.0  0.83975  0.16025  0.50000  1.0000
+  S   S1        1.0  0.61032  0.61032  0.06952  1.0000
+  S   S2        1.0  0.11032  0.11032  0.43048  1.0000
+  S   S3        1.0  0.88968  0.88968  0.56952  1.0000
+  S   S4        1.0  0.34467  0.65533  0.50000  1.0000
+  S   S5        1.0  0.86214  0.36214  0.75000  1.0000
+  S   S6        1.0  0.84467  0.15533  0.00000  1.0000
+  S   S7        1.0  0.13786  0.63786  0.25000  1.0000
+  S   S8        1.0  0.38968  0.38968  0.93048  1.0000
+  S   S9        1.0  0.65533  0.34467  0.50000  1.0000
+  S   S10       1.0  0.15533  0.84467  0.00000  1.0000
+  S   S11       1.0  0.63786  0.13786  0.25000  1.0000
+  S   S12       1.0  0.36214  0.86214  0.75000  1.0000

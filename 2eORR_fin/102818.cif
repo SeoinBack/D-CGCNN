@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       In4F18
+_chemical_formula_sum              "In4 F18"
+_cell_length_a       7.862
+_cell_length_b       6.7329
+_cell_length_c       6.78661
+_cell_angle_alpha    83.7058
+_cell_angle_beta     94.214
+_cell_angle_gamma    93.0115
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  In  In1       1.0  0.08869  0.10350  0.16680  1.0000
+  In  In2       1.0  0.91131  0.89650  0.83320  1.0000
+  In  In3       1.0  0.41108  0.33727  0.39163  1.0000
+  In  In4       1.0  0.58892  0.66273  0.60837  1.0000
+  F   F1        1.0  0.93822  0.22053  0.38067  1.0000
+  F   F2        1.0  0.06178  0.77947  0.61933  1.0000
+  F   F3        1.0  0.34132  0.47212  0.65132  1.0000
+  F   F4        1.0  0.65868  0.52788  0.34868  1.0000
+  F   F5        1.0  0.64054  0.74505  0.91294  1.0000
+  F   F6        1.0  0.35946  0.25495  0.08706  1.0000
+  F   F7        1.0  0.91403  0.83462  0.16607  1.0000
+  F   F8        1.0  0.08597  0.16538  0.83393  1.0000
+  F   F9        1.0  0.25713  0.06680  0.42805  1.0000
+  F   F10       1.0  0.74287  0.93320  0.57195  1.0000
+  F   F11       1.0  0.60050  0.33021  0.65200  1.0000
+  F   F12       1.0  0.39950  0.66979  0.34800  1.0000
+  F   F13       1.0  0.16596  0.85536  0.01611  1.0000
+  F   F14       1.0  0.83404  0.14464  0.98389  1.0000
+  F   F15       1.0  0.87293  0.59327  0.74009  1.0000
+  F   F16       1.0  0.12707  0.40673  0.25991  1.0000
+  F   F17       1.0  0.56137  0.13366  0.25609  1.0000
+  F   F18       1.0  0.43863  0.86634  0.74391  1.0000

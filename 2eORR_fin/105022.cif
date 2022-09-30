@@ -1,0 +1,43 @@
+data_image0
+_chemical_formula_structural       Te8C10
+_chemical_formula_sum              "Te8 C10"
+_cell_length_a       11.9022
+_cell_length_b       11.1672
+_cell_length_c       6.05616
+_cell_angle_alpha    81.617
+_cell_angle_beta     68.1585
+_cell_angle_gamma    30.2245
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.86083  0.86083  0.13917  1.0000
+  Te  Te2       1.0  0.13917  0.13917  0.86083  1.0000
+  Te  Te3       1.0  0.75000  0.75000  0.75000  1.0000
+  Te  Te4       1.0  0.92424  0.92424  0.57576  1.0000
+  Te  Te5       1.0  0.07576  0.07576  0.42424  1.0000
+  Te  Te6       1.0  0.42424  0.42424  0.07576  1.0000
+  Te  Te7       1.0  0.57576  0.57576  0.92424  1.0000
+  Te  Te8       1.0  0.25000  0.25000  0.25000  1.0000
+  C   C1        1.0  0.24554  0.75446  0.24554  1.0000
+  C   C2        1.0  0.36787  0.99526  0.00474  1.0000
+  C   C3        1.0  0.36297  0.36297  0.63703  1.0000
+  C   C4        1.0  0.75446  0.24554  0.75446  1.0000
+  C   C5        1.0  0.63703  0.63703  0.36297  1.0000
+  C   C6        1.0  0.00474  0.63213  0.36787  1.0000
+  C   C7        1.0  0.99526  0.36787  0.63213  1.0000
+  C   C8        1.0  0.63213  0.00474  0.99526  1.0000
+  C   C9        1.0  0.30301  0.30301  0.69699  1.0000
+  C   C10       1.0  0.69699  0.69699  0.30301  1.0000

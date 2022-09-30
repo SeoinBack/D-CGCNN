@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       I9Hf13
+_chemical_formula_sum              "I9 Hf13"
+_cell_length_a       10.8184
+_cell_length_b       10.8184
+_cell_length_c       5.92355
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  I   I1        1.0  0.00000  0.00000  0.50000  1.0000
+  I   I2        1.0  0.33333  0.66667  0.98240  1.0000
+  I   I3        1.0  0.66667  0.33333  0.01760  1.0000
+  I   I4        1.0  0.20002  0.79998  0.47812  1.0000
+  I   I5        1.0  0.20002  0.40004  0.47812  1.0000
+  I   I6        1.0  0.59996  0.79998  0.47812  1.0000
+  I   I7        1.0  0.40004  0.20002  0.52188  1.0000
+  I   I8        1.0  0.79998  0.59996  0.52188  1.0000
+  I   I9        1.0  0.79998  0.20002  0.52188  1.0000
+  Hf  Hf1       1.0  0.00000  0.00000  0.00000  1.0000
+  Hf  Hf2       1.0  0.50000  0.00000  0.00000  1.0000
+  Hf  Hf3       1.0  0.00000  0.50000  0.00000  1.0000
+  Hf  Hf4       1.0  0.50000  0.50000  0.00000  1.0000
+  Hf  Hf5       1.0  0.50000  0.00000  0.50000  1.0000
+  Hf  Hf6       1.0  0.00000  0.50000  0.50000  1.0000
+  Hf  Hf7       1.0  0.50000  0.50000  0.50000  1.0000
+  Hf  Hf8       1.0  0.16239  0.83761  0.97581  1.0000
+  Hf  Hf9       1.0  0.16239  0.32478  0.97581  1.0000
+  Hf  Hf10      1.0  0.67522  0.83761  0.97581  1.0000
+  Hf  Hf11      1.0  0.32478  0.16239  0.02419  1.0000
+  Hf  Hf12      1.0  0.83761  0.67522  0.02419  1.0000
+  Hf  Hf13      1.0  0.83761  0.16239  0.02419  1.0000

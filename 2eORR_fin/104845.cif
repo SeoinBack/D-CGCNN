@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       TeAg2
+_chemical_formula_sum              "Te1 Ag2"
+_cell_length_a       5.10587
+_cell_length_b       5.10587
+_cell_length_c       3.9671
+_cell_angle_alpha    67.3143
+_cell_angle_beta     67.3143
+_cell_angle_gamma    46.1424
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.66770  0.33230  0.50000  1.0000
+  Ag  Ag1       1.0  0.33031  0.99801  0.83503  1.0000
+  Ag  Ag2       1.0  0.00199  0.66969  0.16497  1.0000

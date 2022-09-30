@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       N10V6
+_chemical_formula_sum              "N10 V6"
+_cell_length_a       7.55854
+_cell_length_b       5.78055
+_cell_length_c       7.57965
+_cell_angle_alpha    124.236
+_cell_angle_beta     139.842
+_cell_angle_gamma    75.336
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  N   N1        1.0  0.53585  0.76742  0.48008  1.0000
+  N   N2        1.0  0.54236  0.33820  0.65432  1.0000
+  N   N3        1.0  0.40094  0.49431  0.97222  1.0000
+  N   N4        1.0  0.02060  0.99325  0.09377  1.0000
+  N   N5        1.0  0.18346  0.00929  0.50363  1.0000
+  N   N6        1.0  0.00746  0.50956  0.82786  1.0000
+  N   N7        1.0  0.78716  0.26659  0.23202  1.0000
+  N   N8        1.0  0.18426  0.83956  0.79681  1.0000
+  N   N9        1.0  0.06375  0.46742  0.23368  1.0000
+  N   N10       1.0  0.73481  0.96931  0.40524  1.0000
+  V   V1        1.0  0.75758  0.65264  0.43800  1.0000
+  V   V2        1.0  0.71160  0.15149  0.89261  1.0000
+  V   V3        1.0  0.33874  0.88998  0.18166  1.0000
+  V   V4        1.0  0.20546  0.38941  0.54899  1.0000
+  V   V5        1.0  0.10975  0.13140  0.71632  1.0000
+  V   V6        1.0  0.91619  0.63016  0.02278  1.0000

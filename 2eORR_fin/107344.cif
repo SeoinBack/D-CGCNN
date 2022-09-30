@@ -1,0 +1,44 @@
+data_image0
+_chemical_formula_structural       Pd2Tl17
+_chemical_formula_sum              "Pd2 Tl17"
+_cell_length_a       8.66804
+_cell_length_b       8.66804
+_cell_length_c       8.66804
+_cell_angle_alpha    77.8768
+_cell_angle_beta     77.8768
+_cell_angle_gamma    77.8768
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.66887  0.66887  0.66887  1.0000
+  Pd  Pd2       1.0  0.33113  0.33113  0.33113  1.0000
+  Tl  Tl1       1.0  0.00000  0.00000  0.50000  1.0000
+  Tl  Tl2       1.0  0.50000  0.00000  0.00000  1.0000
+  Tl  Tl3       1.0  0.00000  0.50000  0.00000  1.0000
+  Tl  Tl4       1.0  0.68209  0.31791  0.00000  1.0000
+  Tl  Tl5       1.0  1.00000  0.68209  0.31791  1.0000
+  Tl  Tl6       1.0  0.31791  0.00000  0.68209  1.0000
+  Tl  Tl7       1.0  0.00000  0.31791  0.68209  1.0000
+  Tl  Tl8       1.0  0.68209  1.00000  0.31791  1.0000
+  Tl  Tl9       1.0  0.31791  0.68209  0.00000  1.0000
+  Tl  Tl10      1.0  0.36742  0.36742  0.84218  1.0000
+  Tl  Tl11      1.0  0.84218  0.36742  0.36742  1.0000
+  Tl  Tl12      1.0  0.36742  0.84218  0.36742  1.0000
+  Tl  Tl13      1.0  0.63258  0.63258  0.15782  1.0000
+  Tl  Tl14      1.0  0.15782  0.63258  0.63258  1.0000
+  Tl  Tl15      1.0  0.63258  0.15782  0.63258  1.0000
+  Tl  Tl16      1.0  0.89398  0.89398  0.89398  1.0000
+  Tl  Tl17      1.0  0.10602  0.10602  0.10602  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Sn10Tl6
+_chemical_formula_sum              "Sn10 Tl6"
+_cell_length_a       9.38471
+_cell_length_b       9.38471
+_cell_length_c       9.38471
+_cell_angle_alpha    96.4817
+_cell_angle_beta     96.4817
+_cell_angle_gamma    140.735
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sn  Sn1       1.0  0.54932  0.23297  0.78229  1.0000
+  Sn  Sn2       1.0  0.45068  0.76703  0.21771  1.0000
+  Sn  Sn3       1.0  0.76703  0.54932  0.31635  1.0000
+  Sn  Sn4       1.0  0.23297  0.45068  0.68365  1.0000
+  Sn  Sn5       1.0  0.95068  0.73297  0.68365  1.0000
+  Sn  Sn6       1.0  0.26703  0.95068  0.21771  1.0000
+  Sn  Sn7       1.0  0.25000  0.75000  0.50000  1.0000
+  Sn  Sn8       1.0  0.75000  0.25000  0.50000  1.0000
+  Sn  Sn9       1.0  0.04932  0.26703  0.31635  1.0000
+  Sn  Sn10      1.0  0.73297  0.04932  0.78229  1.0000
+  Tl  Tl1       1.0  0.80074  0.30074  0.10148  1.0000
+  Tl  Tl2       1.0  0.69926  0.80074  0.50000  1.0000
+  Tl  Tl3       1.0  0.30074  0.19926  0.50000  1.0000
+  Tl  Tl4       1.0  0.19926  0.69926  0.89852  1.0000
+  Tl  Tl5       1.0  0.75000  0.75000  0.00000  1.0000
+  Tl  Tl6       1.0  0.25000  0.25000  0.00000  1.0000

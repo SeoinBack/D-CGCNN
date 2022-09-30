@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Au8Zn4
+_chemical_formula_sum              "Au8 Zn4"
+_cell_length_a       8.95817
+_cell_length_b       3.45885
+_cell_length_c       7.99138
+_cell_angle_alpha    64.3857
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Au  Au1       1.0  0.37519  0.22069  0.30647  1.0000
+  Au  Au2       1.0  0.62481  0.22069  0.80647  1.0000
+  Au  Au3       1.0  0.37500  0.80620  0.72056  1.0000
+  Au  Au4       1.0  0.87505  0.22158  0.30707  1.0000
+  Au  Au5       1.0  0.62500  0.80620  0.22056  1.0000
+  Au  Au6       1.0  0.12495  0.22158  0.80707  1.0000
+  Au  Au7       1.0  0.87540  0.80702  0.72136  1.0000
+  Au  Au8       1.0  0.12460  0.80702  0.22136  1.0000
+  Zn  Zn1       1.0  0.37451  0.01291  0.01379  1.0000
+  Zn  Zn2       1.0  0.62549  0.01291  0.51379  1.0000
+  Zn  Zn3       1.0  0.87458  0.01491  0.01404  1.0000
+  Zn  Zn4       1.0  0.12542  0.01491  0.51404  1.0000

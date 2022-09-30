@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       ZnSe2
+_chemical_formula_sum              "Zn1 Se2"
+_cell_length_a       4.15175
+_cell_length_b       4.15175
+_cell_length_c       5.37839
+_cell_angle_alpha    69.5327
+_cell_angle_beta     69.5327
+_cell_angle_gamma    55.9228
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.66711  0.33289  0.50000  1.0000
+  Se  Se1       1.0  0.26731  0.93442  0.75657  1.0000
+  Se  Se2       1.0  0.06558  0.73269  0.24343  1.0000

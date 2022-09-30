@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Cd2Cl10
+_chemical_formula_sum              "Cd2 Cl10"
+_cell_length_a       8.51922
+_cell_length_b       8.51922
+_cell_length_c       7.28502
+_cell_angle_alpha    92.1091
+_cell_angle_beta     92.1091
+_cell_angle_gamma    125.772
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.05889  0.98512  0.25417  1.0000
+  Cd  Cd2       1.0  0.01488  0.94111  0.74583  1.0000
+  Cl  Cl1       1.0  0.92109  0.07891  0.50000  1.0000
+  Cl  Cl2       1.0  0.15315  0.84685  0.50000  1.0000
+  Cl  Cl3       1.0  0.45338  0.87209  0.15228  1.0000
+  Cl  Cl4       1.0  0.12791  0.54662  0.84772  1.0000
+  Cl  Cl5       1.0  0.63545  0.15688  0.21793  1.0000
+  Cl  Cl6       1.0  0.84312  0.36455  0.78207  1.0000
+  Cl  Cl7       1.0  0.45436  0.45579  0.36644  1.0000
+  Cl  Cl8       1.0  0.54421  0.54564  0.63356  1.0000
+  Cl  Cl9       1.0  0.25949  0.19194  0.00125  1.0000
+  Cl  Cl10      1.0  0.80806  0.74051  0.99875  1.0000

@@ -1,0 +1,49 @@
+data_image0
+_chemical_formula_structural       Pd6Hg18
+_chemical_formula_sum              "Pd6 Hg18"
+_cell_length_a       9.94802
+_cell_length_b       9.94802
+_cell_length_c       9.85504
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pd  Pd1       1.0  0.32623  0.32623  0.00000  1.0000
+  Pd  Pd2       1.0  0.00000  0.32623  0.50000  1.0000
+  Pd  Pd3       1.0  0.32623  0.00000  0.50000  1.0000
+  Pd  Pd4       1.0  0.67377  0.00000  0.00000  1.0000
+  Pd  Pd5       1.0  0.00000  0.67377  0.00000  1.0000
+  Pd  Pd6       1.0  0.67377  0.67377  0.50000  1.0000
+  Hg  Hg1       1.0  0.34621  0.00534  0.16719  1.0000
+  Hg  Hg2       1.0  0.34087  0.34621  0.66719  1.0000
+  Hg  Hg3       1.0  0.00534  0.65913  0.66719  1.0000
+  Hg  Hg4       1.0  0.99466  0.34087  0.16719  1.0000
+  Hg  Hg5       1.0  0.65913  0.65379  0.16719  1.0000
+  Hg  Hg6       1.0  0.34087  0.99466  0.83281  1.0000
+  Hg  Hg7       1.0  0.65379  0.65913  0.83281  1.0000
+  Hg  Hg8       1.0  0.65379  0.99466  0.66719  1.0000
+  Hg  Hg9       1.0  0.00534  0.34621  0.83281  1.0000
+  Hg  Hg10      1.0  0.99466  0.65379  0.33281  1.0000
+  Hg  Hg11      1.0  0.65913  0.00534  0.33281  1.0000
+  Hg  Hg12      1.0  0.34621  0.34087  0.33281  1.0000
+  Hg  Hg13      1.0  0.33333  0.66667  0.01245  1.0000
+  Hg  Hg14      1.0  0.66667  0.33333  0.51245  1.0000
+  Hg  Hg15      1.0  0.66667  0.33333  0.98755  1.0000
+  Hg  Hg16      1.0  0.33333  0.66667  0.48755  1.0000
+  Hg  Hg17      1.0  0.00000  0.00000  0.25000  1.0000
+  Hg  Hg18      1.0  0.00000  0.00000  0.75000  1.0000

@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Mn4Br12
+_chemical_formula_sum              "Mn4 Br12"
+_cell_length_a       8.13411
+_cell_length_b       8.13411
+_cell_length_c       10.6301
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    94.6859
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Mn  Mn1       1.0  0.64146  0.35854  0.00000  1.0000
+  Mn  Mn2       1.0  0.35854  0.64146  0.00000  1.0000
+  Mn  Mn3       1.0  0.14146  0.85854  0.50000  1.0000
+  Mn  Mn4       1.0  0.85854  0.14146  0.50000  1.0000
+  Br  Br1       1.0  0.66902  0.66902  0.01510  1.0000
+  Br  Br2       1.0  0.16902  0.16902  0.48490  1.0000
+  Br  Br3       1.0  0.83098  0.83098  0.51510  1.0000
+  Br  Br4       1.0  0.34507  0.65493  0.50000  1.0000
+  Br  Br5       1.0  0.76231  0.26231  0.75000  1.0000
+  Br  Br6       1.0  0.84507  0.15493  0.00000  1.0000
+  Br  Br7       1.0  0.23769  0.73769  0.25000  1.0000
+  Br  Br8       1.0  0.33098  0.33098  0.98490  1.0000
+  Br  Br9       1.0  0.65493  0.34507  0.50000  1.0000
+  Br  Br10      1.0  0.15493  0.84507  0.00000  1.0000
+  Br  Br11      1.0  0.73769  0.23769  0.25000  1.0000
+  Br  Br12      1.0  0.26231  0.76231  0.75000  1.0000

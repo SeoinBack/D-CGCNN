@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Sb9I5
+_chemical_formula_sum              "Sb9 I5"
+_cell_length_a       12.5402
+_cell_length_b       12.5402
+_cell_length_c       13.7231
+_cell_angle_alpha    34.7219
+_cell_angle_beta     34.7219
+_cell_angle_gamma    34.38
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.49898  0.21323  0.38163  1.0000
+  Sb  Sb2       1.0  0.78677  0.50102  0.61837  1.0000
+  Sb  Sb3       1.0  0.43215  0.87776  0.13638  1.0000
+  Sb  Sb4       1.0  0.09967  0.59213  0.40662  1.0000
+  Sb  Sb5       1.0  0.40787  0.90033  0.59338  1.0000
+  Sb  Sb6       1.0  0.72258  0.27742  0.50000  1.0000
+  Sb  Sb7       1.0  0.12224  0.56785  0.86362  1.0000
+  Sb  Sb8       1.0  0.00666  0.23401  0.15855  1.0000
+  Sb  Sb9       1.0  0.76599  0.99334  0.84145  1.0000
+  I   I1        1.0  0.96741  0.43834  0.33165  1.0000
+  I   I2        1.0  0.28711  0.71289  0.00000  1.0000
+  I   I3        1.0  0.56166  0.03259  0.66835  1.0000
+  I   I4        1.0  0.11513  0.59223  0.64391  1.0000
+  I   I5        1.0  0.40777  0.88487  0.35609  1.0000

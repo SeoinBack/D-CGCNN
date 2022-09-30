@@ -1,0 +1,32 @@
+data_image0
+_chemical_formula_structural       Cd3Au4
+_chemical_formula_sum              "Cd3 Au4"
+_cell_length_a       7.0074
+_cell_length_b       7.0074
+_cell_length_c       8.12275
+_cell_angle_alpha    57.1099
+_cell_angle_beta     57.1099
+_cell_angle_gamma    26.2879
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Cd  Cd1       1.0  0.23595  0.23595  0.83067  1.0000
+  Cd  Cd2       1.0  0.76405  0.76405  0.16933  1.0000
+  Cd  Cd3       1.0  0.50000  0.50000  0.50000  1.0000
+  Au  Au1       1.0  0.84963  0.84963  0.44216  1.0000
+  Au  Au2       1.0  0.15037  0.15037  0.55784  1.0000
+  Au  Au3       1.0  0.45459  0.45459  0.88069  1.0000
+  Au  Au4       1.0  0.54541  0.54541  0.11931  1.0000

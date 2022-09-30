@@ -1,0 +1,39 @@
+data_image0
+_chemical_formula_structural       Zn9S5
+_chemical_formula_sum              "Zn9 S5"
+_cell_length_a       6.4545
+_cell_length_b       6.4545
+_cell_length_c       9.87907
+_cell_angle_alpha    68.6888
+_cell_angle_beta     68.6888
+_cell_angle_gamma    51.1359
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.37895  0.33106  0.25305  1.0000
+  Zn  Zn2       1.0  0.66894  0.62105  0.74695  1.0000
+  Zn  Zn3       1.0  0.60282  0.77175  0.04524  1.0000
+  Zn  Zn4       1.0  0.91242  0.67899  0.32675  1.0000
+  Zn  Zn5       1.0  0.32101  0.08758  0.67325  1.0000
+  Zn  Zn6       1.0  0.52821  0.47179  0.50000  1.0000
+  Zn  Zn7       1.0  0.22825  0.39718  0.95476  1.0000
+  Zn  Zn8       1.0  0.03479  0.24561  0.19728  1.0000
+  Zn  Zn9       1.0  0.75439  0.96521  0.80272  1.0000
+  S   S1        1.0  0.88157  0.24972  0.63772  1.0000
+  S   S2        1.0  0.47122  0.52878  0.00000  1.0000
+  S   S3        1.0  0.75028  0.11843  0.36228  1.0000
+  S   S4        1.0  0.17124  0.52207  0.70411  1.0000
+  S   S5        1.0  0.47793  0.82876  0.29589  1.0000

@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ga4Tl8
+_chemical_formula_sum              "Ga4 Tl8"
+_cell_length_a       10.1362
+_cell_length_b       10.1362
+_cell_length_c       12.447
+_cell_angle_alpha    46.5122
+_cell_angle_beta     46.5122
+_cell_angle_gamma    21.9625
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ga  Ga1       1.0  0.73072  0.73072  0.83798  1.0000
+  Ga  Ga2       1.0  0.26928  0.26928  0.16202  1.0000
+  Ga  Ga3       1.0  0.42747  0.42747  0.30553  1.0000
+  Ga  Ga4       1.0  0.57253  0.57253  0.69447  1.0000
+  Tl  Tl1       1.0  0.05823  0.05823  0.04938  1.0000
+  Tl  Tl2       1.0  0.94177  0.94177  0.95062  1.0000
+  Tl  Tl3       1.0  0.91905  0.91905  0.50031  1.0000
+  Tl  Tl4       1.0  0.08095  0.08095  0.49969  1.0000
+  Tl  Tl5       1.0  0.63686  0.63686  0.18733  1.0000
+  Tl  Tl6       1.0  0.36314  0.36314  0.81267  1.0000
+  Tl  Tl7       1.0  0.21189  0.21189  0.65870  1.0000
+  Tl  Tl8       1.0  0.78811  0.78811  0.34130  1.0000

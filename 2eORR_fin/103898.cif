@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       SbI4
+_chemical_formula_sum              "Sb1 I4"
+_cell_length_a       9.63651
+_cell_length_b       9.63651
+_cell_length_c       9.63651
+_cell_angle_alpha    91.9568
+_cell_angle_beta     91.9568
+_cell_angle_gamma    158.703
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.00000  0.00000  0.00000  1.0000
+  I   I1        1.0  0.51959  0.69992  0.21951  1.0000
+  I   I2        1.0  0.48041  0.30008  0.78049  1.0000
+  I   I3        1.0  0.30008  0.51959  0.81967  1.0000
+  I   I4        1.0  0.69992  0.48041  0.18033  1.0000

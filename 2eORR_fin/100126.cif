@@ -1,0 +1,41 @@
+data_image0
+_chemical_formula_structural       Bi4Br12
+_chemical_formula_sum              "Bi4 Br12"
+_cell_length_a       8.64781
+_cell_length_b       8.64781
+_cell_length_c       6.7305
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    108.783
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Bi  Bi1       1.0  0.66097  0.33903  0.00000  1.0000
+  Bi  Bi2       1.0  0.33903  0.66097  0.00000  1.0000
+  Bi  Bi3       1.0  0.16097  0.83903  0.50000  1.0000
+  Bi  Bi4       1.0  0.83903  0.16097  0.50000  1.0000
+  Br  Br1       1.0  0.67637  0.67637  0.01719  1.0000
+  Br  Br2       1.0  0.17637  0.17637  0.48281  1.0000
+  Br  Br3       1.0  0.82363  0.82363  0.51719  1.0000
+  Br  Br4       1.0  0.37261  0.62739  0.50000  1.0000
+  Br  Br5       1.0  0.99866  0.49866  0.75000  1.0000
+  Br  Br6       1.0  0.87261  0.12739  0.00000  1.0000
+  Br  Br7       1.0  0.00134  0.50134  0.25000  1.0000
+  Br  Br8       1.0  0.32363  0.32363  0.98281  1.0000
+  Br  Br9       1.0  0.62739  0.37261  0.50000  1.0000
+  Br  Br10      1.0  0.12739  0.87261  0.00000  1.0000
+  Br  Br11      1.0  0.50134  0.00134  0.25000  1.0000
+  Br  Br12      1.0  0.49866  0.99866  0.75000  1.0000

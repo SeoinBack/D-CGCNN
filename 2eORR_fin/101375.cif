@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Co4Au16
+_chemical_formula_sum              "Co4 Au16"
+_cell_length_a       4.78003
+_cell_length_b       5.06274
+_cell_length_c       14.0677
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Co  Co1       1.0  0.25000  0.66616  0.89845  1.0000
+  Co  Co2       1.0  0.25000  0.16616  0.60155  1.0000
+  Co  Co3       1.0  0.75000  0.83384  0.39845  1.0000
+  Co  Co4       1.0  0.75000  0.33384  0.10155  1.0000
+  Au  Au1       1.0  0.25000  0.15862  0.99624  1.0000
+  Au  Au2       1.0  0.25000  0.16012  0.19571  1.0000
+  Au  Au3       1.0  0.25000  0.14397  0.40596  1.0000
+  Au  Au4       1.0  0.75000  0.33988  0.69571  1.0000
+  Au  Au5       1.0  0.75000  0.34138  0.49624  1.0000
+  Au  Au6       1.0  0.25000  0.65862  0.50376  1.0000
+  Au  Au7       1.0  0.75000  0.85603  0.59404  1.0000
+  Au  Au8       1.0  0.25000  0.64397  0.09404  1.0000
+  Au  Au9       1.0  0.75000  0.83125  0.20246  1.0000
+  Au  Au10      1.0  0.25000  0.16875  0.79754  1.0000
+  Au  Au11      1.0  0.75000  0.83988  0.80429  1.0000
+  Au  Au12      1.0  0.75000  0.35603  0.90596  1.0000
+  Au  Au13      1.0  0.25000  0.66012  0.30429  1.0000
+  Au  Au14      1.0  0.25000  0.66875  0.70246  1.0000
+  Au  Au15      1.0  0.75000  0.84138  0.00376  1.0000
+  Au  Au16      1.0  0.75000  0.33125  0.29754  1.0000

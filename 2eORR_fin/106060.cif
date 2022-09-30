@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Zn4Hg8
+_chemical_formula_sum              "Zn4 Hg8"
+_cell_length_a       9.97656
+_cell_length_b       9.97656
+_cell_length_c       12.0194
+_cell_angle_alpha    42.3281
+_cell_angle_beta     42.3281
+_cell_angle_gamma    20.9301
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Zn  Zn1       1.0  0.72628  0.72628  0.84928  1.0000
+  Zn  Zn2       1.0  0.27372  0.27372  0.15072  1.0000
+  Zn  Zn3       1.0  0.40136  0.40136  0.33373  1.0000
+  Zn  Zn4       1.0  0.59864  0.59864  0.66627  1.0000
+  Hg  Hg1       1.0  0.05279  0.05279  0.07135  1.0000
+  Hg  Hg2       1.0  0.94721  0.94721  0.92865  1.0000
+  Hg  Hg3       1.0  0.92573  0.92573  0.49130  1.0000
+  Hg  Hg4       1.0  0.07427  0.07427  0.50870  1.0000
+  Hg  Hg5       1.0  0.64162  0.64162  0.18912  1.0000
+  Hg  Hg6       1.0  0.35838  0.35838  0.81088  1.0000
+  Hg  Hg7       1.0  0.20744  0.20744  0.67993  1.0000
+  Hg  Hg8       1.0  0.79256  0.79256  0.32007  1.0000

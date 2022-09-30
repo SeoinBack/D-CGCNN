@@ -1,0 +1,45 @@
+data_image0
+_chemical_formula_structural       Rh4Tl16
+_chemical_formula_sum              "Rh4 Tl16"
+_cell_length_a       3.99974
+_cell_length_b       7.95339
+_cell_length_c       16.9636
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Rh  Rh1       1.0  0.25000  0.77499  0.91704  1.0000
+  Rh  Rh2       1.0  0.25000  0.27499  0.58296  1.0000
+  Rh  Rh3       1.0  0.75000  0.72501  0.41704  1.0000
+  Rh  Rh4       1.0  0.75000  0.22501  0.08296  1.0000
+  Tl  Tl1       1.0  0.25000  0.17119  0.96704  1.0000
+  Tl  Tl2       1.0  0.25000  0.02771  0.15697  1.0000
+  Tl  Tl3       1.0  0.25000  0.99700  0.40066  1.0000
+  Tl  Tl4       1.0  0.75000  0.47229  0.65697  1.0000
+  Tl  Tl5       1.0  0.75000  0.32881  0.46704  1.0000
+  Tl  Tl6       1.0  0.25000  0.67119  0.53296  1.0000
+  Tl  Tl7       1.0  0.75000  0.00300  0.59934  1.0000
+  Tl  Tl8       1.0  0.25000  0.49700  0.09934  1.0000
+  Tl  Tl9       1.0  0.75000  0.77940  0.24666  1.0000
+  Tl  Tl10      1.0  0.25000  0.22060  0.75334  1.0000
+  Tl  Tl11      1.0  0.75000  0.97229  0.84303  1.0000
+  Tl  Tl12      1.0  0.75000  0.50300  0.90066  1.0000
+  Tl  Tl13      1.0  0.25000  0.52771  0.34303  1.0000
+  Tl  Tl14      1.0  0.25000  0.72060  0.74666  1.0000
+  Tl  Tl15      1.0  0.75000  0.82881  0.03296  1.0000
+  Tl  Tl16      1.0  0.75000  0.27940  0.25334  1.0000

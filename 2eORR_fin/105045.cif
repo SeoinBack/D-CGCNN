@@ -1,0 +1,51 @@
+data_image0
+_chemical_formula_structural       Te6Cl20
+_chemical_formula_sum              "Te6 Cl20"
+_cell_length_a       17.3891
+_cell_length_b       17.3891
+_cell_length_c       3.66274
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    120
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Te  Te1       1.0  0.61407  0.74294  0.25000  1.0000
+  Te  Te2       1.0  0.25706  0.87112  0.25000  1.0000
+  Te  Te3       1.0  0.12888  0.38593  0.25000  1.0000
+  Te  Te4       1.0  0.38593  0.25706  0.75000  1.0000
+  Te  Te5       1.0  0.74294  0.12888  0.75000  1.0000
+  Te  Te6       1.0  0.87112  0.61407  0.75000  1.0000
+  Cl  Cl1       1.0  0.85013  0.11407  0.25000  1.0000
+  Cl  Cl2       1.0  0.88593  0.73607  0.25000  1.0000
+  Cl  Cl3       1.0  0.26393  0.14987  0.25000  1.0000
+  Cl  Cl4       1.0  0.14987  0.88593  0.75000  1.0000
+  Cl  Cl5       1.0  0.11407  0.26393  0.75000  1.0000
+  Cl  Cl6       1.0  0.73607  0.85013  0.75000  1.0000
+  Cl  Cl7       1.0  0.62715  0.00051  0.25000  1.0000
+  Cl  Cl8       1.0  0.99949  0.62664  0.25000  1.0000
+  Cl  Cl9       1.0  0.37336  0.37285  0.25000  1.0000
+  Cl  Cl10      1.0  0.37285  0.99949  0.75000  1.0000
+  Cl  Cl11      1.0  0.00051  0.37336  0.75000  1.0000
+  Cl  Cl12      1.0  0.62664  0.62715  0.75000  1.0000
+  Cl  Cl13      1.0  0.71916  0.22394  0.25000  1.0000
+  Cl  Cl14      1.0  0.77606  0.49521  0.25000  1.0000
+  Cl  Cl15      1.0  0.50479  0.28084  0.25000  1.0000
+  Cl  Cl16      1.0  0.28084  0.77606  0.75000  1.0000
+  Cl  Cl17      1.0  0.22394  0.50479  0.75000  1.0000
+  Cl  Cl18      1.0  0.49521  0.71916  0.75000  1.0000
+  Cl  Cl19      1.0  0.66667  0.33333  0.75000  1.0000
+  Cl  Cl20      1.0  0.33333  0.66667  0.25000  1.0000

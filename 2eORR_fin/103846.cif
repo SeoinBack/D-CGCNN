@@ -1,0 +1,30 @@
+data_image0
+_chemical_formula_structural       Sb2Hg3
+_chemical_formula_sum              "Sb2 Hg3"
+_cell_length_a       8.62411
+_cell_length_b       8.62411
+_cell_length_c       8.62411
+_cell_angle_alpha    29.6047
+_cell_angle_beta     29.6047
+_cell_angle_gamma    29.6047
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Sb  Sb1       1.0  0.60177  0.60177  0.60177  1.0000
+  Sb  Sb2       1.0  0.39823  0.39823  0.39823  1.0000
+  Hg  Hg1       1.0  0.00000  0.00000  0.00000  1.0000
+  Hg  Hg2       1.0  0.20080  0.20080  0.20080  1.0000
+  Hg  Hg3       1.0  0.79920  0.79920  0.79920  1.0000

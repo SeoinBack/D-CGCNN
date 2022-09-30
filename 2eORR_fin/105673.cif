@@ -1,0 +1,47 @@
+data_image0
+_chemical_formula_structural       Ti6Br16
+_chemical_formula_sum              "Ti6 Br16"
+_cell_length_a       6.61699
+_cell_length_b       6.73468
+_cell_length_c       14.4097
+_cell_angle_alpha    70.3958
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ti  Ti1       1.0  0.46043  0.75969  0.74983  1.0000
+  Ti  Ti2       1.0  0.53957  0.24031  0.25017  1.0000
+  Ti  Ti3       1.0  0.50000  0.00000  0.00000  1.0000
+  Ti  Ti4       1.0  0.96043  0.24031  0.75017  1.0000
+  Ti  Ti5       1.0  0.03957  0.75969  0.24983  1.0000
+  Ti  Ti6       1.0  0.00000  0.00000  0.50000  1.0000
+  Br  Br1       1.0  0.69497  0.63986  0.17887  1.0000
+  Br  Br2       1.0  0.62505  0.12793  0.68710  1.0000
+  Br  Br3       1.0  0.60841  0.72460  0.91890  1.0000
+  Br  Br4       1.0  0.68283  0.21119  0.42271  1.0000
+  Br  Br5       1.0  0.81717  0.21119  0.92271  1.0000
+  Br  Br6       1.0  0.87495  0.12793  0.18710  1.0000
+  Br  Br7       1.0  0.89159  0.72460  0.41890  1.0000
+  Br  Br8       1.0  0.80503  0.63986  0.67887  1.0000
+  Br  Br9       1.0  0.12505  0.87207  0.81290  1.0000
+  Br  Br10      1.0  0.18283  0.78881  0.07729  1.0000
+  Br  Br11      1.0  0.10841  0.27540  0.58110  1.0000
+  Br  Br12      1.0  0.19497  0.36014  0.32113  1.0000
+  Br  Br13      1.0  0.39159  0.27540  0.08110  1.0000
+  Br  Br14      1.0  0.30503  0.36014  0.82113  1.0000
+  Br  Br15      1.0  0.37495  0.87207  0.31290  1.0000
+  Br  Br16      1.0  0.31717  0.78881  0.57729  1.0000
