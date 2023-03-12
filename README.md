@@ -1,8 +1,8 @@
-# D-CGCNN : Direction-based Crystal Graph Convolutional Neural Netwokr
+# D-CGCNN : Direction-based Crystal Graph Convolutional Neural Network
 
-The D-CGCNN is a CGCNN (xie et al) based python code with direction-based crystal graph representation. 
+D-CGCNN is a CGCNN (xie et al) based python code with direction-based crystal graph representation. D-CGCNN is intended to predict formation energies of relaxed structures using unrelaxed structures as inputs, where unrelaxed structures can be generated via a simple elemental substitution or generative models.
 
-The model.py is dropout-added graph convolutional neural network modified from original CGCNN by Juwhan Noh.  
+model.py is dropout-added graph convolutional neural network, modified version of the original CGCNN by Dr. Juwhan Noh, currently at KRICT.  
 
 For more details, check out this paper (https://pubs.acs.org/doi/pdf/10.1021/acs.chemmater.2c02498).
 
